@@ -312,7 +312,7 @@ Example:
 
  `"0d368c7b-f941-49f5-8510-614a8ce74c78"`
 
-<a name="datatype:link"/>
+<a name="datatype:link
 ### Link
 
 Links can either be URLs to a resource on the internet or relative link to a file
