@@ -48,11 +48,12 @@ Springpad objects have in common.
 
 | Name | Type | Optional | Description |
 |------|------|:--------:|-------------|
-|uuid|[ID](datatype:id)| |A unique ID|
+|uuid|[ID](#datatype:id)| |A unique ID|
 |name|String| |Name or title of the object|
 |type|[Type](#datatype:type)| |Type of the object|
 |public|Boolean| |Is this public or not?|
 |liked|Boolean| |Did the user mark this liked?|
+|rating|Integer| ✓ |Rating of the object (0-5)|
 |complete|Boolean| |Springpad objects can be marked complete (e.g., is the task done? has the movie been watched?)|
 |tags|Array of Strings| |List of tags|
 |notebooks|Array of [IDs](datatype:id)| |List of notebook IDs that this object is in. The notebooks are defined in export.json file as well.|
@@ -89,8 +90,8 @@ The rest of the document examines properties available for each Springpad object
 |------|------|:--------:|-------------|
 |date|[Date](#datatype:date)| ✓ |Due date|
 |allDay|Boolean| ✓ |Is the appointment all day|
-|addresses|List of [Addresses](#datatype:address)| ✓ |Addresses|
-|frequency|[Frequency](#datatype:frequency)| ✓ |Frequency of repeating|
+|addresses|Map of address name to address| ✓ |Addresses|
+|repeats|[Frequency](#datatype:frequency)| ✓ |Frequency of repeating|
 
 
 <a name="type:reminder"/>
@@ -100,6 +101,7 @@ The rest of the document examines properties available for each Springpad object
 |------|------|:--------:|-------------|
 |notes|String| ✓ ||
 |date|[Date](#datatype:date)| ✓ |Reminder date|
+|repeats|[Frequency](#datatype:frequency)| ✓ |Frequency of repeating|
 
 <a name="type:bookmark"/>
 ### Bookmark
@@ -270,9 +272,161 @@ A business or restaurant.
 ## Property Types
 
 <a name="datatype:type"/>
+### Type
+
+A JSON string defining the type of an object.
+
+It will be one of:
+- Note
+- Task
+- Appointment
+- Reminder
+- Bookmark
+- Checklist
+- Contact
+- File
+- Photo
+- Audio
+- Place
+- Product
+- Book
+- TV Show
+- Movie
+- Wine
+- Album
+- Musician/Band
+- Recipe
+- Notebook
+- Frequency
+
+Example:
+
+`"Note"`.
+
 <a name="datatype:id"/>
+### ID
+
+Springpad uses UUID strings to uniquely identify objects.
+
+Example:
+
+ `"0d368c7b-f941-49f5-8510-614a8ce74c78"`
+
 <a name="datatype:link"/>
+### Link
+
+Links can either be URLs to a resource on the internet or relative link to a file
+in the attachments directory of the export.
+
+Examples:
+
+- `"http://example.com/img.gif"`
+- `"attachments/MV5BMjA3NzMyMzU1MV5BMl5BanBnXkFtZTcwNjc1ODUwMg@@._V1._SY317_CR17,0,214,317_.jpg"`
+
 <a name="datatype:date"/>
-<a name="datatype:address"/>
+### Date
+
+Dates are [ISO-8601](http://en.wikipedia.org/wiki/ISO_8601)-formatted and include time and timezone.
+
+Example:
+
+`"2014-03-13T17:03:34+0000"`
+
 <a name="datatype:checklistitem"/>
+### ChecklistItem
+
+ChecklistItems are JSON objects containing with a boolean `complete` property and
+a string `name` property.
+
+Examples:
+
+- `{"complete": true, "name": "walk the dog"}`
+- `{"complete": false, "name": "take out the trash"}`
+
 <a name="datatype:frequency"/>
+### Frequency
+
+Frequencies are JSON objects that convey how frequently and if an event or alarm repeats. A description of each property is below but the examples below that probably provide the best way to understand these objects.
+
+A frequency object may contain the following the properties:
+
+- `type` this will always be equal to `Frequency` and all Frequency objects have it
+- `text` this is an English-language explanation of the frequency of the event and all Frequency objects have it
+- `repeats` this is the type of frequency: `Never`, `Daily`, `Weekdays`, `Weekly`, `Monthly By Day Of Month`, `Monthly By Day Of Week`, `Yearly`
+- `repeat every` used for daily, weekly, monthly, and year frequencies this means repeat every **n** days/weeks/months/years where **n** is the value of `repeat every`
+- `on days` used for weekly frequencies this is a JSON object with properties: `mon`, `tue`, `wed`, `thu`, `fri`, `sat`, `sun` mapping to booleans that if true mean it should repeat on that day
+
+Examples:
+
+```json
+{
+    "text":"every 6 days",
+    "repeat every":6,
+    "repeats":"Daily",
+    "type":"Frequency"
+}
+```
+
+```json
+{
+    "text":"every 4 months on the day of week",
+    "repeat every":4,
+    "repeats":"Monthly By Day Of Week",
+    "type":"Frequency"
+}```
+
+```json
+{
+    "text":"every month on the day",
+    "repeat every":1,
+    "repeats":"Monthly By Day Of Month",
+    "type":"Frequency"
+}```
+
+```json
+{
+    "text":"every 2 weeks on mon and wed",
+    "repeat every":2,
+    "repeats":"Weekly",
+    "on days":
+      {
+      "mon":true,
+      "tue":false,
+      "wed":true,
+      "thu":false,
+      "fri":false,
+      "sat":false,
+      "sun":false
+      },
+    "type":"Frequency"
+}```
+
+```json
+{
+    "text":"weekdays",
+    "repeats":"Weekdays",
+    "type":"Frequency"
+}```
+
+```json
+{
+    "text":"never",
+    "repeats":"Never",
+    "type":"Frequency"
+}```
+
+```json
+{
+    "text":"every day",
+    "repeat every":1,
+    "repeats":"Daily",
+    "type":"Frequency"
+}```
+
+```json
+{
+    "text":"every 3 years",
+    "repeat every":3,
+    "repeats":"Yearly",
+    "type":"Frequency"
+}```
