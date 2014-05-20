@@ -1,17 +1,20 @@
 Working with Springpad User Exports
 ===================================
 
-It's with the deepest regret that we're announcing the shutdown of the Springpad service. It's been our honor and
-privilege to have had so many users trust us with their data over the past 6 years. As we plan the shutdown of our
-service we're doing our best to ensure that users are able to get their data and move it to other services.
+It's with the deepest regret that we're announcing Springpad shutting down. It's been our pleasure to serve our users over the past
+6 years and to work with many of you in the developer community. As we plan for the termination of the service, we are committed to
+enabling users to get their data and to help provide them options for importing it into other services.
 
-The purpose of this repository is to help other developers understand the Springpad export format so that they
-can build importers into their own applications. In addition to this documentation, this repository also contains
-an example of a Springpad user export that contains examples of the different types of data that you can expect to find.
+The purpose of this repository is to help developers understand the Springpad export format so that they
+can build importers for other services or applications. In addition to this documentation, this repository also contains
+a sample Springpad user export that contains examples of the different types of objects that you can expect to find.
 
+If you have any questions about the shutdown please start with [this post](https://springpad.com/tk?code=1on6uji0fgu11c&url=https%3A%2F%2Fspringpad.com%2Fblog%2F2014%2F05%2Fspringpad-says-goodbye%2F) on our blog.
+And for any development-related questions please use [our mailing list](https://groups.google.com/forum/#!forum/springpaddev).
 
 Contents
 ========
+
 - [Contents of the Export Archive](#contents)
 - [JSON Export Format](#json-format)
 
