@@ -48,7 +48,7 @@ Springpad objects have in common.
 
 | Name | Type | Optional | Description |
 |------|------|:--------:|-------------|
-|uuid|[ID](#datatype:id)| |A unique ID|
+|uuid|[ID](#datatype-id)| |A unique ID|
 |name|String| |Name or title of the object|
 |type|[Type](#datatype:type)| |Type of the object|
 |public|Boolean| |Is this public or not?|
@@ -303,7 +303,7 @@ Example:
 
 `"Note"`.
 
-<a name="datatype:id"/>
+<a name="datatype-id"/>
 ### ID
 
 Springpad uses UUID strings to uniquely identify objects.
