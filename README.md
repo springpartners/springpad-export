@@ -43,23 +43,23 @@ that defines what properties it will have. For example, a "Book" has an author w
 We'll define all of the possible properties for each type of object below, but first, let's look at the properties that all
 Springpad objects have in common.
 
-<a name="type:object"/>
+<a name="type-object"/>
 ## Springpad Object Properties
 
 | Name | Type | Optional | Description |
 |------|------|:--------:|-------------|
 |uuid|[ID](#datatype-id)| |A unique ID|
 |name|String| |Name or title of the object|
-|type|[Type](#datatype:type)| |Type of the object|
+|type|[Type](#datatype-type)| |Type of the object|
 |public|Boolean| |Is this public or not?|
 |liked|Boolean| |Did the user mark this liked?|
 |rating|Integer| ✓ |Rating of the object (0-5)|
 |complete|Boolean| |Springpad objects can be marked complete (e.g., is the task done? has the movie been watched?)|
 |tags|Array of Strings| |List of tags|
-|notebooks|Array of [IDs](datatype:id)| |List of notebook IDs that this object is in. The notebooks are defined in export.json file as well.|
-|image|[Link](#datatype:link)| |Representative image for the object. Can be `null`|
-|created|[Date](#datatype:date)| |Creation date|
-|modified|[Date](#datatype:date)| |Modified date|
+|notebooks|Array of [IDs](datatype-id)| |List of notebook IDs that this object is in. The notebooks are defined in export.json file as well.|
+|image|[Link](#datatype-link)| |Representative image for the object. Can be `null`|
+|created|[Date](#datatype-date)| |Creation date|
+|modified|[Date](#datatype-date)| |Modified date|
 |description|String| ✓ |Description or summary|
 |url|String| ✓ |URL for the object. In the case of a block that was scraped, the URL it was scraped from.|
 
@@ -68,56 +68,56 @@ Springpad objects have in common.
 
 The rest of the document examines properties available for each Springpad object type.
 
-<a name="type:note"/>
+<a name="type-note"/>
 ### Note
 
 | Name | Type | Optional | Description |
 |------|------|:--------:|-------------|
 |text|String| ✓ |The contents of the note (may be HTML-formatted)|
 
-<a name="type:task"/>
+<a name="type-task"/>
 ### Task
 
 | Name | Type | Optional | Description |
 |------|------|:--------:|-------------|
 |complete|Boolean|   |Is the task complete or not (this property was referenced above as well)|
-|date|[Date](#datatype:date)| ✓ |Due date|
+|date|[Date](#datatype-date)| ✓ |Due date|
 
-<a name="type:appointment"/>
+<a name="type-appointment"/>
 ### Appointment
 
 | Name | Type | Optional | Description |
 |------|------|:--------:|-------------|
-|date|[Date](#datatype:date)| ✓ |Due date|
+|date|[Date](#datatype-date)| ✓ |Due date|
 |allDay|Boolean| ✓ |Is the appointment all day|
 |addresses|Map of address name to address| ✓ |Addresses|
-|repeats|[Frequency](#datatype:frequency)| ✓ |Frequency of repeating|
+|repeats|[Frequency](#datatype-frequency)| ✓ |Frequency of repeating|
 
 
-<a name="type:reminder"/>
+<a name="type-reminder"/>
 ### Reminder
 
 | Name | Type | Optional | Description |
 |------|------|:--------:|-------------|
 |notes|String| ✓ ||
-|date|[Date](#datatype:date)| ✓ |Reminder date|
-|repeats|[Frequency](#datatype:frequency)| ✓ |Frequency of repeating|
+|date|[Date](#datatype-date)| ✓ |Reminder date|
+|repeats|[Frequency](#datatype-frequency)| ✓ |Frequency of repeating|
 
-<a name="type:bookmark"/>
+<a name="type-bookmark"/>
 ### Bookmark
 
 | Name | Type | Optional | Description |
 |------|------|:--------:|-------------|
 |url|String|   |URL of the bookmark|
 
-<a name="type:checklist"/>
+<a name="type-checklist"/>
 ### Checklist
 
 | Name | Type | Optional | Description |
 |------|------|:--------:|-------------|
-|items|List of [ChecklistItem](#datatype:checklistitem)|   ||
+|items|List of [ChecklistItem](#datatype-checklistitem)|   ||
 
-<a name="type:contact"/>
+<a name="type-contact"/>
 ### Contact
 
 An address book entry.
@@ -130,7 +130,7 @@ An address book entry.
 |phone numbers|Map of phone/fax name to phone number| ✓ |Phone numbers (e.g., home, cell, fax)|
 |accounts|Map of account name to value| ✓ |Used for things like IM accounts, email addresses, websites, etc|
 
-<a name="type:file"/>
+<a name="type-file"/>
 ### File
 
 The url property will provide a link to the actual file (generally, in the attachments directory).
@@ -139,7 +139,7 @@ The url property will provide a link to the actual file (generally, in the attac
 |------|------|:--------:|-------------|
 |mime-type|String| ✓ |Type of the file|
 
-<a name="type:audio"/>
+<a name="type-audio"/>
 ### Audio
 
 The url property will provide a link to the actual audio file.
@@ -148,7 +148,7 @@ The url property will provide a link to the actual audio file.
 |------|------|:--------:|-------------|
 |duration|Integer| ✓ |Number of seconds|
 
-<a name="type:place"/>
+<a name="type-place"/>
 ### Place
 
 A business or restaurant.
@@ -163,7 +163,7 @@ A business or restaurant.
 |phone numbers|Map of phone/fax name to phone number| ✓ |Phone numbers (e.g., phone, fax)|
 |accounts|Map of account name to value| ✓ |Used for things like email addresses, websites, etc|
 
-<a name="type:product"/>
+<a name="type-product"/>
 ### Product
 
 | Name | Type | Optional | Description |
@@ -172,20 +172,20 @@ A business or restaurant.
 |manufacturer|String| ✓ ||
 |model|String| ✓ ||
 
-<a name="type:book"/>
+<a name="type-book"/>
 ### Book
 
 | Name | Type | Optional | Description |
 |------|------|:--------:|-------------|
 |author|String| ✓ ||
 |price|String| ✓ ||
-|publication date|[Date](#datatype:date)| ✓ ||
+|publication date|[Date](#datatype-date)| ✓ ||
 |cover|String| ✓ |(e.g. hard or soft cover)|
 |genres|List of Strings| ✓ ||
 |level|String| ✓ |reading level|
 |isbn|String| ✓ ||
 
-<a name="type:tvshow"/>
+<a name="type-tvshow"/>
 ### TV Show
 
 | Name | Type | Optional | Description |
@@ -199,7 +199,7 @@ A business or restaurant.
 |plot|String| ✓ ||
 |season|String| ✓ ||
 
-<a name="type:movie"/>
+<a name="type-movie"/>
 ### Movie
 
 | Name | Type | Optional | Description |
@@ -211,9 +211,9 @@ A business or restaurant.
 |awards|List of Strings| ✓ ||
 |rated|String| ✓ ||
 |runtime|String| ✓ ||
-|release date|[Date](#datatype:date)| ✓ ||
+|release date|[Date](#datatype-date)| ✓ ||
 
-<a name="type:wine"/>
+<a name="type-wine"/>
 ### Wine
 
 | Name | Type | Optional | Description |
@@ -226,7 +226,7 @@ A business or restaurant.
 |region|String| ✓ ||
 |ratings|List of Strings| ✓ ||
 
-<a name="type:album"/>
+<a name="type-album"/>
 ### Album
 
 | Name | Type | Optional | Description |
@@ -235,9 +235,9 @@ A business or restaurant.
 |price|String| ✓ ||
 |format|String| ✓ ||
 |genres|List of Strings| ✓ ||
-|release date|[Date](#datatype:date)| ✓ ||
+|release date|[Date](#datatype-date)| ✓ ||
 
-<a name="type:musician"/>
+<a name="type-musician"/>
 ### Musician/Band
 
 | Name | Type | Optional | Description |
@@ -247,7 +247,7 @@ A business or restaurant.
 |record labels|List of Strings| ✓ ||
 |members|List of Strings| ✓ ||
 
-<a name="type:recipe"/>
+<a name="type-recipe"/>
 ### Recipe
 
 | Name | Type | Optional | Description |
@@ -260,7 +260,7 @@ A business or restaurant.
 |servings|String| ✓ ||
 |source|String| ✓ |URL to the source of the recipe|
 
-<a name="type:notebook"/>
+<a name="type-notebook"/>
 ### Notebook
 
 | Name | Type | Optional | Description |
@@ -271,7 +271,7 @@ A business or restaurant.
 
 ## Property Types
 
-<a name="datatype:type"/>
+<a name="datatype-type"/>
 ### Type
 
 A JSON string defining the type of an object.
@@ -312,7 +312,7 @@ Example:
 
  `"0d368c7b-f941-49f5-8510-614a8ce74c78"`
 
-<a name="datatype:link
+<a name="datatype-link
 ### Link
 
 Links can either be URLs to a resource on the internet or relative link to a file
@@ -323,7 +323,7 @@ Examples:
 - `"http://example.com/img.gif"`
 - `"attachments/MV5BMjA3NzMyMzU1MV5BMl5BanBnXkFtZTcwNjc1ODUwMg@@._V1._SY317_CR17,0,214,317_.jpg"`
 
-<a name="datatype:date"/>
+<a name="datatype-date"/>
 ### Date
 
 Dates are [ISO-8601](http://en.wikipedia.org/wiki/ISO_8601)-formatted and include time and timezone.
@@ -332,7 +332,7 @@ Example:
 
 `"2014-03-13T17:03:34+0000"`
 
-<a name="datatype:checklistitem"/>
+<a name="datatype-checklistitem"/>
 ### ChecklistItem
 
 ChecklistItems are JSON objects containing with a boolean `complete` property and
@@ -343,7 +343,7 @@ Examples:
 - `{"complete": true, "name": "walk the dog"}`
 - `{"complete": false, "name": "take out the trash"}`
 
-<a name="datatype:frequency"/>
+<a name="datatype-frequency"/>
 ### Frequency
 
 Frequencies are JSON objects that convey how frequently and if an event or alarm repeats. A description of each property is below but the examples below that probably provide the best way to understand these objects.
