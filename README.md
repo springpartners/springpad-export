@@ -373,7 +373,8 @@ Examples:
     "repeat every":4,
     "repeats":"Monthly By Day Of Week",
     "type":"Frequency"
-}```
+}
+```
 
 ```json
 {
@@ -381,7 +382,8 @@ Examples:
     "repeat every":1,
     "repeats":"Monthly By Day Of Month",
     "type":"Frequency"
-}```
+}
+```
 
 ```json
 {
@@ -399,21 +401,24 @@ Examples:
       "sun":false
       },
     "type":"Frequency"
-}```
+}
+```
 
 ```json
 {
     "text":"weekdays",
     "repeats":"Weekdays",
     "type":"Frequency"
-}```
+}
+```
 
 ```json
 {
     "text":"never",
     "repeats":"Never",
     "type":"Frequency"
-}```
+}
+```
 
 ```json
 {
@@ -421,7 +426,8 @@ Examples:
     "repeat every":1,
     "repeats":"Daily",
     "type":"Frequency"
-}```
+}
+```
 
 ```json
 {
@@ -429,4 +435,5 @@ Examples:
     "repeat every":3,
     "repeats":"Yearly",
     "type":"Frequency"
-}```
+}
+```
