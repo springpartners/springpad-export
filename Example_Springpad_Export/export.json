@@ -1,0 +1,962 @@
+[
+  {
+  "tags":[],
+  "liked":false,
+  "notebooks":["47307eb6-cd32-4544-9677-1ba276b54dd3"],
+  "image":null,
+  "type":"Task",
+  "date":"2018-05-20T04:00:00+0000",
+  "modified":"2014-05-20T17:40:10+0000",
+  "created":"2014-05-20T17:39:54+0000",
+  "complete":false,
+  "description":"This task is not yet complete.",
+  "name":"Uncompleted task",
+  "uuid":"47341c98-3805-47ec-8958-8cc06e0f240a",
+  "public":true
+  },
+  {
+  "tags":[],
+  "liked":false,
+  "notebooks":["47307eb6-cd32-4544-9677-1ba276b54dd3"],
+  "image":null,
+  "type":"Task",
+  "date":"2014-05-19T04:00:00+0000",
+  "modified":"2014-05-20T17:39:46+0000",
+  "created":"2014-05-20T17:39:24+0000",
+  "complete":true,
+  "description":"Complete this task!",
+  "name":"Completed task",
+  "uuid":"47300c84-389e-4e6a-ab55-004ab577e9ae",
+  "public":true
+  },
+  {
+  "tags":["Shopping"],
+  "items":[
+      {
+      "complete":false,
+      "name":"4 1\/4 cups all-purpose flour"
+      },
+      {
+      "complete":false,
+      "name":"2 (.25 ounce) packages active dry yeast"
+      },
+      {
+      "complete":false,
+      "name":"1 1\/2 cups warm water (110 degrees F\/45 degrees C)"
+      },
+      {
+      "complete":false,
+      "name":"3 tablespoons white sugar"
+      },
+      {
+      "complete":false,
+      "name":"1 tablespoon salt"
+      },
+      {
+      "complete":false,
+      "name":"1 tablespoon white sugar"
+      }],
+  "complete":false,
+  "created":"2014-05-20T17:34:41+0000",
+  "liked":false,
+  "name":"Shopping list",
+  "notebooks":["47317160-1118-4a9a-83d9-8c3acfd4b8e7"],
+  "image":null,
+  "uuid":"47344ae9-acb8-46e7-8da0-e9ccf689416a",
+  "public":true,
+  "type":"CheckList",
+  "modified":"2014-05-20T17:35:12+0000"
+  },
+  {
+  "tags":[],
+  "liked":false,
+  "notebooks":["47317160-1118-4a9a-83d9-8c3acfd4b8e7"],
+  "image":"http:\/\/images.media-allrecipes.com\/userphotos\/250x250\/00\/03\/54\/35433.jpg",
+  "type":"Recipe",
+  "url":"http:\/\/allrecipes.com\/Recipe\/Boiled-Bagels\/",
+  "modified":"2014-05-20T17:34:17+0000",
+  "directions":"1. In large bowl, combine 1-1\/2 cups flour and yeast. Mix water, 3 tablespoons sugar and salt together, and add to the dry ingredients. Beat with a mixer for half a minute at a low speed, scraping the sides of the bowl clean. Beat at a higher speed for 3 minutes. Then, by hand, mix in enough flour to make a moderately stiff dough.\n\n2. Turn out onto a lightly floured surface and knead until smooth and elastic (8-10 minutes). Cover, let rest for 15 minutes.\n\n3. Cut into 12 portions, shape into smooth balls. Poke a hole in the center with your finger, and gently enlarge the hole while working the bagel into a uniform shape. Cover, let rise 20 minutes.\n\n4. Meanwhile, start a gallon of water boiling. Put 1 tablespoon of sugar in it, mix it around a bit. Reduce to simmering.\n\n5. When the bagels are ready, put 4 or 5 bagels into the water, and cook 7 minutes, turning once. Drain them. Place on a greased baking sheet, and bake at 375 degrees F (190 degrees C) for 30 to 35 minutes. Remove from oven, eat hot or cold.\n\n6. Broiling option: For a glossier surface, place raised bagels on an ungreased baking sheet prior to boiling them. Broil them five inches from heat for 1 to 1-1\/2 minutes on each side. Then put them into the hot water to be boiled as above. Note: do not bake broiled bagels as long as non-broiled ones, 25 minutes should be long enough.",
+  "ingredients":"4 1\/4 cups all-purpose flour\n2 (.25 ounce) packages active dry yeast\n1 1\/2 cups warm water (110 degrees F\/45 degrees C)\n3 tablespoons white sugar\n1 tablespoon salt\n1 tablespoon white sugar",
+  "source":"http:\/\/allrecipes.com\/Recipe\/Boiled-Bagels\/",
+  "created":"2014-05-20T17:34:17+0000",
+  "complete":false,
+  "name":"Boiled Bagels",
+  "uuid":"47367d3b-7a55-4f6f-b34c-e44f0fffc8af",
+  "public":true
+  },
+  {
+  "tags":[],
+  "liked":false,
+  "notebooks":["47317160-1118-4a9a-83d9-8c3acfd4b8e7"],
+  "image":"http:\/\/img4-1.myrecipes.timeinc.net\/i\/recipes\/sl\/10\/04\/raspberry-beer-cocktail-sl-x.jpg",
+  "type":"Recipe",
+  "url":"http:\/\/www.myrecipes.com\/recipe\/raspberry-beer-cocktail-10000001975699\/",
+  "modified":"2014-05-20T17:34:21+0000",
+  "directions":"1. Stir together first 4 ingredients. Serve over ice. Garnish, if desired.\n\n2. *Fresh raspberries may be substituted.\n\n3. Note: To make ahead, stir together lemonade concentrate and vodka in a large container. Chill up to 3 days. Stir in raspberries and beer just before serving. Garnish, if desired.",
+  "ingredients":"3\/4 cup  frozen raspberries*\n3 1\/2   (12-oz.) bottles beer, chilled\n1   (12-oz.) container frozen raspberry lemonade concentrate, thawed\n1\/2 cup  vodka\nGarnish: lemon and lime slices",
+  "source":"http:\/\/www.myrecipes.com\/recipe\/raspberry-beer-cocktail-10000001975699\/",
+  "created":"2014-05-20T17:34:09+0000",
+  "complete":true,
+  "name":"Raspberry Beer Cocktail",
+  "uuid":"473b4a23-45f1-46da-b4d7-90bae50fcb68",
+  "public":true
+  },
+  {
+  "tags":[],
+  "liked":false,
+  "notebooks":["47317160-1118-4a9a-83d9-8c3acfd4b8e7"],
+  "image":"http:\/\/www.epicurious.com\/images\/recipesmenus\/2006\/2006_august\/235617_116.jpg",
+  "type":"Recipe",
+  "url":"http:\/\/www.epicurious.com\/recipes\/food\/views\/Black-Bottom-Peanut-Butter-Mousse-Pie-235617",
+  "modified":"2014-05-20T17:34:33+0000",
+  "directions":"1. Preheat oven to 350°F. Spray 9-inch-diameter glass pie dish with nonstick spray. Blend graham crackers, melted butter, and 2 tablespoons sugar in processor until moist clumps form. Press crumb mixture over bottom and up sides of prepared pie dish. Bake crust until lightly browned, about 15 minutes.\n\n2. Meanwhile, combine chocolate chips, 2\/3 cup cream, corn syrup, and  1 teaspoon vanilla in microwave-safe bowl. Microwave on medium heat until chocolate softens, about 3 minutes. Whisk until melted and smooth. Spread chocolate mixture over bottom of crust. Freeze 10 minutes.\n\n3. Microwave peanut butter chips and 3\/4 cup cream in large microwave-safe bowl on medium heat at 15-second intervals just until chips soften, stirring often. Whisk in peanut butter and 1 teaspoon vanilla. Cool to barely lukewarm. Beat remaining 1 cup cream and 2 tablespoons sugar in medium bowl until very thick but not yet holding peaks; fold into peanut butter mixture in 3 additions. Spoon mousse over chocolate layer. Chill at least 1 hour and up to 1 day.",
+  "source":"http:\/\/www.epicurious.com\/recipes\/food\/views\/Black-Bottom-Peanut-Butter-Mousse-Pie-235617",
+  "created":"2014-05-20T17:34:02+0000",
+  "complete":true,
+  "name":"Black-Bottom Peanut Butter Mousse Pie Black-Bottom Peanut Butter Mousse Pie",
+  "uuid":"4737c408-c0ad-4b2e-a330-523d4aa57130",
+  "rating":1.0,
+  "public":true,
+  "comments":[
+      {
+      "commenter":"klmprt",
+      "date":"2014-05-20T17:34:32+0000",
+      "comment":"Not so good."
+      }]
+  },
+  {
+  "tags":["tasks"],
+  "liked":false,
+  "notebooks":["473e67fb-e2a5-4952-bc2f-9c7a0ae1f6f0"],
+  "image":null,
+  "type":"Task",
+  "date":"2014-05-19T04:00:00+0000",
+  "modified":"2014-05-20T16:10:51+0000",
+  "created":"2014-05-20T16:10:10+0000",
+  "complete":false,
+  "description":"Task: Fix the fence outside where it was blown over by the storm.",
+  "name":"Fix the fence outside",
+  "uuid":"4733d223-eae1-4a09-b10f-3e99352069aa",
+  "public":false
+  },
+  {
+  "tags":[],
+  "liked":false,
+  "notebooks":["473e67fb-e2a5-4952-bc2f-9c7a0ae1f6f0"],
+  "image":"http:\/\/ecx.images-amazon.com\/images\/I\/31nY6vHstsL.jpg",
+  "type":"Product",
+  "modified":"2014-05-20T16:10:06+0000",
+  "category":"Home",
+  "price":"$80.00",
+  "created":"2014-05-20T16:10:06+0000",
+  "complete":false,
+  "manufacturer":"Winsome Wood",
+  "description":"Handsome and simple console \/ hall table with one drawe. Shaker style in antique walut finish. Assembly required.",
+  "name":"Winsome Wood Rochester Console Table with one Drawer Shaker",
+  "uuid":"473df12c-9aae-44ce-bd2b-cdf59ff6b9be",
+  "public":false
+  },
+  {
+  "tags":[],
+  "text":"A28NH88F92",
+  "complete":false,
+  "created":"2014-05-20T16:08:40+0000",
+  "liked":false,
+  "name":"Home depot part number",
+  "notebooks":["473e67fb-e2a5-4952-bc2f-9c7a0ae1f6f0"],
+  "image":null,
+  "uuid":"47344766-91e2-4aa4-956e-5bbfe001f838",
+  "public":false,
+  "type":"Note",
+  "modified":"2014-05-20T16:08:54+0000"
+  },
+  {
+  "tags":[],
+  "enabled":true,
+  "liked":false,
+  "notebooks":["47307eb6-cd32-4544-9677-1ba276b54dd3"],
+  "image":null,
+  "repeats":
+    {
+    "text":"every year",
+    "repeat every":1,
+    "repeats":"Yearly",
+    "type":"Frequency"
+    },
+  "type":"Alarm",
+  "date":"2017-05-20T16:30:00+0000",
+  "modified":"2014-05-20T16:08:18+0000",
+  "created":"2014-05-20T16:08:05+0000",
+  "complete":false,
+  "name":"Alarm repeats yearly",
+  "uuid":"4731c168-484a-418f-bc4c-b423d23e0543",
+  "public":true
+  },
+  {
+  "tags":[],
+  "enabled":true,
+  "liked":false,
+  "notebooks":["47307eb6-cd32-4544-9677-1ba276b54dd3"],
+  "image":null,
+  "repeats":
+    {
+    "text":"every 2 months on the day",
+    "repeat every":2,
+    "repeats":"Monthly By Day Of Month",
+    "type":"Frequency"
+    },
+  "type":"Alarm",
+  "date":"2017-05-20T16:30:00+0000",
+  "modified":"2014-05-20T16:08:00+0000",
+  "created":"2014-05-20T16:07:11+0000",
+  "complete":false,
+  "name":"Alarm repeats every other month",
+  "uuid":"473d7526-f493-4921-8f24-97f31c819dca",
+  "public":true
+  },
+  {
+  "tags":[],
+  "enabled":true,
+  "liked":false,
+  "notebooks":["47307eb6-cd32-4544-9677-1ba276b54dd3"],
+  "image":null,
+  "repeats":
+    {
+    "text":"every day",
+    "repeat every":1,
+    "repeats":"Daily",
+    "type":"Frequency"
+    },
+  "type":"Alarm",
+  "date":"2017-05-20T16:30:00+0000",
+  "modified":"2014-05-20T16:07:08+0000",
+  "created":"2014-05-20T16:06:55+0000",
+  "complete":false,
+  "name":"Alarm repeats daily",
+  "uuid":"4737219a-33e3-4299-b83a-c45ce9021677",
+  "public":true
+  },
+  {
+  "tags":[],
+  "enabled":false,
+  "liked":false,
+  "notebooks":["47307eb6-cd32-4544-9677-1ba276b54dd3"],
+  "image":null,
+  "repeats":
+    {
+    "text":"every 2 days",
+    "repeat every":2,
+    "repeats":"Daily",
+    "type":"Frequency"
+    },
+  "type":"Alarm",
+  "date":"2019-05-20T16:30:00+0000",
+  "modified":"2014-05-20T16:06:48+0000",
+  "created":"2014-05-20T16:06:29+0000",
+  "complete":false,
+  "name":"Alarm repeats daily, every 2 days",
+  "uuid":"473c1118-10fe-4243-905d-6fd1296954bf",
+  "notes":"",
+  "public":true
+  },
+  {
+  "tags":[],
+  "enabled":true,
+  "liked":false,
+  "notebooks":["47307eb6-cd32-4544-9677-1ba276b54dd3"],
+  "image":null,
+  "repeats":
+    {
+    "text":"every week on sun",
+    "repeat every":1,
+    "repeats":"Weekly",
+    "on days":
+      {
+      "mon":false,
+      "tue":false,
+      "wed":false,
+      "thu":false,
+      "fri":false,
+      "sat":false,
+      "sun":true
+      },
+    "type":"Frequency"
+    },
+  "type":"Alarm",
+  "date":"2018-05-20T16:30:00+0000",
+  "modified":"2014-05-20T16:06:27+0000",
+  "created":"2014-05-20T16:06:11+0000",
+  "complete":false,
+  "name":"Alarm repeats weekly",
+  "uuid":"4730d81a-4535-4c0b-b2ae-3f2dd18a1ac3",
+  "public":true
+  },
+  {
+  "tags":[],
+  "allDay":true,
+  "liked":false,
+  "notebooks":["47307eb6-cd32-4544-9677-1ba276b54dd3"],
+  "image":null,
+  "repeats":
+    {
+    "text":"every year",
+    "repeat every":1,
+    "repeats":"Yearly",
+    "type":"Frequency"
+    },
+  "date":"2019-05-20T14:00:00+0000",
+  "type":"Event",
+  "modified":"2014-05-20T16:04:08+0000",
+  "created":"2014-05-20T16:03:33+0000",
+  "complete":false,
+  "name":"New Event",
+  "uuid":"473f86c7-4c58-4100-878c-f0fadaddc474",
+  "rating":3.0,
+  "public":true
+  },
+  {
+  "tags":[],
+  "text":"<div class=\"mod-header\" style=\"outline: 0px; font-size: 12.800000190734863px; height: 110.4000015258789px; clear: both; position: relative; font-family: verdana, helvetica, arial, sans-serif; font-style: normal; font-variant: normal; line-height: 14.403999328613281px; background-position: 0px 50%;\"><div class=\"datetime\" style=\"outline: 0px; font-size: 12.800000190734863px; background-image: url(http:\/\/a2.espncdn.com\/prod\/assets\/blogs\/icon_calendar_datetime.png); position: absolute; left: -28px; top: -1px; width: 50px; height: 59px; font-family: helvetica, arial, sans-serif; font-weight: 700; background-position: 0px 0px; background-repeat: no-repeat no-repeat;\"><div class=\"monthday\" style=\"margin-top: 7px; margin-right: 7px; margin-left: 7px; outline: 0px; font-size: 11px; background-color: transparent; color: rgb(221, 221, 221); height: 17px; width: 41px; text-align: center; text-transform: uppercase;\">MAY 19<\/div><div class=\"time\" style=\"margin-right: 7px; margin-bottom: 7px; margin-left: 7px; outline: 0px; font-size: 14px; background-color: transparent; color: rgb(68, 68, 68); text-align: center; width: 41px;\">5:50<\/div><div class=\"timeofday\" style=\"margin: -10px 7px 7px; outline: 0px; font-size: 10px; background-color: transparent; color: rgb(102, 102, 102); text-align: center; width: 41px;\">PM ET<\/div><\/div><div class=\"sub-head\" style=\"margin-left: 30px; padding-top: 4px; padding-bottom: 4px; outline: 0px; font-size: 12.800000190734863px; background-color: transparent; overflow: hidden;\"><cite class=\"byline\" style=\"margin-top: 6px; margin-bottom: 16px; outline: 0px; font-size: 12px; background-color: transparent; font-style: normal; font-variant: normal; line-height: 14px; font-family: Helvetica, Arial, sans-serif; color: rgb(153, 153, 153); display: block; overflow: hidden;\">By&nbsp;<a href=\"http:\/\/search.espn.go.com\/mike-reiss\/\" style=\"outline-width: 0px; font-size: 12px; background-color: transparent; color: rgb(34, 93, 183); font-weight: bold;\">Mike Reiss<\/a>&nbsp;| ESPNBoston.com<\/cite><\/div><ul class=\"mod-page-actions\" style=\"margin-top: 0px; margin-bottom: 16px; padding-left: 0px; outline: 0px; font-size: 12.800000190734863px; background-color: transparent; list-style-type: none; clear: both; overflow: hidden;\"><li class=\"social facebook-recommend\" style=\"margin-right: 16px; outline: 0px; font-size: 9px; background-color: transparent; float: left; font-style: normal; font-variant: normal; line-height: 16px; font-family: Arial, Helvetica, sans-serif; text-transform: uppercase;\"><a href=\"https:\/\/www.facebook.com\/sharer.php?u=http%3A%2f%2fespn.go.com%2fblog%2fboston%2fnew%2dengland%2dpatriots%2fpost%2f_%2fid%2f4763130%2fty%2dlaw%2dto%2dbe%2dinducted%2dinto%2dpatriots%2dhall&amp;t=Ty+Law+to+be+inducted+into+Patriots+Hall\" target=\"_new\" rel=\"nofollow\" style=\"outline-width: 0px; font-size: 8.800000190734863px; background-color: transparent; color: rgb(34, 93, 183); display: block; float: left; white-space: nowrap; cursor: pointer;\"><span class=\"sprite-page-actions facebook\" style=\"margin-right: 4px; outline: 0px; font-size: 8.800000190734863px; background-image: url(http:\/\/a1.espncdn.com\/prod\/assets\/sprites\/page-actions-15.png); display: block; height: 15px; width: 15px; float: left; background-position: 0px 0px; background-repeat: no-repeat no-repeat;\"><\/span><span class=\"label\" style=\"outline: 0px; font-size: 8.800000190734863px; background-color: transparent; float: left;\">RECOMMEND<\/span><\/a><a class=\"count\" href=\"https:\/\/www.facebook.com\/sharer.php?u=http%3A%2f%2fespn.go.com%2fblog%2fboston%2fnew%2dengland%2dpatriots%2fpost%2f_%2fid%2f4763130%2fty%2dlaw%2dto%2dbe%2dinducted%2dinto%2dpatriots%2dhall&amp;t=Ty+Law+to+be+inducted+into+Patriots+Hall\" target=\"_new\" rel=\"nofollow\" style=\"margin-left: 6px; padding-right: 4px; padding-left: 4px; border: 1px solid rgb(204, 204, 204); outline-width: 0px; font-size: 8.800000190734863px; color: rgb(51, 51, 51); display: block; float: left; white-space: nowrap; cursor: pointer; line-height: 14px; position: relative;\">82<\/a><\/li><li class=\"social twitter-tweet\" style=\"margin-right: 16px; outline: 0px; font-size: 9px; background-color: transparent; float: left; font-style: normal; font-variant: normal; line-height: 16px; font-family: Arial, Helvetica, sans-serif; text-transform: uppercase;\"><a href=\"http:\/\/twitter.com\/intent\/tweet?url=http%3A%2f%2fespn.go.com%2fblog%2fboston%2fnew%2dengland%2dpatriots%2fpost%2f_%2fid%2f4763130%2fty%2dlaw%2dto%2dbe%2dinducted%2dinto%2dpatriots%2dhall&amp;text=Ty+Law+to+be+inducted+into+Patriots+Hall\" target=\"_new\" rel=\"nofollow\" style=\"outline-width: 0px; font-size: 8.800000190734863px; background-color: transparent; color: rgb(34, 93, 183); display: block; float: left; white-space: nowrap; cursor: pointer;\"><span class=\"sprite-page-actions twitter\" style=\"margin-right: 4px; outline: 0px; font-size: 8.800000190734863px; background-image: url(http:\/\/a1.espncdn.com\/prod\/assets\/sprites\/page-actions-15.png); display: block; height: 15px; width: 15px; float: left; background-position: 0px -15px; background-repeat: no-repeat no-repeat;\"><\/span><span class=\"label\" style=\"outline: 0px; font-size: 8.800000190734863px; background-color: transparent; float: left;\">TWEET<\/span><\/a><a class=\"count\" href=\"http:\/\/twitter.com\/intent\/tweet?url=http%3A%2f%2fespn.go.com%2fblog%2fboston%2fnew%2dengland%2dpatriots%2fpost%2f_%2fid%2f4763130%2fty%2dlaw%2dto%2dbe%2dinducted%2dinto%2dpatriots%2dhall&amp;text=Ty+Law+to+be+inducted+into+Patriots+Hall\" target=\"_new\" rel=\"nofollow\" style=\"margin-left: 6px; padding-right: 4px; padding-left: 4px; border: 1px solid rgb(204, 204, 204); outline-width: 0px; font-size: 8.800000190734863px; color: rgb(51, 51, 51); display: block; float: left; white-space: nowrap; cursor: pointer; line-height: 14px; position: relative;\">31<\/a><\/li><li class=\"social fb-comments\" style=\"margin-right: 16px; outline: 0px; font-size: 9px; background-color: transparent; float: left; font-style: normal; font-variant: normal; line-height: 16px; font-family: Arial, Helvetica, sans-serif; text-transform: uppercase;\"><a href=\"http:\/\/espn.go.com\/blog\/boston\/new-england-patriots\/post\/_\/id\/4763130\/ty-law-to-be-inducted-into-patriots-hall#comments\" rel=\"nofollow\" style=\"outline-width: 0px; font-size: 8.800000190734863px; background-color: transparent; color: rgb(34, 93, 183); display: block; float: left; white-space: nowrap; cursor: pointer;\"><span class=\"sprite-page-actions comments\" style=\"margin-right: 4px; outline: 0px; font-size: 8.800000190734863px; background-image: url(http:\/\/a1.espncdn.com\/prod\/assets\/sprites\/page-actions-15.png); display: block; height: 15px; width: 15px; float: left; background-position: 0px -30px; background-repeat: no-repeat no-repeat;\"><\/span><span class=\"label\" style=\"outline: 0px; font-size: 8.800000190734863px; background-color: transparent; float: left;\">COMMENTS<\/span><\/a><a class=\"count\" href=\"http:\/\/espn.go.com\/blog\/boston\/new-england-patriots\/post\/_\/id\/4763130\/ty-law-to-be-inducted-into-patriots-hall#comments\" rel=\"nofollow\" style=\"margin-left: 6px; padding-right: 4px; padding-left: 4px; border: 1px solid rgb(204, 204, 204); outline-width: 0px; font-size: 8.800000190734863px; color: rgb(51, 51, 51); display: block; float: left; white-space: nowrap; cursor: pointer; line-height: 14px; position: relative;\">13<\/a><\/li><li class=\"espn-email\" style=\"margin-right: 16px; outline: 0px; font-size: 9px; background-color: transparent; float: left; font-style: normal; font-variant: normal; line-height: 16px; font-family: Arial, Helvetica, sans-serif; text-transform: uppercase;\"><a id=\"email-4763130\" class=\"email\" href=\"http:\/\/sendtofriend.espn.go.com\/sendtofriend\/SendToFriend?URL=http%3A%2f%2fespn.go.com%2fblog%2fboston%2fnew%2dengland%2dpatriots%2fpost%2f_%2fid%2f4763130%2fty%2dlaw%2dto%2dbe%2dinducted%2dinto%2dpatriots%2dhall&amp;title=Ty+Law+to+be+inducted+into+Patriots+Hall\" target=\"_new\" rel=\"nofollow\" style=\"outline-width: 0px; font-size: 8.800000190734863px; background-color: transparent; color: rgb(34, 93, 183); display: block; float: left; white-space: nowrap; cursor: pointer;\"><span class=\"sprite-page-actions email\" style=\"margin-right: 4px; outline: 0px; font-size: 8.800000190734863px; background-image: url(http:\/\/a1.espncdn.com\/prod\/assets\/sprites\/page-actions-15.png); display: block; height: 15px; width: 15px; float: left; background-position: 0px -45px; background-repeat: no-repeat no-repeat;\"><\/span><span class=\"label\" style=\"outline: 0px; font-size: 8.800000190734863px; background-color: transparent; float: left;\">EMAIL<\/span><\/a><\/li><li style=\"margin-right: 16px; outline: 0px; font-size: 9px; background-color: transparent; float: left; font-style: normal; font-variant: normal; line-height: 16px; font-family: Arial, Helvetica, sans-serif; text-transform: uppercase;\"><a id=\"print-4763130\" class=\"print\" href=\"http:\/\/espn.go.com\/blog\/boston\/new-england-patriots\/print?id=4763130\" rel=\"nofollow\" style=\"outline-width: 0px; font-size: 8.800000190734863px; background-color: transparent; color: rgb(34, 93, 183); display: block; float: left; white-space: nowrap; cursor: pointer;\"><span class=\"sprite-page-actions print\" style=\"margin-right: 4px; outline: 0px; font-size: 8.800000190734863px; background-image: url(http:\/\/a1.espncdn.com\/prod\/assets\/sprites\/page-actions-15.png); display: block; height: 15px; width: 15px; float: left; background-position: 0px -60px; background-repeat: no-repeat no-repeat;\"><\/span><span class=\"label\" style=\"outline: 0px; font-size: 8.800000190734863px; background-color: transparent; float: left;\">PRINT<\/span><\/a><\/li><\/ul><\/div><div class=\"mod-content\" style=\"outline: 0px; font-size: 12px; overflow: hidden; color: rgb(51, 51, 51); font-family: verdana, helvetica, arial, sans-serif; font-style: normal; font-variant: normal;\">After a monthlong fan vote to determine this year's inductee to the Patriots Hall of Fame, cornerback Ty Law is the winner. This was Law's first year of eligibility.&nbsp;<br><br>\"Ty Law was one of the greatest players in franchise history and one of the premier corners in the NFL during his Patriots career,\u201D Patriots chairman and CEO Robert Kraft said in a statement. \"The fans have helped validate that with this year\u2019s hall of fame selection. We have had an incredible run of success and the building blocks started with players like Ty. He was an important part of three Super Bowl championship teams. It will be an honor to bring Ty back to celebrate his career as he takes his rightful place in our team\u2019s hall of fame. I am sure he will deliver another memorable moment during his hall of fame ceremony, too.\"&nbsp;<br><br>Law was a finalist along with cornerback Raymond Clayborn and former coach Bill Parcells. The finalists were selected by a committee composed of media members, team officials and alumni.&nbsp;<br><br>The induction ceremony for Law is scheduled for Friday, Aug. 1 at 4:30 p.m. ET. There is no cost to attend and it is open to the public.<\/div>",
+  "complete":false,
+  "created":"2014-05-20T16:01:50+0000",
+  "liked":false,
+  "name":"(Small) HTML Note",
+  "notebooks":["47307eb6-cd32-4544-9677-1ba276b54dd3"],
+  "image":null,
+  "uuid":"4730c35c-d6c1-4930-8f59-606fc34fee06",
+  "public":true,
+  "type":"Note",
+  "modified":"2014-05-20T16:02:10+0000"
+  },
+  {
+  "tags":[],
+  "text":"<div id=\"header\" class=\"sp-opt-1 container\"><div class=\"sp-opt-2 top-bar\"><div class=\"sp-opt-3 signin-social\"><a class=\"sp-opt-4 cbOverlay\" href=\"http:\/\/espn.go.com\/blog\/boston\/new-england-patriots\/post\/_\/id\/4763130\/ty-law-to-be-inducted-into-patriots-hall\" tref=\"\/members\/v3_1\/fbConnect\" data-regformid=\"espn\" data-language=\"en\" data-affiliatename=\"espn\"><img title=\"Connect with Facebook\" src=\"http:\/\/a.espncdn.com\/prod\/assets\/memberservices\/social_facebook_14.png\" class=\"sp-opt-5\"><\/a><\/div><div class=\"sp-opt-6 signin\" id=\"signin\"><span class=\"sp-opt-7\"><a href=\"javascript:void(0);\" class=\"sp-opt-8 cbOverlay membername\" tref=\"\/members\/v3_1\/index\" data-options=\"{&quot;language&quot;:&quot;en&quot;,&quot;width&quot;:&quot;825&quot;,&quot;height&quot;:&quot;425&quot;}\">Kyle<\/a><\/span>,&nbsp;<a href=\"http:\/\/insider.espn.go.com\/insider\/promo\/offer?addata=2009_insdr_xxx_wel_tst_actinsider\" class=\"sp-opt-9 membername\">Activate Insider<\/a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class=\"sp-opt-9 small\" href=\"http:\/\/espn.go.com\/blog\/boston\/new-england-patriots\/post\/_\/id\/4763130\/ty-law-to-be-inducted-into-patriots-hall\">Sign Out<\/a><\/div><div class=\"sp-opt-10 nav-edition editions\"><label class=\"sp-opt-11\">EDITIONS:<\/label><ul class=\"sp-opt-12 main\"><li class=\"sp-opt-13 e-usa\"><a href=\"http:\/\/espn.go.com\/\" name=\"&amp;lpos=editionsnav&amp;lid=usa\" class=\"sp-opt-14\">USA<\/a><\/li><li class=\"sp-opt-13 e-deportes\"><a href=\"http:\/\/espndeportes.espn.go.com\/\" name=\"&amp;lpos=editionsnav&amp;lid=deportes\" class=\"sp-opt-14 {langPref:'spanish'}\">ESPAÑOL<\/a><\/li><li class=\"sp-opt-15 last dropdown\"><ul class=\"sp-opt-16 \"><li class=\"sp-opt-17 selected\">More<\/li><li class=\"sp-opt-18\"><a href=\"http:\/\/www.espn.com.au\/\" name=\"&amp;lpos=editionsnav&amp;lid=australia\" class=\"sp-opt-19\">Australia<\/a><\/li><li class=\"sp-opt-18\"><a href=\"http:\/\/www.espn.com.br\/\" name=\"&amp;lpos=editionsnav&amp;lid=brazil\" class=\"sp-opt-19\">Brazil<\/a><\/li><li class=\"sp-opt-18\"><a href=\"http:\/\/www.espn.co.uk\/\" name=\"&amp;lpos=editionsnav&amp;lid=uk\" class=\"sp-opt-20\">United Kingdom<\/a><\/li><\/ul><\/li><\/ul><\/div><div class=\"sp-opt-21 nav-edition\"><label class=\"sp-opt-11\">CITIES:<\/label><ul class=\"sp-opt-22 main\"><li class=\"sp-opt-13 e-boston active\"><a href=\"http:\/\/espn.go.com\/boston\/\" name=\"&amp;lpos=citynav&amp;lid=boston\" class=\"sp-opt-23\">BOSTON<\/a><\/li><li class=\"sp-opt-13 e-chicago\"><a href=\"http:\/\/espn.go.com\/chicago\/\" name=\"&amp;lpos=citynav&amp;lid=chicago\" class=\"sp-opt-14\">CHICAGO<\/a><\/li><li class=\"sp-opt-13 e-dallas\"><a href=\"http:\/\/espn.go.com\/dallas\/\" name=\"&amp;lpos=citynav&amp;lid=dallas\" class=\"sp-opt-14\">DALLAS<\/a><\/li><li class=\"sp-opt-13 e-losangeles\"><a href=\"http:\/\/espn.go.com\/los-angeles\/\" name=\"&amp;lpos=citynav&amp;lid=losangeles\" class=\"sp-opt-14\">LOS ANGELES<\/a><\/li><li class=\"sp-opt-24 last e-newyork\"><a href=\"http:\/\/espn.go.com\/new-york\/\" name=\"&amp;lpos=citynav&amp;lid=newyork\" class=\"sp-opt-14\">NEW YORK<\/a><\/li><\/ul><\/div><\/div><div class=\"sp-opt-25 espn-logo\"><div class=\"sp-opt-26 h1\"><a name=\"&amp;lpos=bostonmegaheader&amp;lid=redespn\" href=\"http:\/\/espn.go.com\/\" class=\"sp-opt-27 espn\">ESPN<\/a><a name=\"&amp;lpos=bostonmegaheader&amp;lid=headerImage\" href=\"http:\/\/espn.go.com\/boston\/\" class=\"sp-opt-28\"><img src=\"http:\/\/a.espncdn.com\/espncitysites\/boston\/prod\/assets\/sub_boston_r3.png\" class=\"sp-opt-5\"><\/a><\/div><\/div><span class=\"sp-opt-29 presby\"><div data-cb-ad-id=\"SponsoredByLogoHeader\" data-cb-dfp-id=\"pgn=bostonnewenglandpatriots;pgtyp=blog;sp=bostonblog;tm=ne;col=reiss_mike;ref=espn;mnr=f;sz=150x45,1x1\" class=\"sp-opt-30\"><\/div><\/span><div class=\"sp-opt-31 header-right\"><div id=\"shop\" class=\"sp-opt-32\"><a class=\"sp-opt-33 shop-btn\" href=\"http:\/\/www.dickssportinggoods.com\/category\/index.jsp?categoryId=11400507&amp;camp=Part:ESPNpart::bostonshopbutton:BOSTON\" name=\"&amp;lpos=sitenavdefault&amp;lid=sitenav_shopbutton\" rel=\"nofollow\">SHOP<\/a><\/div><div id=\"nav-main-search\" class=\"sp-opt-34\"><form id=\"searchBox\" name=\"searchBox\" action=\"http:\/\/search.espn.go.com\/results\" method=\"get\" accept-charset=\"utf-8\" class=\"sp-opt-35 clearfix\"><div class=\"sp-opt-30 clearfix\"><input autocomplete=\"off\" class=\"sp-opt-36 text\" type=\"text\" placeholder=\"Search\" name=\"searchString\" id=\"searchString\"><input class=\"sp-opt-37 submit\" type=\"submit\" value=\"\"><\/div><\/form><\/div><\/div><\/div><div data-cb-ad-id=\"Background_Skin\" data-cb-dfp-id=\"pgn=bostonnewenglandpatriots;pgtyp=blog;sp=bostonblog;tm=ne;col=reiss_mike;ref=espn;mnr=f;sz=1280x946,200x800,1x1\" class=\"sp-opt-30\"><\/div><div id=\"subheader\" class=\"sp-opt-38\"><div id=\"content-wrapper\" class=\"sp-opt-39\"><div id=\"content\" class=\"sp-opt-40 container\"><div id=\"fb-root\" class=\"sp-opt-41  fb_reset\"><div class=\"sp-opt-42\"><div class=\"sp-opt-43\"><\/div><\/div><div class=\"sp-opt-42\"><div class=\"sp-opt-43\"><\/div><\/div><\/div><div id=\"sub-branding\" class=\"sp-opt-44\"><h2 class=\"sp-opt-45 logo\"><a href=\"http:\/\/espn.go.com\/blog\/boston\/new-england-patriots\" class=\"sp-opt-46 sub-brand-logo\"><img src=\"http:\/\/a.espncdn.com\/combiner\/i?img=\/i\/teamlogos\/nfl\/500\/ne.png?w=250&amp;h=250&amp;transparent=true\" class=\"sp-opt-47\"><\/a><a href=\"http:\/\/espn.go.com\/blog\/boston\/new-england-patriots\" class=\"sp-opt-48 sub-brand-title\"><b class=\"sp-opt-49\">NEW ENGLAND PATRIOTS<\/b><\/a><\/h2><div class=\"sp-opt-50 presby\"><div data-cb-ad-id=\"EnhancedLogo\" data-cb-dfp-id=\"pgn=bostonnewenglandpatriots;pgtyp=blog;sp=bostonblog;tm=ne;col=reiss_mike;ref=espn;mnr=f;sz=180x45,1x1\" class=\"sp-opt-30\"><\/div><\/div><\/div><div class=\"sp-opt-30 gradientBG\"><\/div><div class=\"sp-opt-51 span-4\"><div class=\"sp-opt-52 mod-container mod-blog-post\" data-id=\"new_england_patriots-blog-0-4763130\" data-url=\"http:\/\/espn.go.com\/blog\/boston\/new-england-patriots\/post\/_\/id\/4763130\/ty-law-to-be-inducted-into-patriots-hall\"><div id=\"post-4763130\" class=\"sp-opt-53 post-wrapper\"><div class=\"sp-opt-54 mod-header\"><h1 class=\"sp-opt-55 h3\">Ty Law to be inducted into Patriots&nbsp;Hall<\/h1><div class=\"sp-opt-56 datetime\"><span class=\"sp-opt-57\">May, 19, 2014<\/span><div class=\"sp-opt-58 monthday\">MAY 19<\/div><div class=\"sp-opt-59 time\">5:50<\/div><div class=\"sp-opt-60 timeofday\">PM ET<\/div><\/div><div class=\"sp-opt-61 sub-head\"><cite class=\"sp-opt-62 byline\">By&nbsp;<a href=\"http:\/\/search.espn.go.com\/mike-reiss\/\" class=\"sp-opt-63\">Mike Reiss<\/a>&nbsp;| ESPNBoston.com<\/cite><\/div><ul class=\"sp-opt-64 mod-page-actions\"><li class=\"sp-opt-65 social facebook-recommend\"><a href=\"https:\/\/www.facebook.com\/sharer.php?u=http%3A%2f%2fespn.go.com%2fblog%2fboston%2fnew%2dengland%2dpatriots%2fpost%2f_%2fid%2f4763130%2fty%2dlaw%2dto%2dbe%2dinducted%2dinto%2dpatriots%2dhall&amp;t=Ty+Law+to+be+inducted+into+Patriots+Hall\" target=\"_new\" rel=\"nofollow\" class=\"sp-opt-66\"><span class=\"sp-opt-67 sprite-page-actions facebook\"><\/span><span class=\"sp-opt-68 label\">RECOMMEND<\/span><\/a><a class=\"sp-opt-69 count\" href=\"https:\/\/www.facebook.com\/sharer.php?u=http%3A%2f%2fespn.go.com%2fblog%2fboston%2fnew%2dengland%2dpatriots%2fpost%2f_%2fid%2f4763130%2fty%2dlaw%2dto%2dbe%2dinducted%2dinto%2dpatriots%2dhall&amp;t=Ty+Law+to+be+inducted+into+Patriots+Hall\" target=\"_new\" rel=\"nofollow\">82<\/a><\/li><li class=\"sp-opt-65 social twitter-tweet\"><a href=\"http:\/\/twitter.com\/intent\/tweet?url=http%3A%2f%2fespn.go.com%2fblog%2fboston%2fnew%2dengland%2dpatriots%2fpost%2f_%2fid%2f4763130%2fty%2dlaw%2dto%2dbe%2dinducted%2dinto%2dpatriots%2dhall&amp;text=Ty+Law+to+be+inducted+into+Patriots+Hall\" target=\"_new\" rel=\"nofollow\" class=\"sp-opt-66\"><span class=\"sp-opt-70 sprite-page-actions twitter\"><\/span><span class=\"sp-opt-68 label\">TWEET<\/span><\/a><a class=\"sp-opt-69 count\" href=\"http:\/\/twitter.com\/intent\/tweet?url=http%3A%2f%2fespn.go.com%2fblog%2fboston%2fnew%2dengland%2dpatriots%2fpost%2f_%2fid%2f4763130%2fty%2dlaw%2dto%2dbe%2dinducted%2dinto%2dpatriots%2dhall&amp;text=Ty+Law+to+be+inducted+into+Patriots+Hall\" target=\"_new\" rel=\"nofollow\">31<\/a><\/li><li class=\"sp-opt-65 social fb-comments\"><a href=\"http:\/\/espn.go.com\/blog\/boston\/new-england-patriots\/post\/_\/id\/4763130\/ty-law-to-be-inducted-into-patriots-hall#comments\" rel=\"nofollow\" class=\"sp-opt-66\"><span class=\"sp-opt-71 sprite-page-actions comments\"><\/span><span class=\"sp-opt-68 label\">COMMENTS<\/span><\/a><a class=\"sp-opt-69 count\" href=\"http:\/\/espn.go.com\/blog\/boston\/new-england-patriots\/post\/_\/id\/4763130\/ty-law-to-be-inducted-into-patriots-hall#comments\" rel=\"nofollow\">13<\/a><\/li><li class=\"sp-opt-65 espn-email\"><a id=\"email-4763130\" class=\"sp-opt-66 email\" href=\"http:\/\/sendtofriend.espn.go.com\/sendtofriend\/SendToFriend?URL=http%3A%2f%2fespn.go.com%2fblog%2fboston%2fnew%2dengland%2dpatriots%2fpost%2f_%2fid%2f4763130%2fty%2dlaw%2dto%2dbe%2dinducted%2dinto%2dpatriots%2dhall&amp;title=Ty+Law+to+be+inducted+into+Patriots+Hall\" target=\"_new\" rel=\"nofollow\"><span class=\"sp-opt-72 sprite-page-actions email\"><\/span><span class=\"sp-opt-68 label\">EMAIL<\/span><\/a><\/li><li class=\"sp-opt-65\"><a id=\"print-4763130\" class=\"sp-opt-66 print\" href=\"http:\/\/espn.go.com\/blog\/boston\/new-england-patriots\/print?id=4763130\" rel=\"nofollow\"><span class=\"sp-opt-73 sprite-page-actions print\"><\/span><span class=\"sp-opt-68 label\">PRINT<\/span><\/a><\/li><\/ul><\/div><div class=\"sp-opt-74 mod-content\">After a monthlong fan vote to determine this year's inductee to the Patriots Hall of Fame, cornerback Ty Law is the winner. This was Law's first year of eligibility.&nbsp;<br><br>\"Ty Law was one of the greatest players in franchise history and one of the premier corners in the NFL during his Patriots career,\u201D Patriots chairman and CEO Robert Kraft said in a statement. \"The fans have helped validate that with this year\u2019s hall of fame selection. We have had an incredible run of success and the building blocks started with players like Ty. He was an important part of three Super Bowl championship teams. It will be an honor to bring Ty back to celebrate his career as he takes his rightful place in our team\u2019s hall of fame. I am sure he will deliver another memorable moment during his hall of fame ceremony, too.\"&nbsp;<br><br>Law was a finalist along with cornerback Raymond Clayborn and former coach Bill Parcells. The finalists were selected by a committee composed of media members, team officials and alumni.&nbsp;<br><br>The induction ceremony for Law is scheduled for Friday, Aug. 1 at 4:30 p.m. ET. There is no cost to attend and it is open to the public.<\/div><ul id=\"page-actions-bottom\" class=\"sp-opt-75 mod-page-actions\"><li class=\"sp-opt-65 social facebook-recommend\"><a href=\"https:\/\/www.facebook.com\/sharer.php?u=http%3A%2f%2fespn.go.com%2fblog%2fboston%2fnew%2dengland%2dpatriots%2fpost%2f_%2fid%2f4763130%2fty%2dlaw%2dto%2dbe%2dinducted%2dinto%2dpatriots%2dhall&amp;t=Ty+Law+to+be+inducted+into+Patriots+Hall\" target=\"_new\" rel=\"nofollow\" class=\"sp-opt-66\"><span class=\"sp-opt-67 sprite-page-actions facebook\"><\/span><span class=\"sp-opt-68 label\">RECOMMEND<\/span><\/a><a class=\"sp-opt-69 count\" href=\"https:\/\/www.facebook.com\/sharer.php?u=http%3A%2f%2fespn.go.com%2fblog%2fboston%2fnew%2dengland%2dpatriots%2fpost%2f_%2fid%2f4763130%2fty%2dlaw%2dto%2dbe%2dinducted%2dinto%2dpatriots%2dhall&amp;t=Ty+Law+to+be+inducted+into+Patriots+Hall\" target=\"_new\" rel=\"nofollow\">82<\/a><\/li><li class=\"sp-opt-65 social twitter-tweet\"><a href=\"http:\/\/twitter.com\/intent\/tweet?url=http%3A%2f%2fespn.go.com%2fblog%2fboston%2fnew%2dengland%2dpatriots%2fpost%2f_%2fid%2f4763130%2fty%2dlaw%2dto%2dbe%2dinducted%2dinto%2dpatriots%2dhall&amp;text=Ty+Law+to+be+inducted+into+Patriots+Hall\" target=\"_new\" rel=\"nofollow\" class=\"sp-opt-66\"><span class=\"sp-opt-70 sprite-page-actions twitter\"><\/span><span class=\"sp-opt-68 label\">TWEET<\/span><\/a><a class=\"sp-opt-69 count\" href=\"http:\/\/twitter.com\/intent\/tweet?url=http%3A%2f%2fespn.go.com%2fblog%2fboston%2fnew%2dengland%2dpatriots%2fpost%2f_%2fid%2f4763130%2fty%2dlaw%2dto%2dbe%2dinducted%2dinto%2dpatriots%2dhall&amp;text=Ty+Law+to+be+inducted+into+Patriots+Hall\" target=\"_new\" rel=\"nofollow\">31<\/a><\/li><li class=\"sp-opt-65 social fb-comments\"><a href=\"http:\/\/espn.go.com\/blog\/boston\/new-england-patriots\/post\/_\/id\/4763130\/ty-law-to-be-inducted-into-patriots-hall#comments\" rel=\"nofollow\" class=\"sp-opt-66\"><span class=\"sp-opt-71 sprite-page-actions comments\"><\/span><span class=\"sp-opt-68 label\">COMMENTS<\/span><\/a><a class=\"sp-opt-69 count\" href=\"http:\/\/espn.go.com\/blog\/boston\/new-england-patriots\/post\/_\/id\/4763130\/ty-law-to-be-inducted-into-patriots-hall#comments\" rel=\"nofollow\">13<\/a><\/li><li class=\"sp-opt-65 espn-email\"><a id=\"email-4763130\" class=\"sp-opt-66 email\" href=\"http:\/\/sendtofriend.espn.go.com\/sendtofriend\/SendToFriend?URL=http%3A%2f%2fespn.go.com%2fblog%2fboston%2fnew%2dengland%2dpatriots%2fpost%2f_%2fid%2f4763130%2fty%2dlaw%2dto%2dbe%2dinducted%2dinto%2dpatriots%2dhall&amp;title=Ty+Law+to+be+inducted+into+Patriots+Hall\" target=\"_new\" rel=\"nofollow\"><span class=\"sp-opt-72 sprite-page-actions email\"><\/span><span class=\"sp-opt-68 label\">EMAIL<\/span><\/a><\/li><li class=\"sp-opt-65\"><a id=\"print-4763130\" class=\"sp-opt-66 print\" href=\"http:\/\/espn.go.com\/blog\/boston\/new-england-patriots\/print?id=4763130\" rel=\"nofollow\"><span class=\"sp-opt-73 sprite-page-actions print\"><\/span><span class=\"sp-opt-68 label\">PRINT<\/span><\/a><\/li><\/ul><div class=\"sp-opt-76 mod-author-bio\"><div class=\"sp-opt-77 author\"><a href=\"http:\/\/search.espn.go.com\/mike-reiss\/\" class=\"sp-opt-78\"><img class=\"sp-opt-79 floatleft\" src=\"http:\/\/a.espncdn.com\/combiner\/i?img=%2fi%2fcolumnists%2freiss_mike_m.jpg&amp;w=35&amp;h=48\"><\/a><h4 class=\"sp-opt-80\"><a href=\"http:\/\/search.espn.go.com\/mike-reiss\/\" class=\"sp-opt-81\">Mike Reiss<\/a><\/h4>ESPN New England Patriots reporter<ul class=\"sp-opt-82 author-actions\"><li class=\"sp-opt-83 twitter-follow\"><a href=\"http:\/\/twitter.com\/intent\/user?screen_name=MikeReiss\" class=\"sp-opt-84\"><span class=\"sp-opt-85 sprite-page-actions-12 twitter\"><\/span>Follow<\/a><\/li><li class=\"sp-opt-83\"><a href=\"http:\/\/search.espn.go.com\/mike-reiss\/\" class=\"sp-opt-84\">Archive<\/a><\/li><\/ul><\/div><ul class=\"sp-opt-86 bulletlinks\"><li class=\"sp-opt-87\">Covered Patriots since 1997<\/li><li class=\"sp-opt-88\">Joined ESPN in 2009<\/li><\/ul><div class=\"sp-opt-89 clear\"><\/div><\/div><div class=\"sp-opt-90 mod-blog-tags\"><span class=\"sp-opt-91\">Tags:<\/span><p class=\"sp-opt-92\"><a href=\"http:\/\/espn.go.com\/blog\/boston\/new-england-patriots\/category\/_\/name\/new-england-patriots\" class=\"sp-opt-93\">New England Patriots<\/a><\/p><\/div><\/div><\/div><a name=\"comments\" class=\"sp-opt-94\"><\/a><div class=\"sp-opt-95 bg-opaque pad-16 mod-conversations\"><div id=\"comments\" class=\"sp-opt-96 mod-content\"><h3 class=\"sp-opt-97 mod-header\"><br><\/h3><\/div><\/div><\/div><div class=\"sp-opt-98 span-2 last\"><div class=\"sp-opt-98 span-2 last\"><div class=\"sp-opt-99 mod-container mod-no-footer mod-open\" id=\"mod_localstorymod\"><div class=\"sp-opt-100 mod-header\"><h4 class=\"sp-opt-101\">MORE FROM ESPN BOSTON<\/h4><\/div><div class=\"sp-opt-102 mod-content\"><div class=\"sp-opt-103 gradient-container\"><a href=\"http:\/\/espn.go.com\/boston\/\" class=\"sp-opt-104\"><img src=\"http:\/\/a.espncdn.com\/espncitysites\/boston\/prod\/assets\/mod_alsosee.gif\" alt=\"ESPN\" width=\"298\" class=\"sp-opt-105\"><\/a><div class=\"sp-opt-106 col-full\"><p class=\"sp-opt-107\">Want to submit a question for Mike Reiss' weekly Patriots mailbag?&nbsp;<a href=\"http:\/\/espn.go.com\/boston\/mailbag\/_\/id\/28347\/mike-reiss\" class=\"sp-opt-104\">Click here&nbsp;<\/a>and come back every Tuesday around noon for the 'bag.<\/p><p class=\"sp-opt-107\">Latest headlines on&nbsp;<a href=\"http:\/\/espn.go.com\/boston\/\" class=\"sp-opt-104\">ESPNBoston.com<\/a>:<\/p><ul class=\"sp-opt-108 bulletlinks\"><li class=\"sp-opt-109\"><a href=\"http:\/\/espn.go.com\/boston\/nba\/story\/_\/id\/10956274\/boston-celtics-hoping-lucky-bounce-draft-lottery\" name=\"&amp;lpos=localstorymod&amp;lid=Celtics hoping for\" class=\"sp-opt-104\">Celtics hoping for lucky bounce in draft lottery<\/a><\/li><li class=\"sp-opt-109\"><a href=\"http:\/\/espn.go.com\/blog\/boston\/new-england-patriots\/post\/_\/id\/4763130\/ty-law-to-be-inducted-into-patriots-hall\" name=\"&amp;lpos=localstorymod&amp;lid=Law voted into Patr\" class=\"sp-opt-104\">Law voted into Patriots Hall of Fame<\/a><\/li><li class=\"sp-opt-109\"><a href=\"http:\/\/espn.go.com\/boston\/mlb\/story\/_\/id\/10956348\/boston-red-sox-offense-needs-some-kind-boost\" name=\"&amp;lpos=localstorymod&amp;lid=Red Sox offense nee\" class=\"sp-opt-104\">Red Sox offense needs some kind of boost<\/a><\/li><\/ul><\/div><\/div><\/div><\/div><div class=\"sp-opt-99 mod-container mod-no-footer nationtable\"><div class=\"sp-opt-110 mod-header\"><a href=\"http:\/\/espn.go.com\/blog\/nflnation\" class=\"sp-opt-111\"><\/a><\/div><div class=\"sp-opt-112 mod-content\"><table class=\"sp-opt-113\"><tbody class=\"sp-opt-43\"><tr class=\"sp-opt-43\"><td class=\"sp-opt-114 division\"><a href=\"http:\/\/espn.go.com\/blog\/afcnorth\" class=\"sp-opt-115\"><img src=\"http:\/\/a.espncdn.com\/i\/nfl\/nflblognetwork\/afcnorth.png\" class=\"sp-opt-116\"><\/a><\/td><td class=\"sp-opt-114 division\"><a href=\"http:\/\/espn.go.com\/blog\/nfcnorth\" class=\"sp-opt-115\"><img src=\"http:\/\/a.espncdn.com\/i\/nfl\/nflblognetwork\/nfcnorth.png\" class=\"sp-opt-116\"><\/a><\/td><\/tr><tr class=\"sp-opt-43\"><td class=\"sp-opt-117 afc\"><a href=\"http:\/\/espn.go.com\/blog\/baltimore-ravens\" class=\"sp-opt-118\"><div class=\"sp-opt-119 logo-nfl-small nfl-small-33\"><\/div><div class=\"sp-opt-120\"><\/div><span class=\"sp-opt-121\">Baltimore Ravens<\/span><\/a><\/td><td class=\"sp-opt-122\"><a href=\"http:\/\/espn.go.com\/blog\/chicago-bears\" class=\"sp-opt-118\"><div class=\"sp-opt-123 logo-nfl-small nfl-small-3\"><\/div><div class=\"sp-opt-120\"><\/div><span class=\"sp-opt-121\">Chicago Bears<\/span><\/a><\/td><\/tr><tr class=\"sp-opt-43\"><td class=\"sp-opt-117 afc\"><a href=\"http:\/\/espn.go.com\/blog\/cleveland-browns\" class=\"sp-opt-118\"><div class=\"sp-opt-124 logo-nfl-small nfl-small-5\"><\/div><div class=\"sp-opt-120\"><\/div><span class=\"sp-opt-121\">Cleveland Browns<\/span><\/a><\/td><td class=\"sp-opt-122\"><a href=\"http:\/\/espn.go.com\/blog\/detroit-lions\" class=\"sp-opt-118\"><div class=\"sp-opt-125 logo-nfl-small nfl-small-8\"><\/div><div class=\"sp-opt-120\"><\/div><span class=\"sp-opt-121\">Detroit Lions<\/span><\/a><\/td><\/tr><tr class=\"sp-opt-43\"><td class=\"sp-opt-117 afc\"><a href=\"http:\/\/espn.go.com\/blog\/cincinnati-bengals\" class=\"sp-opt-118\"><div class=\"sp-opt-126 logo-nfl-small nfl-small-4\"><\/div><div class=\"sp-opt-120\"><\/div><span class=\"sp-opt-121\">Cincinnati Bengals<\/span><\/a><\/td><td class=\"sp-opt-122\"><a href=\"http:\/\/espn.go.com\/blog\/green-bay-packers\" class=\"sp-opt-118\"><div class=\"sp-opt-127 logo-nfl-small nfl-small-9\"><\/div><div class=\"sp-opt-120\"><\/div><span class=\"sp-opt-121\">Green Bay Packers<\/span><\/a><\/td><\/tr><tr class=\"sp-opt-43\"><td class=\"sp-opt-117 afc\"><a href=\"http:\/\/espn.go.com\/blog\/pittsburgh-steelers\" class=\"sp-opt-118\"><div class=\"sp-opt-128 logo-nfl-small nfl-small-23\"><\/div><div class=\"sp-opt-120\"><\/div><span class=\"sp-opt-121\">Pittsburgh Steelers<\/span><\/a><\/td><td class=\"sp-opt-122\"><a href=\"http:\/\/espn.go.com\/blog\/minnesota-vikings\" class=\"sp-opt-118\"><div class=\"sp-opt-129 logo-nfl-small nfl-small-16\"><\/div><div class=\"sp-opt-120\"><\/div><span class=\"sp-opt-121\">Minnesota Vikings<\/span><\/a><\/td><\/tr><tr class=\"sp-opt-43\"><td class=\"sp-opt-114 division\"><a href=\"http:\/\/espn.go.com\/blog\/afcsouth\" class=\"sp-opt-115\"><img src=\"http:\/\/a.espncdn.com\/i\/nfl\/nflblognetwork\/afcsouth.png\" class=\"sp-opt-116\"><\/a><\/td><td class=\"sp-opt-114 division\"><a href=\"http:\/\/espn.go.com\/blog\/nfcsouth\" class=\"sp-opt-115\"><img src=\"http:\/\/a.espncdn.com\/i\/nfl\/nflblognetwork\/nfcsouth.png\" class=\"sp-opt-116\"><\/a><\/td><\/tr><tr class=\"sp-opt-43\"><td class=\"sp-opt-117 afc\"><a href=\"http:\/\/espn.go.com\/blog\/houston-texans\" class=\"sp-opt-118\"><div class=\"sp-opt-130 logo-nfl-small nfl-small-34\"><\/div><div class=\"sp-opt-120\"><\/div><span class=\"sp-opt-121\">Houston Texans<\/span><\/a><\/td><td class=\"sp-opt-122\"><a href=\"http:\/\/espn.go.com\/blog\/atlanta-falcons\" class=\"sp-opt-118\"><div class=\"sp-opt-131 logo-nfl-small nfl-small-1\"><\/div><div class=\"sp-opt-120\"><\/div><span class=\"sp-opt-121\">Atlanta Falcons<\/span><\/a><\/td><\/tr><tr class=\"sp-opt-43\"><td class=\"sp-opt-117 afc\"><a href=\"http:\/\/espn.go.com\/blog\/indianapolis-colts\" class=\"sp-opt-118\"><div class=\"sp-opt-132 logo-nfl-small nfl-small-11\"><\/div><div class=\"sp-opt-120\"><\/div><span class=\"sp-opt-121\">Indianapolis Colts<\/span><\/a><\/td><td class=\"sp-opt-122\"><a href=\"http:\/\/espn.go.com\/blog\/new-orleans-saints\" class=\"sp-opt-118\"><div class=\"sp-opt-133 logo-nfl-small nfl-small-18\"><\/div><div class=\"sp-opt-120\"><\/div><span class=\"sp-opt-121\">New Orleans Saints<\/span><\/a><\/td><\/tr><tr class=\"sp-opt-43\"><td class=\"sp-opt-117 afc\"><a href=\"http:\/\/espn.go.com\/blog\/jacksonville-jaguars\" class=\"sp-opt-118\"><div class=\"sp-opt-134 logo-nfl-small nfl-small-30\"><\/div><div class=\"sp-opt-120\"><\/div><span class=\"sp-opt-121\">Jacksonville Jaguars<\/span><\/a><\/td><td class=\"sp-opt-122\"><a href=\"http:\/\/espn.go.com\/blog\/carolina-panthers\" class=\"sp-opt-118\"><div class=\"sp-opt-135 logo-nfl-small nfl-small-29\"><\/div><div class=\"sp-opt-120\"><\/div><span class=\"sp-opt-121\">Carolina Panthers<\/span><\/a><\/td><\/tr><tr class=\"sp-opt-43\"><td class=\"sp-opt-117 afc\"><a href=\"http:\/\/espn.go.com\/blog\/tennessee-titans\" class=\"sp-opt-118\"><div class=\"sp-opt-136 logo-nfl-small nfl-small-10\"><\/div><div class=\"sp-opt-120\"><\/div><span class=\"sp-opt-121\">Tennessee Titans<\/span><\/a><\/td><td class=\"sp-opt-122\"><a href=\"http:\/\/espn.go.com\/blog\/tampa-bay-buccaneers\" class=\"sp-opt-118\"><div class=\"sp-opt-137 logo-nfl-small nfl-small-27\"><\/div><div class=\"sp-opt-120\"><\/div><span class=\"sp-opt-121\">Tampa Bay Buccaneers<\/span><\/a><\/td><\/tr><tr class=\"sp-opt-43\"><td class=\"sp-opt-114 division\"><a href=\"http:\/\/espn.go.com\/blog\/afceast\" class=\"sp-opt-115\"><img src=\"http:\/\/a.espncdn.com\/i\/nfl\/nflblognetwork\/afceast.png\" class=\"sp-opt-116\"><\/a><\/td><td class=\"sp-opt-114 division\"><a href=\"http:\/\/espn.go.com\/blog\/nfceast\" class=\"sp-opt-115\"><img src=\"http:\/\/a.espncdn.com\/i\/nfl\/nflblognetwork\/nfceast.png\" class=\"sp-opt-116\"><\/a><\/td><\/tr><tr class=\"sp-opt-43\"><td class=\"sp-opt-117 afc\"><a href=\"http:\/\/espn.go.com\/blog\/buffalo-bills\" class=\"sp-opt-118\"><div class=\"sp-opt-138 logo-nfl-small nfl-small-2\"><\/div><div class=\"sp-opt-120\"><\/div><span class=\"sp-opt-121\">Buffalo Bills<\/span><\/a><\/td><td class=\"sp-opt-122\"><a href=\"http:\/\/espn.go.com\/blog\/dallas-cowboys\" class=\"sp-opt-118\"><div class=\"sp-opt-139 logo-nfl-small nfl-small-6\"><\/div><div class=\"sp-opt-120\"><\/div><span class=\"sp-opt-121\">Dallas Cowboys<\/span><\/a><\/td><\/tr><tr class=\"sp-opt-43\"><td class=\"sp-opt-117 afc\"><a href=\"http:\/\/espn.go.com\/blog\/miami-dolphins\" class=\"sp-opt-118\"><div class=\"sp-opt-140 logo-nfl-small nfl-small-15\"><\/div><div class=\"sp-opt-120\"><\/div><span class=\"sp-opt-121\">Miami Dolphins<\/span><\/a><\/td><td class=\"sp-opt-122\"><a href=\"http:\/\/espn.go.com\/blog\/new-york-giants\" class=\"sp-opt-118\"><div class=\"sp-opt-141 logo-nfl-small nfl-small-19\"><\/div><div class=\"sp-opt-120\"><\/div><span class=\"sp-opt-121\">New York Giants<\/span><\/a><\/td><\/tr><tr class=\"sp-opt-43\"><td class=\"sp-opt-117 afc\"><a href=\"http:\/\/espn.go.com\/blog\/boston\/new-england-patriots\" class=\"sp-opt-118\"><div class=\"sp-opt-142 logo-nfl-small nfl-small-17\"><\/div><div class=\"sp-opt-120\"><\/div><span class=\"sp-opt-121\">New England Patriots<\/span><\/a><\/td><td class=\"sp-opt-122\"><a href=\"http:\/\/espn.go.com\/blog\/philadelphia-eagles\" class=\"sp-opt-118\"><div class=\"sp-opt-143 logo-nfl-small nfl-small-21\"><\/div><div class=\"sp-opt-120\"><\/div><span class=\"sp-opt-121\">Philadelphia Eagles<\/span><\/a><\/td><\/tr><tr class=\"sp-opt-43\"><td class=\"sp-opt-117 afc\"><a href=\"http:\/\/espn.go.com\/blog\/new-york-jets\" class=\"sp-opt-118\"><div class=\"sp-opt-144 logo-nfl-small nfl-small-20\"><\/div><div class=\"sp-opt-120\"><\/div><span class=\"sp-opt-121\">New York Jets<\/span><\/a><\/td><td class=\"sp-opt-122\"><a href=\"http:\/\/espn.go.com\/blog\/washington-redskins\" class=\"sp-opt-118\"><div class=\"sp-opt-145 logo-nfl-small nfl-small-28\"><\/div><div class=\"sp-opt-120\"><\/div><span class=\"sp-opt-121\">Washington Redskins<\/span><\/a><\/td><\/tr><tr class=\"sp-opt-43\"><td class=\"sp-opt-114 division\"><a href=\"http:\/\/espn.go.com\/blog\/afcwest\" class=\"sp-opt-115\"><img src=\"http:\/\/a.espncdn.com\/i\/nfl\/nflblognetwork\/afcwest.png\" class=\"sp-opt-116\"><\/a><\/td><td class=\"sp-opt-114 division\"><a href=\"http:\/\/espn.go.com\/blog\/nfcwest\" class=\"sp-opt-115\"><img src=\"http:\/\/a.espncdn.com\/i\/nfl\/nflblognetwork\/nfcwest.png\" class=\"sp-opt-116\"><\/a><\/td><\/tr><tr class=\"sp-opt-43\"><td class=\"sp-opt-117 afc\"><a href=\"http:\/\/espn.go.com\/blog\/denver-broncos\" class=\"sp-opt-118\"><div class=\"sp-opt-146 logo-nfl-small nfl-small-7\"><\/div><div class=\"sp-opt-120\"><\/div><span class=\"sp-opt-121\">Denver Broncos<\/span><\/a><\/td><td class=\"sp-opt-122\"><a href=\"http:\/\/espn.go.com\/blog\/arizona-cardinals\" class=\"sp-opt-118\"><div class=\"sp-opt-147 logo-nfl-small nfl-small-22\"><\/div><div class=\"sp-opt-120\"><\/div><span class=\"sp-opt-121\">Arizona Cardinals<\/span><\/a><\/td><\/tr><tr class=\"sp-opt-43\"><td class=\"sp-opt-117 afc\"><a href=\"http:\/\/espn.go.com\/blog\/kansas-city-chiefs\" class=\"sp-opt-118\"><div class=\"sp-opt-148 logo-nfl-small nfl-small-12\"><\/div><div class=\"sp-opt-120\"><\/div><span class=\"sp-opt-121\">Kansas City Chiefs<\/span><\/a><\/td><td class=\"sp-opt-122\"><a href=\"http:\/\/espn.go.com\/blog\/st-louis-rams\" class=\"sp-opt-118\"><div class=\"sp-opt-149 logo-nfl-small nfl-small-14\"><\/div><div class=\"sp-opt-120\"><\/div><span class=\"sp-opt-121\">St. Louis Rams<\/span><\/a><\/td><\/tr><tr class=\"sp-opt-43\"><td class=\"sp-opt-117 afc\"><a href=\"http:\/\/espn.go.com\/blog\/oakland-raiders\" class=\"sp-opt-118\"><div class=\"sp-opt-150 logo-nfl-small nfl-small-13\"><\/div><div class=\"sp-opt-120\"><\/div><span class=\"sp-opt-121\">Oakland Raiders<\/span><\/a><\/td><td class=\"sp-opt-122\"><a href=\"http:\/\/espn.go.com\/blog\/san-francisco-49ers\" class=\"sp-opt-118\"><div class=\"sp-opt-151 logo-nfl-small nfl-small-25\"><\/div><div class=\"sp-opt-120\"><\/div><span class=\"sp-opt-121\">San Francisco 49ers<\/span><\/a><\/td><\/tr><tr class=\"sp-opt-43\"><td class=\"sp-opt-152 afc\"><a href=\"http:\/\/espn.go.com\/blog\/san-diego-chargers\" class=\"sp-opt-118\"><div class=\"sp-opt-153 logo-nfl-small nfl-small-24\"><\/div><div class=\"sp-opt-120\"><\/div><span class=\"sp-opt-121\">San Diego Chargers<\/span><\/a><\/td><td class=\"sp-opt-154\"><a href=\"http:\/\/espn.go.com\/blog\/seattle-seahawks\" class=\"sp-opt-118\"><div class=\"sp-opt-155 logo-nfl-small nfl-small-26\"><\/div><div class=\"sp-opt-120\"><\/div><span class=\"sp-opt-121\">Seattle Seahawks<\/span><\/a><\/td><\/tr><\/tbody><\/table><\/div><\/div><div class=\"sp-opt-99 mod-container mod-no-footer mod-open\"><div class=\"sp-opt-100 mod-header\"><h4 class=\"sp-opt-101\">WEEK 2 - THURSDAY 8\/7<\/h4><\/div><div class=\"sp-opt-102 mod-content\"><table class=\"sp-opt-156 mod-data\"><thead class=\"sp-opt-43\"><tr class=\"sp-opt-43 even\"><th align=\"left\" colspan=\"3\" class=\"sp-opt-157\"><span class=\"sp-opt-158\"><\/span>7:30 PM ET<\/th><\/tr><\/thead><tbody class=\"sp-opt-43\"><tr class=\"sp-opt-159 odd\" valign=\"top\"><td width=\"25%\" class=\"sp-opt-160\">&nbsp;<\/td><td width=\"50%\" class=\"sp-opt-161\"><a href=\"http:\/\/sports.espn.go.com\/nfl\/intel?gameId=340807028\" class=\"sp-opt-104\">Intel Report<\/a>&nbsp;|&nbsp;<a href=\"http:\/\/www.stubhub.com\/washington-redskins-tickets\/\" title=\"Washington Redskins Tickets\" class=\"sp-opt-104\">Tickets<\/a><br><a href=\"http:\/\/espn.go.com\/nfl\/conversation?gameId=340807028\" class=\"sp-opt-104\">Conversation<\/a><\/td><td width=\"25%\" class=\"sp-opt-162\">&nbsp;<\/td><\/tr><\/tbody><\/table><hr class=\"sp-opt-163\"><p class=\"sp-opt-164 footer\"><a href=\"http:\/\/espn.go.com\/nfl\/scoreboard\" class=\"sp-opt-165\">Full Scoreboard »<\/a><\/p><\/div><\/div><div class=\"sp-opt-99 mod-container mod-no-footer mod-open\"><div class=\"sp-opt-100 mod-header\"><h4 class=\"sp-opt-101\">2013 AFC EAST STANDINGS<\/h4><\/div><div class=\"sp-opt-102 mod-content\"><table class=\"sp-opt-156 mod-data\"><thead class=\"sp-opt-43\"><tr class=\"sp-opt-43\"><th class=\"sp-opt-157\">TEAM<\/th><th class=\"sp-opt-157\">W<\/th><th class=\"sp-opt-157\">L<\/th><th class=\"sp-opt-157\">T<\/th><th class=\"sp-opt-157\">PF<\/th><th class=\"sp-opt-157\">PA<\/th><\/tr><\/thead><tbody class=\"sp-opt-43\"><tr class=\"sp-opt-43 even\"><td class=\"sp-opt-166\"><a href=\"http:\/\/espn.go.com\/nfl\/clubhouse?team=nwe\" class=\"sp-opt-118\"><strong class=\"sp-opt-167\">New England<\/strong><\/a><\/td><td class=\"sp-opt-166\"><strong class=\"sp-opt-167\">12<\/strong><\/td><td class=\"sp-opt-166\"><strong class=\"sp-opt-167\">4<\/strong><\/td><td class=\"sp-opt-166\"><strong class=\"sp-opt-167\">0<\/strong><\/td><td class=\"sp-opt-166\"><strong class=\"sp-opt-167\">444<\/strong><\/td><td class=\"sp-opt-166\"><strong class=\"sp-opt-167\">338<\/strong><\/td><\/tr><tr class=\"sp-opt-43 odd\"><td class=\"sp-opt-168\"><a href=\"http:\/\/espn.go.com\/nfl\/clubhouse?team=nyj\" class=\"sp-opt-118\">NY Jets<\/a><\/td><td class=\"sp-opt-168\">8<\/td><td class=\"sp-opt-168\">8<\/td><td class=\"sp-opt-168\">0<\/td><td class=\"sp-opt-168\">290<\/td><td class=\"sp-opt-168\">387<\/td><\/tr><tr class=\"sp-opt-43 even\"><td class=\"sp-opt-166\"><a href=\"http:\/\/espn.go.com\/nfl\/clubhouse?team=mia\" class=\"sp-opt-118\">Miami<\/a><\/td><td class=\"sp-opt-166\">8<\/td><td class=\"sp-opt-166\">8<\/td><td class=\"sp-opt-166\">0<\/td><td class=\"sp-opt-166\">317<\/td><td class=\"sp-opt-166\">335<\/td><\/tr><tr class=\"sp-opt-43 odd\"><td class=\"sp-opt-168\"><a href=\"http:\/\/espn.go.com\/nfl\/clubhouse?team=buf\" class=\"sp-opt-118\">Buffalo<\/a><\/td><td class=\"sp-opt-168\">6<\/td><td class=\"sp-opt-168\">10<\/td><td class=\"sp-opt-168\">0<\/td><td class=\"sp-opt-168\">339<\/td><td class=\"sp-opt-168\">388<\/td><\/tr><\/tbody><\/table><p class=\"sp-opt-164 footer\"><a href=\"http:\/\/espn.go.com\/nfl\/standings\" class=\"sp-opt-165\">Complete Standings »<\/a><\/p><\/div><\/div><div class=\"sp-opt-99 mod-container mod-no-footer mod-fanshop\"><div class=\"sp-opt-100 mod-header\"><h4 class=\"sp-opt-101\">ESPN FAN SHOP&nbsp;<span class=\"sp-opt-169\"><a href=\"http:\/\/www.dickssportinggoods.com\/category\/index.jsp?categoryId=11400507&amp;camp=Part:ESPNpart::blogfeed:NewEnglandPatriots\" rel=\"nofollow\" target=\"_blank\" class=\"sp-opt-78\"><img src=\"http:\/\/a.espncdn.com\/i\/shop\/dsg_presby.gif\" class=\"sp-opt-170\"><\/a><\/span><\/h4><\/div><div class=\"sp-opt-102 mod-content\"><ul class=\"sp-opt-171\"><li class=\"sp-opt-43\"><dl class=\"sp-opt-172\"><dd class=\"sp-opt-173\"><a href=\"http:\/\/www.dickssportinggoods.com\/product\/index.jsp?productId=24573326&amp;camp=Part:ESPNpart::blogfeed:NewEnglandPatriots\" rel=\"nofollow\" target=\"_blank\" class=\"sp-opt-104\"><img width=\"80\" src=\"http:\/\/www.dickssportinggoods.com\/graphics\/product_images\/pDSP1-16943572nm.jpg\" class=\"sp-opt-105\"><\/a><\/dd><dt class=\"sp-opt-174\">GameWear New England Patriots Tom Brady Team NFL Bracelet&nbsp;<a href=\"http:\/\/www.dickssportinggoods.com\/product\/index.jsp?productId=24573326&amp;camp=Part:ESPNpart::blogfeed:NewEnglandPatriots\" rel=\"nofollow\" target=\"_blank\" class=\"sp-opt-104\"><b class=\"sp-opt-43\"><nobr>Shop »<\/nobr><\/b><\/a><\/dt><\/dl><\/li><\/ul><\/div><\/div><div class=\"sp-opt-99 mod-container mod-no-header-footer mod-open\"><div class=\"sp-opt-175 mod-content mod-blog-archives\"><div class=\"sp-opt-176 blog-feed-logos row\"><h4 class=\"sp-opt-177\">SUBSCRIBE:<\/h4><a class=\"sp-opt-178 rss-logo\" href=\"http:\/\/espn.go.com\/blog\/feed?blog=bostonnew-england-patriots\"><span class=\"sp-opt-179\">Subscribe to this blog's RSS<\/span><\/a><div class=\"sp-opt-172 clear\"><\/div><\/div><div class=\"sp-opt-180 row\"><h4 class=\"sp-opt-177\">BLOG ARCHIVE:<\/h4><form class=\"sp-opt-43 js-goto\"><select class=\"sp-opt-181\">&nbsp;<option value=\"#\" class=\"sp-opt-182\">Select One<\/option>&nbsp;<option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/may-2014\" class=\"sp-opt-182\">May 2014 (128)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/april-2014\" class=\"sp-opt-182\">April 2014 (162)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/march-2014\" class=\"sp-opt-182\">March 2014 (184)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/february-2014\" class=\"sp-opt-182\">February 2014 (149)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/january-2014\" class=\"sp-opt-182\">January 2014 (269)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/december-2013\" class=\"sp-opt-182\">December 2013 (315)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/november-2013\" class=\"sp-opt-182\">November 2013 (269)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/october-2013\" class=\"sp-opt-182\">October 2013 (326)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/september-2013\" class=\"sp-opt-182\">September 2013 (309)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/august-2013\" class=\"sp-opt-182\">August 2013 (325)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/july-2013\" class=\"sp-opt-182\">July 2013 (220)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/june-2013\" class=\"sp-opt-182\">June 2013 (203)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/may-2013\" class=\"sp-opt-182\">May 2013 (219)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/april-2013\" class=\"sp-opt-182\">April 2013 (241)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/march-2013\" class=\"sp-opt-182\">March 2013 (243)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/february-2013\" class=\"sp-opt-182\">February 2013 (183)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/january-2013\" class=\"sp-opt-182\">January 2013 (381)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/december-2012\" class=\"sp-opt-182\">December 2012 (469)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/november-2012\" class=\"sp-opt-182\">November 2012 (415)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/october-2012\" class=\"sp-opt-182\">October 2012 (487)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/september-2012\" class=\"sp-opt-182\">September 2012 (477)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/august-2012\" class=\"sp-opt-182\">August 2012 (454)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/july-2012\" class=\"sp-opt-182\">July 2012 (234)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/june-2012\" class=\"sp-opt-182\">June 2012 (225)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/may-2012\" class=\"sp-opt-182\">May 2012 (256)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/april-2012\" class=\"sp-opt-182\">April 2012 (232)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/march-2012\" class=\"sp-opt-182\">March 2012 (238)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/february-2012\" class=\"sp-opt-182\">February 2012 (323)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/january-2012\" class=\"sp-opt-182\">January 2012 (563)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/december-2011\" class=\"sp-opt-182\">December 2011 (478)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/november-2011\" class=\"sp-opt-182\">November 2011 (502)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/october-2011\" class=\"sp-opt-182\">October 2011 (491)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/september-2011\" class=\"sp-opt-182\">September 2011 (518)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/august-2011\" class=\"sp-opt-182\">August 2011 (429)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/july-2011\" class=\"sp-opt-182\">July 2011 (236)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/june-2011\" class=\"sp-opt-182\">June 2011 (155)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/may-2011\" class=\"sp-opt-182\">May 2011 (158)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/april-2011\" class=\"sp-opt-182\">April 2011 (224)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/march-2011\" class=\"sp-opt-182\">March 2011 (164)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/february-2011\" class=\"sp-opt-182\">February 2011 (165)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/january-2011\" class=\"sp-opt-182\">January 2011 (350)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/december-2010\" class=\"sp-opt-182\">December 2010 (491)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/november-2010\" class=\"sp-opt-182\">November 2010 (472)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/october-2010\" class=\"sp-opt-182\">October 2010 (431)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/september-2010\" class=\"sp-opt-182\">September 2010 (408)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/august-2010\" class=\"sp-opt-182\">August 2010 (341)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/july-2010\" class=\"sp-opt-182\">July 2010 (118)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/june-2010\" class=\"sp-opt-182\">June 2010 (135)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/may-2010\" class=\"sp-opt-182\">May 2010 (144)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/april-2010\" class=\"sp-opt-182\">April 2010 (214)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/march-2010\" class=\"sp-opt-182\">March 2010 (200)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/february-2010\" class=\"sp-opt-182\">February 2010 (146)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/january-2010\" class=\"sp-opt-182\">January 2010 (220)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/december-2009\" class=\"sp-opt-182\">December 2009 (341)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/november-2009\" class=\"sp-opt-182\">November 2009 (311)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/october-2009\" class=\"sp-opt-182\">October 2009 (232)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/archive\/_\/month\/september-2009\" class=\"sp-opt-182\">September 2009 (131)<\/option><\/select><\/form><div class=\"sp-opt-172 clear\"><\/div><\/div><div class=\"sp-opt-180 row\"><h4 class=\"sp-opt-177\">CATEGORIES:<\/h4><form class=\"sp-opt-43 js-goto\"><select class=\"sp-opt-181\">&nbsp;<option value=\"#\" class=\"sp-opt-182\">Select One<\/option>&nbsp;<option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/10-possible-pats\" class=\"sp-opt-182\">10 possible Pats (31)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/afc-east\" class=\"sp-opt-182\">AFC East (29)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/afc-north\" class=\"sp-opt-182\">AFC North (3)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/afc-south\" class=\"sp-opt-182\">AFC South (3)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/afc-west\" class=\"sp-opt-182\">AFC West (3)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/advance-scouting\" class=\"sp-opt-182\">Advance scouting (11)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/atlanta-falcons\" class=\"sp-opt-182\">Atlanta Falcons (2)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/baltimore-ravens\" class=\"sp-opt-182\">Baltimore Ravens (71)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/behind-the-scenes\" class=\"sp-opt-182\">Behind the scenes (26)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/beyond-first-round\" class=\"sp-opt-182\">Beyond first round (11)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/beyond-the-big-3\" class=\"sp-opt-182\">Beyond the Big 3 (9)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/bill-belichick\" class=\"sp-opt-182\">Bill Belichick (63)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/blast-from-pats\" class=\"sp-opt-182\">Blast from Pats (1)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/boston-celtics\" class=\"sp-opt-182\">Boston Celtics (2)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/bubble-watch\" class=\"sp-opt-182\">Bubble watch (62)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/buffalo-bills\" class=\"sp-opt-182\">Buffalo Bills (41)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/carolina-panthers-2\" class=\"sp-opt-182\">Carolina Panthers (3)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/cincinnati-bengals-2\" class=\"sp-opt-182\">Cincinnati Bengals (3)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/coachs-big-decision\" class=\"sp-opt-182\">Coach's Big Decision (18)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/dallas-cowboys\" class=\"sp-opt-182\">Dallas Cowboys (1)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/defensive-snaps-2\" class=\"sp-opt-182\">Defensive snaps (62)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/denver-broncos\" class=\"sp-opt-182\">Denver Broncos (41)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/draft-pick-scouting-reports\" class=\"sp-opt-182\">Draft pick scouting reports (7)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/film-review\" class=\"sp-opt-182\">Film review (14)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/football-journey\" class=\"sp-opt-182\">Football Journey (96)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/former-pats-check-in\" class=\"sp-opt-182\">Former Pats check-in (31)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/free-agency\" class=\"sp-opt-182\">Free agency (229)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/free-agent-fit\" class=\"sp-opt-182\">Free agent fit (25)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/free-agent-fit-2014\" class=\"sp-opt-182\">Free agent fit 2014 (4)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/future-in-focus\" class=\"sp-opt-182\">Future Focus (12)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/green-bay-packers\" class=\"sp-opt-182\">Green Bay Packers (2)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/houston-texans\" class=\"sp-opt-182\">Houston Texans (96)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/indianapolis-colts\" class=\"sp-opt-182\">Indianapolis Colts (29)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/jacksonville-jaguars\" class=\"sp-opt-182\">Jacksonville Jaguars (10)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/kansas-city-chiefs\" class=\"sp-opt-182\">Kansas City Chiefs (1)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/learning-more-about\" class=\"sp-opt-182\">Learning more about ... (5)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/miami-dolphins\" class=\"sp-opt-182\">Miami Dolphins (25)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/mock-thoughts\" class=\"sp-opt-182\">Mock thoughts (64)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/nfc-east\" class=\"sp-opt-182\">NFC East (3)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/nfc-west\" class=\"sp-opt-182\">NFC West (1)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/nfl\" class=\"sp-opt-182\">NFL (22)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/nfl-patriots-quick-hits\" class=\"sp-opt-182\">NFL &amp; Patriots quick hits (38)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/nfl-combine\" class=\"sp-opt-182\">NFL Combine (115)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/nfl-draft\" class=\"sp-opt-182\">NFL Draft (489)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/nfl-context\" class=\"sp-opt-182\">NFL context (7)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/new-england-patriots\" class=\"sp-opt-182\">New England Patriots (5236)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/new-orleans-saints\" class=\"sp-opt-182\">New Orleans Saints (2)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/new-york-giants\" class=\"sp-opt-182\">New York Giants (4)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/new-york-jets\" class=\"sp-opt-182\">New York Jets (63)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/ota-observations\" class=\"sp-opt-182\">OTA observations (5)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/offensive-snaps\" class=\"sp-opt-182\">Offensive snaps (62)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/patriots-draft-special\" class=\"sp-opt-182\">Patriots Draft Special (19)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/pats-players-reaction-to-moss-trade\" class=\"sp-opt-182\">Pats players reaction to Moss trade (5)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/pats-positional-review\" class=\"sp-opt-182\">Pats positional review (19)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/penalty-watch\" class=\"sp-opt-182\">Penalty watch (23)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/philadelphia-eagles\" class=\"sp-opt-182\">Philadelphia Eagles (9)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/pittsburgh-steelers\" class=\"sp-opt-182\">Pittsburgh Steelers (7)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/positional-groupings\" class=\"sp-opt-182\">Positional groupings (50)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/positional-review\" class=\"sp-opt-182\">Positional review (23)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/predictions\" class=\"sp-opt-182\">Predictions (40)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/pro-bowl\" class=\"sp-opt-182\">Pro Bowl (11)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/reiss-p-a-t\" class=\"sp-opt-182\">Reiss P.A.T. (43)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/report-card-2\" class=\"sp-opt-182\">Report card (12)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/rise-of-sub-defense\" class=\"sp-opt-182\">Rise of sub defense (27)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/robert-kraft\" class=\"sp-opt-182\">Robert Kraft (16)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/san-francisco-49ers\" class=\"sp-opt-182\">San Francisco 49ers (28)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/scouts-notebook\" class=\"sp-opt-182\">Scout's notebook (22)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/scouting-report\" class=\"sp-opt-182\">Scouting report (12)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/seattle-seahawks\" class=\"sp-opt-182\">Seattle Seahawks (28)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/senior-bowl\" class=\"sp-opt-182\">Senior Bowl (11)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/shotgun-tracker\" class=\"sp-opt-182\">Shotgun tracker (1)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/special-teams\" class=\"sp-opt-182\">Special teams (14)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/st-louis-rams\" class=\"sp-opt-182\">St. Louis Rams (19)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/stat-check\" class=\"sp-opt-182\">Stat check (19)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/sudden-impact\" class=\"sp-opt-182\">Sudden impact (4)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/super-bowl\" class=\"sp-opt-182\">Super Bowl (8)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/super-bowl-spotlight\" class=\"sp-opt-182\">Super Bowl spotlight (2)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/tampa-bay-buccaneers\" class=\"sp-opt-182\">Tampa Bay Buccaneers (3)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/tedys-target\" class=\"sp-opt-182\">Tedy's Target (2)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/tedys-memo\" class=\"sp-opt-182\">Tedy's memo (0)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/tennessee-titans\" class=\"sp-opt-182\">Tennessee Titans (0)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/three-point-stance\" class=\"sp-opt-182\">Three-Point Stance (32)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/tom-brady\" class=\"sp-opt-182\">Tom Brady (86)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/training-camp\" class=\"sp-opt-182\">Training camp (111)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/transactions\" class=\"sp-opt-182\">Transactions (29)<\/option><option value=\"\/blog\/boston\/new-england-patriots\/category\/_\/name\/w2w4\" class=\"sp-opt-182\">W2W4 (18)<\/option><\/select><\/form><div class=\"sp-opt-172 clear\"><\/div><\/div><\/div><\/div><div class=\"sp-opt-99 mod-container mod-no-footer mod-open\"><div class=\"sp-opt-100 mod-header\"><h4 class=\"sp-opt-101\">SEARCH THIS BLOG<\/h4><\/div><div class=\"sp-opt-102 mod-content logo-flip\"><div class=\"sp-opt-103 gradient-container\"><form class=\"sp-opt-43 blog_searchForm\" name=\"blog-search\" method=\"get\" action=\"http:\/\/espn.go.com\/blog\/boston\/new-england-patriots\/search\"><div class=\"sp-opt-183 col-left\"><input class=\"sp-opt-184 blog_searchInput\" type=\"text\" name=\"query\"><\/div><div class=\"sp-opt-185 col-right\"><input type=\"image\" value=\"Submit\" src=\"http:\/\/a.espncdn.com\/i\/nfl\/draft09\/btn_search_whitematte.gif\"><\/div><\/form><\/div><\/div><\/div><div class=\"sp-opt-186 mod-container mod-tabs mod-tabs-header mod-no-footer mod-social ui-tabs ui-widget ui-widget-content ui-corner-all\" id=\"tabs-2817\"><div class=\"sp-opt-187 mod-header\"><h4 class=\"sp-opt-101\">LATEST ON THE NEW ENGLAND PATRIOTS<\/h4><ul class=\"sp-opt-188 ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all\"><li class=\"sp-opt-189 ui-state-default ui-corner-top ui-tabs-selected ui-state-active\"><a href=\"http:\/\/espn.go.com\/blog\/boston\/new-england-patriots\/post\/_\/id\/4763130\/ty-law-to-be-inducted-into-patriots-hall#tabs-2817-1\" title=\"Twitter\" class=\"sp-opt-190 tab-twitter\">Twitter<\/a><\/li><li class=\"sp-opt-189 ui-state-default ui-corner-top ui-tabs-selected ui-state-active\"><div><br><\/div><\/li><\/ul><\/div><\/div><\/div><\/div><\/div><\/div><\/div>\n\n<style type=\"text\/css\">\n.sp-opt-1 {margin-right:auto !important;margin-bottom:3px !important;margin-left:auto !important;outline:0 !important;font-size:12.800000190734863px !important;background-color:transparent !important;width:924px !important;z-index:1000000 !important;position:relative !important}\n.sp-opt-2 {padding-bottom:1px !important;outline:0 !important;font-size:12.800000190734863px !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/trans_border.png) !important;height:24px !important;background-position:0 24px !important;background-repeat:repeat no-repeat !important}\n.sp-opt-3 {padding-top:5px !important;padding-left:12px !important;outline:0 !important;font-size:12.800000190734863px !important;background-color:transparent !important;float:right !important}\n.sp-opt-4 {margin-left:3px !important;outline-width:0 !important;font-size:12.800000190734863px !important;background-color:transparent !important;color:rgb(34,93,183) !important}\n.sp-opt-5 {border-width:0 !important;outline:0 !important;font-size:12.800000190734863px !important;background-color:transparent !important}\n.sp-opt-6 {padding-top:5px !important;outline:0 !important;font-size:11px !important;background-color:transparent !important;float:right !important;font-family:Helvetica,Arial,sans-serif !important;color:rgb(153,153,153) !important}\n.sp-opt-7 {outline:0 !important;font-size:11.199999809265137px !important;background-color:transparent !important;color:rgb(255,255,255) !important}\n.sp-opt-8 {outline-width:0 !important;font-size:11.199999809265137px !important;background-color:transparent !important;color:rgb(255,255,255) !important;font-weight:bold !important}\n.sp-opt-9 {outline-width:0 !important;font-size:11.199999809265137px !important;background-color:transparent !important;color:rgb(255,255,255) !important}\n.sp-opt-10 {outline:0 !important;font-size:11px !important;background-color:transparent !important;font-family:Helvetica,Arial,sans-serif !important;position:relative !important;z-index:1000000 !important}\n.sp-opt-11 {padding-top:6px !important;outline:0 !important;font-size:10px !important;background-color:transparent !important;float:left !important;color:rgb(170,170,170) !important;position:relative !important}\n.sp-opt-12 {margin-top:0 !important;margin-right:80px !important;margin-bottom:0 !important;padding-top:3px !important;padding-bottom:3px !important;padding-left:0 !important;outline:0 !important;font-size:10px !important;background-color:transparent !important;list-style-type:none !important;float:left !important;width:auto !important}\n.sp-opt-13 {padding-right:9px !important;padding-left:8px !important;outline:0 !important;font-size:10.399999618530273px !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/trans_border.png) !important;float:left !important;background-position:100% 50% !important;background-repeat:no-repeat repeat !important}\n.sp-opt-14 {margin-bottom:-3px !important;padding-top:3px !important;padding-bottom:4px !important;outline-width:0 !important;font-size:10.399999618530273px !important;background-color:transparent !important;color:rgb(204,204,204) !important;display:block !important;height:14.399999618530273px !important}\n.sp-opt-15 {padding-right:9px !important;outline:0 !important;font-size:10.399999618530273px !important;float:left !important;background-position:0 50% !important}\n.sp-opt-16 {margin-top:0 !important;margin-bottom:0 !important;padding-left:0 !important;outline:0 !important;font-size:10.399999618530273px !important;list-style-type:none !important;position:absolute !important;z-index:1000000 !important;overflow:hidden !important;height:16px !important;width:46px !important;border-top-left-radius:4px !important;border-top-right-radius:4px !important;border-bottom-right-radius:4px !important;border-bottom-left-radius:4px !important;cursor:pointer !important;color:rgb(102,102,102) !important;top:3px !important;background-position:0 50% !important}\n.sp-opt-17 {padding:3px 6px !important;outline:0 !important;font-size:10.399999618530273px !important;background-image:url(http:\/\/a2.espncdn.com\/prod\/assets\/header_sprite_fp.v4.png) !important;float:none !important;display:block !important;cursor:pointer !important;font-family:Helvetica,Arial,sans-serif !important;color:rgb(204,204,204) !important;background-position:-118px -54px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-18 {padding-right:6px !important;padding-left:6px !important;outline:0 !important;font-size:10.399999618530273px !important;float:none !important;display:block !important;cursor:pointer !important;font-family:Helvetica,Arial,sans-serif !important;background-position:0 50% !important}\n.sp-opt-19 {outline-width:0 !important;font-size:10.399999618530273px !important;background-color:transparent !important;color:rgb(51,51,51) !important;display:block !important;height:14.399999618530273px !important;cursor:pointer !important;padding:3px 6px 1px !important}\n.sp-opt-20 {outline-width:0 !important;font-size:10.399999618530273px !important;background-color:transparent !important;color:rgb(51,51,51) !important;display:block !important;height:28.799999237060547px !important;cursor:pointer !important;padding:3px 6px 1px !important}\n.sp-opt-21 {outline:0 !important;font-size:11px !important;background-color:transparent !important;font-family:Helvetica,Arial,sans-serif !important;position:relative !important}\n.sp-opt-22 {margin-top:0 !important;margin-bottom:0 !important;padding-top:3px !important;padding-bottom:3px !important;padding-left:0 !important;outline:0 !important;font-size:10px !important;background-color:transparent !important;list-style-type:none !important;float:left !important;width:auto !important}\n.sp-opt-23 {margin-bottom:-3px !important;padding-top:3px !important;padding-bottom:4px !important;outline-width:0 !important;font-size:10.399999618530273px !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/trans_border.png) !important;color:rgb(204,204,204) !important;display:block !important;height:14.399999618530273px !important;background-position:0 18px !important;background-repeat:repeat no-repeat !important}\n.sp-opt-24 {padding-right:9px !important;padding-left:8px !important;outline:0 !important;font-size:10.399999618530273px !important;float:left !important;background-position:0 50% !important}\n.sp-opt-25 {outline:0 !important;font-size:12.800000190734863px !important;background-image:url(http:\/\/a.espncdn.com\/espncitysites\/prod\/assets\/ESPN2011.png) !important;background-color:transparent !important;float:left !important;position:relative !important;background-position:0 50% !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-26 {outline:0 !important;font-size:12.800000190734863px !important;background-color:transparent !important;overflow:hidden !important;height:auto !important;font-weight:bold !important}\n.sp-opt-27 {margin-right:2px !important;outline-width:0 !important;font-size:12.800000190734863px !important;background-color:transparent !important;color:rgb(34,93,183) !important;display:block !important;cursor:pointer !important;float:left !important;width:115px !important;height:46px !important;text-indent:-1000px !important}\n.sp-opt-28 {margin-right:2px !important;outline-width:0 !important;font-size:12.800000190734863px !important;background-color:transparent !important;color:rgb(34,93,183) !important;display:block !important;cursor:pointer !important;float:left !important}\n.sp-opt-29 {margin-top:6px !important;outline:0 !important;font-size:12.800000190734863px !important;background-color:transparent !important;display:block !important;float:left !important;background-position:0 50% !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-30 {outline:0 !important;font-size:12.800000190734863px !important;background-color:transparent !important}\n.sp-opt-31 {outline:0 !important;font-size:12.800000190734863px !important;background-color:transparent !important;float:right !important;margin-top:10px !important}\n.sp-opt-32 {margin-right:16px !important;margin-left:20px !important;outline:0 !important;font-size:12.800000190734863px !important;background-image:url(http:\/\/a1.espncdn.com\/i\/sctrends\/icon-cart.png) !important;float:right !important;position:relative !important;z-index:1000 !important;background-position:4px 50% !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-33 {padding:4px 2px !important;outline-width:0 !important;font-size:10px !important;background-image:linear-gradient(rgba(0,0,0,0.0980392) 0px,rgba(0,0,0,0.45098) 100%) !important;color:rgb(255,255,255) !important;width:54px !important;height:22px !important;display:block !important;text-indent:19px !important;overflow:hidden !important;text-transform:uppercase !important;border-top-left-radius:6px !important;border-top-right-radius:6px !important;border-bottom-right-radius:6px !important;border-bottom-left-radius:6px !important;line-height:22px !important}\n.sp-opt-34 {outline:0 !important;font-size:12.800000190734863px !important;text-align:right !important;position:relative !important;float:right !important;z-index:900 !important}\n.sp-opt-35 {outline:0 !important;font-size:12.800000190734863px !important;background-color:transparent !important;color:rgb(153,153,153) !important}\n.sp-opt-36 {width:150px !important;border:0 !important;color:rgb(0,0,0) !important;float:left !important;padding-right:10px !important;padding-left:10px !important;font-size:12px !important;height:28px !important;line-height:28px !important;font-family:Arial,Helvetica,sans-serif !important}\n.sp-opt-37 {font-size:11.199999809265137px !important;background-image:url(http:\/\/a1.espncdn.com\/i\/sctrends\/icon-search.png) !important;text-indent:-1000px !important;height:28px !important;width:30px !important;border:0 !important;display:block !important;overflow:hidden !important;float:left !important;cursor:pointer !important;background-position:0 50% !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-38 {outline:0 !important;font-size:12.800000190734863px !important;background-color:transparent !important;position:relative !important}\n.sp-opt-39 {outline:0 !important;font-size:12.800000190734863px !important;background-color:transparent !important;position:relative !important;padding-top:44px !important}\n.sp-opt-40 {margin-right:auto !important;margin-left:auto !important;padding-top:10px !important;padding-left:10px !important;outline:0 !important;font-size:12.800000190734863px !important;background-image:url(http:\/\/a2.espncdn.com\/prod\/assets\/bg_tier3\/bg_standard.png) !important;width:934px !important;background-position:50% 0 !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-41 {outline:0 !important}\n.sp-opt-42 {outline:0 !important;font-size:11.199999809265137px !important;background-color:transparent !important;position:absolute !important;top:-10000px !important;height:0 !important;width:0 !important}\n.sp-opt-43 {outline:0 !important;font-size:11.199999809265137px !important;background-color:transparent !important}\n.sp-opt-44 {margin-right:10px !important;margin-bottom:6px !important;outline:0 !important;font-size:12.800000190734863px !important;background-color:rgb(81,81,81) !important;height:68px !important;clear:both !important;overflow:hidden !important;background-image:url(http:\/\/a.espncdn.com\/i\/nfl\/nflblognetwork\/stripes4.png) !important}\n.sp-opt-45 {margin-right:20px !important;margin-left:18px !important;outline:0 !important;font-size:12.800000190734863px !important;background-color:transparent !important;float:left !important;width:auto !important;height:68px !important;position:relative !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-46 {margin-right:5px !important;padding-top:12px !important;outline-width:0 !important;font-size:30px !important;background-image:url(http:\/\/a.espncdn.com\/combiner\/i?img=\/i\/teamlogos\/nfl\/500\/ne.png?w=250&amp !important;h=250&amp !important;transparent=true) !important;background-attachment:scroll !important;background-color:transparent !important;color:rgb(255,255,255) !important;display:block !important;width:470px !important;font-style:normal !important;font-variant:normal !important;line-height:68px !important;font-family:bentonsans,Arial,Helvetica,sans-serif !important;text-shadow:black 0 0 10px !important;text-transform:uppercase !important;position:absolute !important;float:right !important;left:600px !important;opacity:1 !important;-webkit-filter:drop-shadow(rgba(0,0,0,0.2) 4px 4px 4px) !important;z-index:50 !important;height:55px !important;background-position:10px -95px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-47 {border-width:0 !important;outline:0 !important;font-size:30.399999618530273px !important;background-color:transparent !important;float:left !important;visibility:hidden !important}\n.sp-opt-48 {margin-right:5px !important;padding-top:12px !important;outline-width:0 !important;font-size:30px !important;background-color:transparent !important;color:rgb(255,255,255) !important;display:block !important;height:68px !important;width:auto !important;font-style:normal !important;font-variant:normal !important;line-height:68px !important;font-family:bentonsans,Arial,Helvetica,sans-serif !important;text-shadow:black 0 0 10px !important;text-transform:uppercase !important;position:relative !important;float:left !important}\n.sp-opt-49 {outline:0 !important;font-size:30.399999618530273px !important;background-color:transparent !important}\n.sp-opt-50 {margin-top:12px !important;margin-right:20px !important;outline:0 !important;font-size:12.800000190734863px !important;background-color:transparent !important;float:left !important;height:auto !important;width:200px !important;overflow:hidden !important;position:relative !important;top:10px !important}\n.sp-opt-51 {margin-right:6px !important;outline:0 !important;font-size:12.800000190734863px !important;background-color:transparent !important;width:614px !important;float:left !important;position:relative !important}\n.sp-opt-52 {outline:0 !important;font-size:12.800000190734863px !important;background-color:transparent !important;font-family:verdana,helvetica,arial,sans-serif !important;width:614px !important;clear:both !important}\n.sp-opt-53 {margin-bottom:6px !important;padding:16px !important;border-bottom-width:1px !important;border-left-width:1px !important;border-style:solid !important;border-color:rgb(221,221,221) !important;outline:0 !important;font-size:12.800000190734863px !important}\n.sp-opt-54 {outline:0 !important;font-size:12.800000190734863px !important;height:110.4000015258789px !important;clear:both !important;position:relative !important;background-position:0 50% !important}\n.sp-opt-55 {margin-left:30px !important;padding-bottom:10px !important;border-bottom-width:1px !important;border-bottom-style:solid !important;border-bottom-color:rgb(221,221,221) !important;outline:0 !important;font-size:26px !important;background-color:transparent !important;font-family:helvetica,arial,sans-serif !important;line-height:24px !important}\n.sp-opt-56 {outline:0 !important;font-size:12.800000190734863px !important;background-image:url(http:\/\/a2.espncdn.com\/prod\/assets\/blogs\/icon_calendar_datetime.png) !important;position:absolute !important;left:-28px !important;top:-1px !important;width:50px !important;height:59px !important;font-family:helvetica,arial,sans-serif !important;font-weight:700 !important;background-position:0 0 !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-57 {outline:0 !important;font-size:12.800000190734863px !important;background-color:transparent !important;position:absolute !important;left:-9999em !important}\n.sp-opt-58 {margin-top:7px !important;margin-right:7px !important;margin-left:7px !important;outline:0 !important;font-size:11px !important;background-color:transparent !important;color:rgb(221,221,221) !important;height:17px !important;width:41px !important;text-align:center !important;text-transform:uppercase !important}\n.sp-opt-59 {margin-right:7px !important;margin-bottom:7px !important;margin-left:7px !important;outline:0 !important;font-size:14px !important;background-color:transparent !important;color:rgb(68,68,68) !important;text-align:center !important;width:41px !important}\n.sp-opt-60 {margin:-10px 7px 7px !important;outline:0 !important;font-size:10px !important;background-color:transparent !important;color:rgb(102,102,102) !important;text-align:center !important;width:41px !important}\n.sp-opt-61 {margin-left:30px !important;padding-top:4px !important;padding-bottom:4px !important;outline:0 !important;font-size:12.800000190734863px !important;background-color:transparent !important;overflow:hidden !important}\n.sp-opt-62 {margin-top:6px !important;margin-bottom:16px !important;outline:0 !important;font-size:12px !important;background-color:transparent !important;font-style:normal !important;font-variant:normal !important;line-height:14px !important;font-family:Helvetica,Arial,sans-serif !important;color:rgb(153,153,153) !important;display:block !important;overflow:hidden !important}\n.sp-opt-63 {outline-width:0 !important;font-size:12px !important;background-color:transparent !important;color:rgb(34,93,183) !important;font-weight:bold !important}\n.sp-opt-64 {margin-top:0 !important;margin-bottom:16px !important;padding-left:0 !important;outline:0 !important;font-size:12.800000190734863px !important;background-color:transparent !important;list-style-type:none !important;clear:both !important;overflow:hidden !important}\n.sp-opt-65 {margin-right:16px !important;outline:0 !important;font-size:9px !important;background-color:transparent !important;float:left !important;font-style:normal !important;font-variant:normal !important;line-height:16px !important;font-family:Arial,Helvetica,sans-serif !important;text-transform:uppercase !important}\n.sp-opt-66 {outline-width:0 !important;font-size:8.800000190734863px !important;background-color:transparent !important;color:rgb(34,93,183) !important;display:block !important;float:left !important;white-space:nowrap !important;cursor:pointer !important}\n.sp-opt-67 {margin-right:4px !important;outline:0 !important;font-size:8.800000190734863px !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/sprites\/page-actions-15.png) !important;display:block !important;height:15px !important;width:15px !important;float:left !important;background-position:0 0 !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-68 {outline:0 !important;font-size:8.800000190734863px !important;background-color:transparent !important;float:left !important}\n.sp-opt-69 {margin-left:6px !important;padding-right:4px !important;padding-left:4px !important;border:1px solid rgb(204,204,204) !important;outline-width:0 !important;font-size:8.800000190734863px !important;color:rgb(51,51,51) !important;display:block !important;float:left !important;white-space:nowrap !important;cursor:pointer !important;line-height:14px !important;position:relative !important}\n.sp-opt-70 {margin-right:4px !important;outline:0 !important;font-size:8.800000190734863px !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/sprites\/page-actions-15.png) !important;display:block !important;height:15px !important;width:15px !important;float:left !important;background-position:0 -15px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-71 {margin-right:4px !important;outline:0 !important;font-size:8.800000190734863px !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/sprites\/page-actions-15.png) !important;display:block !important;height:15px !important;width:15px !important;float:left !important;background-position:0 -30px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-72 {margin-right:4px !important;outline:0 !important;font-size:8.800000190734863px !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/sprites\/page-actions-15.png) !important;display:block !important;height:15px !important;width:15px !important;float:left !important;background-position:0 -45px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-73 {margin-right:4px !important;outline:0 !important;font-size:8.800000190734863px !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/sprites\/page-actions-15.png) !important;display:block !important;height:15px !important;width:15px !important;float:left !important;background-position:0 -60px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-74 {outline:0 !important;font-size:12px !important;overflow:hidden !important;color:rgb(51,51,51) !important}\n.sp-opt-75 {margin-top:16px !important;margin-bottom:16px !important;padding-left:0 !important;outline:0 !important;font-size:12.800000190734863px !important;background-color:transparent !important;list-style-type:none !important;clear:both !important;overflow:hidden !important}\n.sp-opt-76 {margin-bottom:16px !important;padding:8px !important;border:1px solid rgb(204,204,204) !important;outline:0 !important;font-size:12.800000190734863px !important;background-color:rgb(242,242,242) !important;clear:both !important;overflow:visible !important}\n.sp-opt-77 {outline:0 !important;font-size:12px !important;background-color:transparent !important;float:left !important;width:281.79998779296875px !important;font-weight:bold !important;font-style:normal !important;font-variant:normal !important;line-height:16px !important;font-family:Helvetica,Arial,sans-serif !important;color:rgb(51,51,51) !important}\n.sp-opt-78 {outline-width:0 !important;font-size:12px !important;background-color:transparent !important;color:rgb(34,93,183) !important}\n.sp-opt-79 {margin-right:8px !important;margin-bottom:4px !important;border-width:0 !important;outline:0 !important;font-size:12px !important;background-color:transparent !important;float:left !important}\n.sp-opt-80 {outline:0 !important;font-size:14px !important;background-color:transparent !important;font-weight:bold !important;font-style:normal !important;font-variant:normal !important;line-height:16px !important;font-family:Helvetica,Arial,sans-serif !important}\n.sp-opt-81 {outline-width:0 !important;font-size:14.399999618530273px !important;background-color:transparent !important;color:rgb(34,93,183) !important}\n.sp-opt-82 {margin-top:6px !important;margin-bottom:0 !important;padding-left:0 !important;outline:0 !important;font-size:11px !important;background-color:transparent !important;list-style-type:none !important;font-style:normal !important;font-variant:normal !important;line-height:14px !important;font-family:Helvetica,Arial,sans-serif !important;overflow:visible !important}\n.sp-opt-83 {margin-right:6px !important;padding-right:6px !important;outline:0 !important;font-size:11.199999809265137px !important;background-color:transparent !important;float:left !important;line-height:20px !important}\n.sp-opt-84 {outline-width:0 !important;font-size:11.199999809265137px !important;background-color:transparent !important;color:rgb(34,93,183) !important}\n.sp-opt-85 {margin-top:4px !important;margin-right:4px !important;margin-bottom:4px !important;outline:0 !important;font-size:11.199999809265137px !important;background-image:url(http:\/\/a2.espncdn.com\/prod\/assets\/sprites\/page-actions-12.png) !important;display:block !important;height:12px !important;width:12px !important;float:left !important;background-position:0 -12px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-86 {margin-top:0 !important;margin-bottom:0 !important;padding-left:0 !important;outline:0 !important;font-size:10px !important;background-color:transparent !important;list-style-type:none !important;list-style-image:none !important;float:left !important;width:281.79998779296875px !important}\n.sp-opt-87 {padding-bottom:2px !important;padding-left:9px !important;outline:0 !important;font-size:10.399999618530273px !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/bullet-retina.png) !important;background-size:5px 6px !important;line-height:13px !important;list-style-image:none !important;color:rgb(85,85,85) !important;background-position:0 5px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-88 {padding-left:9px !important;outline:0 !important;font-size:10.399999618530273px !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/bullet-retina.png) !important;background-size:5px 6px !important;line-height:13px !important;list-style-image:none !important;color:rgb(85,85,85) !important;background-position:0 5px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-89 {outline:0 !important;font-size:12.800000190734863px !important;background-color:transparent !important;clear:both !important}\n.sp-opt-90 {margin-top:10px !important;margin-bottom:10px !important;padding-top:2px !important;padding-bottom:2px !important;border-top-width:1px !important;border-bottom-width:1px !important;border-style:solid !important;border-color:rgb(221,221,221) !important;outline:0 !important;font-size:12.800000190734863px !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/sportsnation\/bg_blogpost_tags.png) !important;overflow:hidden !important;background-position:0 0 !important;background-repeat:repeat no-repeat !important}\n.sp-opt-91 {padding:3px 4px 2px 8px !important;outline:0 !important;font-size:10px !important;background-color:transparent !important;font-weight:700 !important;color:rgb(136,136,136) !important;float:left !important}\n.sp-opt-92 {padding:2px 8px 2px 4px !important;outline:0 !important;font-size:10px !important;background-color:transparent !important;line-height:17px !important;float:left !important;width:525px !important}\n.sp-opt-93 {outline-width:0 !important;font-size:10.399999618530273px !important;background-color:transparent !important;color:rgb(34,93,183) !important}\n.sp-opt-94 {outline-width:0 !important;font-size:12.800000190734863px !important;background-color:transparent !important;color:rgb(34,93,183) !important}\n.sp-opt-95 {padding:16px !important;outline:0 !important;font-size:11px !important;font-style:normal !important;font-variant:normal !important;line-height:normal !important;font-family:Verdana,Arial,Helvetica,sans-serif !important;clear:both !important}\n.sp-opt-96 {outline:0 !important;font-size:11px !important;overflow:hidden !important}\n.sp-opt-97 {margin-bottom:10px !important;outline:0 !important;font-size:11.199999809265137px !important;height:auto !important;clear:both !important;overflow:hidden !important;background-position:0 50% !important}\n.sp-opt-98 {outline:0 !important;font-size:12.800000190734863px !important;background-color:transparent !important;width:304px !important;float:left !important;position:relative !important}\n.sp-opt-99 {outline:0 !important;font-size:12.800000190734863px !important;background-color:transparent !important;font-family:verdana,helvetica,arial,sans-serif !important;width:304px !important;clear:both !important}\n.sp-opt-100 {outline:0 !important;font-size:12.800000190734863px !important;background-image:url(http:\/\/a2.espncdn.com\/prod\/assets\/module_header_gradient.gif) !important;background-color:transparent !important;height:25px !important;clear:both !important;background-position:0 0 !important;background-repeat:repeat no-repeat !important}\n.sp-opt-101 {padding-left:10px !important;outline:0 !important;font-size:12px !important;background-color:transparent !important;color:rgb(255,255,255) !important;font-family:helvetica,arial,sans-serif !important;line-height:25px !important;letter-spacing:0.3px !important}\n.sp-opt-102 {margin-bottom:6px !important;padding:2px !important;border-right-width:1px !important;border-bottom-width:1px !important;border-left-width:1px !important;border-style:solid !important;border-color:rgb(194,194,194) !important;outline:0 !important;font-size:11px !important;overflow:hidden !important}\n.sp-opt-103 {outline:0 !important;font-size:11.199999809265137px !important;background-image:url(http:\/\/a2.espncdn.com\/prod\/assets\/gradient_back.jpg) !important;overflow:hidden !important;background-position:50% 100% !important;background-repeat:repeat no-repeat !important}\n.sp-opt-104 {outline-width:0 !important;font-size:11.199999809265137px !important;background-color:transparent !important;color:rgb(96,143,214) !important}\n.sp-opt-105 {border-width:0 !important;outline:0 !important;font-size:11.199999809265137px !important;background-color:transparent !important}\n.sp-opt-106 {padding:6px !important;outline:0 !important;font-size:11.199999809265137px !important;background-color:transparent !important;width:auto !important}\n.sp-opt-107 {margin-bottom:10px !important;outline:0 !important;font-size:11.199999809265137px !important;background-color:transparent !important}\n.sp-opt-108 {margin-top:0 !important;margin-bottom:0 !important;padding-left:0 !important;outline:0 !important;font-size:11px !important;background-color:transparent !important;list-style-type:none !important;list-style-image:none !important}\n.sp-opt-109 {padding-bottom:5px !important;padding-left:9px !important;outline:0 !important;font-size:11px !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/bullet-retina.png) !important;background-size:5px 6px !important;line-height:13px !important;list-style-image:none !important;color:rgb(85,85,85) !important;background-position:0 5px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-110 {outline:0 !important;font-size:12.800000190734863px !important;background-image:url(http:\/\/a.espncdn.com\/i\/nfl\/nflblognetwork\/module_header.png) !important;background-color:rgb(53,53,53) !important;height:30px !important;clear:both !important;background-position:100% 0 !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-111 {outline-width:0 !important;font-size:12.800000190734863px !important;background-color:transparent !important;color:rgb(34,93,183) !important;position:absolute !important;left:0 !important;width:130px !important;height:30px !important}\n.sp-opt-112 {margin-bottom:6px !important;border-right-width:1px !important;border-bottom-width:1px !important;border-left-width:1px !important;border-style:solid !important;border-color:rgb(194,194,194) !important;outline:0 !important;font-size:11px !important;overflow:hidden !important}\n.sp-opt-113 {outline:0 !important;font-size:inherit !important;background-color:transparent !important;width:302.3999938964844px !important;height:492px !important}\n.sp-opt-114 {border-bottom-width:1px !important;border-left-width:1px !important;border-style:solid !important;border-color:rgb(229,229,229) !important;outline:0 !important;font-size:9px !important;background-image:-webkit-gradient(linear,0 0%,0 100%,color-stop(0.05,rgb(216,216,216)),to(rgb(211,211,211))) !important;background-color:rgb(217,217,217) !important;height:20px !important;font-family:Arial !important;font-weight:bold !important;color:rgb(94,94,94) !important}\n.sp-opt-115 {outline-width:0 !important;font-size:8.800000190734863px !important;background-color:transparent !important;color:rgb(96,143,214) !important}\n.sp-opt-116 {border-width:0 !important;outline:0 !important;font-size:8.800000190734863px !important;vertical-align:middle !important;background-color:transparent !important}\n.sp-opt-117 {border-right-width:1px !important;border-bottom-width:1px !important;border-style:solid !important;border-color:rgb(229,229,229) !important;outline:0 !important;font-size:10px !important;background-color:rgb(247,247,247) !important;height:20px !important;font-family:bentonsans,Arial,Helvetica,sans-serif !important;color:rgb(117,117,117) !important}\n.sp-opt-118 {outline-width:0 !important;font-size:10.399999618530273px !important;background-color:transparent !important;color:rgb(96,143,214) !important}\n.sp-opt-119 {margin-right:6px !important;margin-left:3px !important;outline:0 !important;font-size:10.399999618530273px !important;vertical-align:middle !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/teamlogos\/nfl\/logo-nfl-teams-small-vert.png) !important;background-color:transparent !important;height:25px !important;width:25px !important;float:left !important;background-position:0 -100px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-120 {outline:0 !important;font-size:10.399999618530273px !important;vertical-align:middle !important;background-color:transparent !important}\n.sp-opt-121 {margin-top:8px !important;outline:0 !important;font-size:10.399999618530273px !important;background-color:transparent !important;float:left !important}\n.sp-opt-122 {border-bottom-width:1px !important;border-style:solid !important;border-color:rgb(229,229,229) !important;outline:0 !important;font-size:10px !important;height:20px !important;font-family:bentonsans,Arial,Helvetica,sans-serif !important;color:rgb(117,117,117) !important}\n.sp-opt-123 {margin-right:6px !important;margin-left:3px !important;outline:0 !important;font-size:10.399999618530273px !important;vertical-align:middle !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/teamlogos\/nfl\/logo-nfl-teams-small-vert.png) !important;background-color:transparent !important;height:25px !important;width:25px !important;float:left !important;background-position:0 -250px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-124 {margin-right:6px !important;margin-left:3px !important;outline:0 !important;font-size:10.399999618530273px !important;vertical-align:middle !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/teamlogos\/nfl\/logo-nfl-teams-small-vert.png) !important;background-color:transparent !important;height:25px !important;width:25px !important;float:left !important;background-position:0 -350px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-125 {margin-right:6px !important;margin-left:3px !important;outline:0 !important;font-size:10.399999618530273px !important;vertical-align:middle !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/teamlogos\/nfl\/logo-nfl-teams-small-vert.png) !important;background-color:transparent !important;height:25px !important;width:25px !important;float:left !important;background-position:0 -500px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-126 {margin-right:6px !important;margin-left:3px !important;outline:0 !important;font-size:10.399999618530273px !important;vertical-align:middle !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/teamlogos\/nfl\/logo-nfl-teams-small-vert.png) !important;background-color:transparent !important;height:25px !important;width:25px !important;float:left !important;background-position:0 -300px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-127 {margin-right:6px !important;margin-left:3px !important;outline:0 !important;font-size:10.399999618530273px !important;vertical-align:middle !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/teamlogos\/nfl\/logo-nfl-teams-small-vert.png) !important;background-color:transparent !important;height:25px !important;width:25px !important;float:left !important;background-position:0 -550px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-128 {margin-right:6px !important;margin-left:3px !important;outline:0 !important;font-size:10.399999618530273px !important;vertical-align:middle !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/teamlogos\/nfl\/logo-nfl-teams-small-vert.png) !important;background-color:transparent !important;height:25px !important;width:25px !important;float:left !important;background-position:0 -1200px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-129 {margin-right:6px !important;margin-left:3px !important;outline:0 !important;font-size:10.399999618530273px !important;vertical-align:middle !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/teamlogos\/nfl\/logo-nfl-teams-small-vert.png) !important;background-color:transparent !important;height:25px !important;width:25px !important;float:left !important;background-position:0 -850px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-130 {margin-right:6px !important;margin-left:3px !important;outline:0 !important;font-size:10.399999618530273px !important;vertical-align:middle !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/teamlogos\/nfl\/logo-nfl-teams-small-vert.png) !important;background-color:transparent !important;height:25px !important;width:25px !important;float:left !important;background-position:0 -600px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-131 {margin-right:6px !important;margin-left:3px !important;outline:0 !important;font-size:10.399999618530273px !important;vertical-align:middle !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/teamlogos\/nfl\/logo-nfl-teams-small-vert.png) !important;background-color:transparent !important;height:25px !important;width:25px !important;float:left !important;background-position:0 -50px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-132 {margin-right:6px !important;margin-left:3px !important;outline:0 !important;font-size:10.399999618530273px !important;vertical-align:middle !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/teamlogos\/nfl\/logo-nfl-teams-small-vert.png) !important;background-color:transparent !important;height:25px !important;width:25px !important;float:left !important;background-position:0 -650px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-133 {margin-right:6px !important;margin-left:3px !important;outline:0 !important;font-size:10.399999618530273px !important;vertical-align:middle !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/teamlogos\/nfl\/logo-nfl-teams-small-vert.png) !important;background-color:transparent !important;height:25px !important;width:25px !important;float:left !important;background-position:0 -950px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-134 {margin-right:6px !important;margin-left:3px !important;outline:0 !important;font-size:10.399999618530273px !important;vertical-align:middle !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/teamlogos\/nfl\/logo-nfl-teams-small-vert.png) !important;background-color:transparent !important;height:25px !important;width:25px !important;float:left !important;background-position:0 -700px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-135 {margin-right:6px !important;margin-left:3px !important;outline:0 !important;font-size:10.399999618530273px !important;vertical-align:middle !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/teamlogos\/nfl\/logo-nfl-teams-small-vert.png) !important;background-color:transparent !important;height:25px !important;width:25px !important;float:left !important;background-position:0 -200px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-136 {margin-right:6px !important;margin-left:3px !important;outline:0 !important;font-size:10.399999618530273px !important;vertical-align:middle !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/teamlogos\/nfl\/logo-nfl-teams-small-vert.png) !important;background-color:transparent !important;height:25px !important;width:25px !important;float:left !important;background-position:0 -1500px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-137 {margin-right:6px !important;margin-left:3px !important;outline:0 !important;font-size:10.399999618530273px !important;vertical-align:middle !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/teamlogos\/nfl\/logo-nfl-teams-small-vert.png) !important;background-color:transparent !important;height:25px !important;width:25px !important;float:left !important;background-position:0 -1450px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-138 {margin-right:6px !important;margin-left:3px !important;outline:0 !important;font-size:10.399999618530273px !important;vertical-align:middle !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/teamlogos\/nfl\/logo-nfl-teams-small-vert.png) !important;background-color:transparent !important;height:25px !important;width:25px !important;float:left !important;background-position:0 -150px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-139 {margin-right:6px !important;margin-left:3px !important;outline:0 !important;font-size:10.399999618530273px !important;vertical-align:middle !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/teamlogos\/nfl\/logo-nfl-teams-small-vert.png) !important;background-color:transparent !important;height:25px !important;width:25px !important;float:left !important;background-position:0 -400px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-140 {margin-right:6px !important;margin-left:3px !important;outline:0 !important;font-size:10.399999618530273px !important;vertical-align:middle !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/teamlogos\/nfl\/logo-nfl-teams-small-vert.png) !important;background-color:transparent !important;height:25px !important;width:25px !important;float:left !important;background-position:0 -800px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-141 {margin-right:6px !important;margin-left:3px !important;outline:0 !important;font-size:10.399999618530273px !important;vertical-align:middle !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/teamlogos\/nfl\/logo-nfl-teams-small-vert.png) !important;background-color:transparent !important;height:25px !important;width:25px !important;float:left !important;background-position:0 -1000px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-142 {margin-right:6px !important;margin-left:3px !important;outline:0 !important;font-size:10.399999618530273px !important;vertical-align:middle !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/teamlogos\/nfl\/logo-nfl-teams-small-vert.png) !important;background-color:transparent !important;height:25px !important;width:25px !important;float:left !important;background-position:0 -900px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-143 {margin-right:6px !important;margin-left:3px !important;outline:0 !important;font-size:10.399999618530273px !important;vertical-align:middle !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/teamlogos\/nfl\/logo-nfl-teams-small-vert.png) !important;background-color:transparent !important;height:25px !important;width:25px !important;float:left !important;background-position:0 -1150px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-144 {margin-right:6px !important;margin-left:3px !important;outline:0 !important;font-size:10.399999618530273px !important;vertical-align:middle !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/teamlogos\/nfl\/logo-nfl-teams-small-vert.png) !important;background-color:transparent !important;height:25px !important;width:25px !important;float:left !important;background-position:0 -1050px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-145 {margin-right:6px !important;margin-left:3px !important;outline:0 !important;font-size:10.399999618530273px !important;vertical-align:middle !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/teamlogos\/nfl\/logo-nfl-teams-small-vert.png) !important;background-color:transparent !important;height:25px !important;width:25px !important;float:left !important;background-position:0 -1550px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-146 {margin-right:6px !important;margin-left:3px !important;outline:0 !important;font-size:10.399999618530273px !important;vertical-align:middle !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/teamlogos\/nfl\/logo-nfl-teams-small-vert.png) !important;background-color:transparent !important;height:25px !important;width:25px !important;float:left !important;background-position:0 -450px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-147 {margin-right:6px !important;margin-left:3px !important;outline:0 !important;font-size:10.399999618530273px !important;vertical-align:middle !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/teamlogos\/nfl\/logo-nfl-teams-small-vert.png) !important;background-color:transparent !important;height:25px !important;width:25px !important;float:left !important;background-position:0 0 !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-148 {margin-right:6px !important;margin-left:3px !important;outline:0 !important;font-size:10.399999618530273px !important;vertical-align:middle !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/teamlogos\/nfl\/logo-nfl-teams-small-vert.png) !important;background-color:transparent !important;height:25px !important;width:25px !important;float:left !important;background-position:0 -750px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-149 {margin-right:6px !important;margin-left:3px !important;outline:0 !important;font-size:10.399999618530273px !important;vertical-align:middle !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/teamlogos\/nfl\/logo-nfl-teams-small-vert.png) !important;background-color:transparent !important;height:25px !important;width:25px !important;float:left !important;background-position:0 -1400px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-150 {margin-right:6px !important;margin-left:3px !important;outline:0 !important;font-size:10.399999618530273px !important;vertical-align:middle !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/teamlogos\/nfl\/logo-nfl-teams-small-vert.png) !important;background-color:transparent !important;height:25px !important;width:25px !important;float:left !important;background-position:0 -1100px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-151 {margin-right:6px !important;margin-left:3px !important;outline:0 !important;font-size:10.399999618530273px !important;vertical-align:middle !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/teamlogos\/nfl\/logo-nfl-teams-small-vert.png) !important;background-color:transparent !important;height:25px !important;width:25px !important;float:left !important;background-position:0 -1300px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-152 {border-right-width:1px !important;border-style:solid !important;border-color:rgb(229,229,229) !important;outline:0 !important;font-size:10px !important;background-color:rgb(247,247,247) !important;height:20px !important;font-family:bentonsans,Arial,Helvetica,sans-serif !important;color:rgb(117,117,117) !important}\n.sp-opt-153 {margin-right:6px !important;margin-left:3px !important;outline:0 !important;font-size:10.399999618530273px !important;vertical-align:middle !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/teamlogos\/nfl\/logo-nfl-teams-small-vert.png) !important;background-color:transparent !important;height:25px !important;width:25px !important;float:left !important;background-position:0 -1250px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-154 {border-style:solid !important;border-color:rgb(229,229,229) !important;outline:0 !important;font-size:10px !important;height:20px !important;font-family:bentonsans,Arial,Helvetica,sans-serif !important;color:rgb(117,117,117) !important}\n.sp-opt-155 {margin-right:6px !important;margin-left:3px !important;outline:0 !important;font-size:10.399999618530273px !important;vertical-align:middle !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/teamlogos\/nfl\/logo-nfl-teams-small-vert.png) !important;background-color:transparent !important;height:25px !important;width:25px !important;float:left !important;background-position:0 -1350px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-156 {outline:0 !important;font-size:inherit !important;background-color:transparent !important;width:297.6000061035156px !important;clear:both !important}\n.sp-opt-157 {padding-right:4px !important;padding-left:4px !important;border-right-width:1px !important;border-right-style:solid !important;border-right-color:rgb(255,255,255) !important;outline:0 !important;font-size:10px !important;background-image:url(http:\/\/a2.espncdn.com\/prod\/assets\/module_subheader_gradient.gif) !important;background-color:rgb(204,204,204) !important;font-weight:bold !important;color:rgb(72,72,72) !important;height:22px !important;background-position:0 0 !important;background-repeat:repeat no-repeat !important}\n.sp-opt-158 {outline:0 !important;font-size:10.399999618530273px !important;background-color:transparent !important;float:right !important}\n.sp-opt-159 {outline:0 !important;font-size:11.199999809265137px !important;background-color:transparent !important;text-align:right !important;height:45px !important}\n.sp-opt-160 {padding-right:4px !important;padding-left:4px !important;border-right-width:1px !important;border-right-style:solid !important;border-right-color:rgb(255,255,255) !important;outline:0 !important;font-size:10px !important;background-image:url(http:\/\/a.espncdn.com\/i\/teamlogos\/nfl\/med\/trans\/nwe.gif) !important;background-attachment:scroll !important;height:19px !important;color:rgb(72,72,72) !important;background-position:50% 50% !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-161 {padding-right:4px !important;padding-left:4px !important;border-right-width:1px !important;border-right-style:solid !important;border-right-color:rgb(255,255,255) !important;outline:0 !important;font-size:11px !important;background-color:rgb(241,241,241) !important;height:19px !important;color:rgb(72,72,72) !important;text-align:center !important}\n.sp-opt-162 {padding-right:4px !important;padding-left:4px !important;border-right-width:1px !important;border-right-style:solid !important;border-right-color:rgb(255,255,255) !important;outline:0 !important;font-size:10px !important;background-image:url(http:\/\/a.espncdn.com\/i\/teamlogos\/nfl\/med\/trans\/was.gif) !important;background-attachment:scroll !important;height:19px !important;color:rgb(72,72,72) !important;background-position:50% 50% !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-163 {background-color:rgb(221,221,221) !important;color:rgb(221,221,221) !important;clear:both !important;float:none !important;width:298.3999938964844px !important;height:0.1em !important;margin:0 !important;border:0 !important;background-position:initial initial !important;background-repeat:initial initial !important}\n.sp-opt-164 {padding:4px 8px !important;outline:0 !important;font-size:10px !important;background-color:transparent !important;text-align:right !important;height:14px !important;width:auto !important;clear:both !important}\n.sp-opt-165 {padding-left:10px !important;outline-width:0 !important;font-size:10.399999618530273px !important;background-color:transparent !important;color:rgb(96,143,214) !important}\n.sp-opt-166 {padding-right:4px !important;padding-left:4px !important;border-right-width:1px !important;border-right-style:solid !important;border-right-color:rgb(255,255,255) !important;outline:0 !important;font-size:10px !important;height:19px !important;color:rgb(72,72,72) !important}\n.sp-opt-167 {outline:0 !important;font-size:10.399999618530273px !important;background-color:transparent !important}\n.sp-opt-168 {padding-right:4px !important;padding-left:4px !important;border-right-width:1px !important;border-right-style:solid !important;border-right-color:rgb(255,255,255) !important;outline:0 !important;font-size:10px !important;background-color:rgb(241,241,241) !important;height:19px !important;color:rgb(72,72,72) !important}\n.sp-opt-169 {margin-right:5px !important;outline:0 !important;font-size:12px !important;background-color:transparent !important;position:relative !important;top:4px !important}\n.sp-opt-170 {border-width:0 !important;outline:0 !important;font-size:12px !important;background-color:transparent !important}\n.sp-opt-171 {margin-top:0 !important;margin-bottom:0 !important;padding-left:0 !important;outline:0 !important;font-size:11.199999809265137px !important;background-color:transparent !important;list-style-type:none !important}\n.sp-opt-172 {outline:0 !important;font-size:11.199999809265137px !important;background-color:transparent !important;clear:both !important}\n.sp-opt-173 {margin-top:5px !important;outline:0 !important;font-size:11.199999809265137px !important;background-color:transparent !important;float:left !important;width:100px !important;text-align:center !important}\n.sp-opt-174 {margin-top:10px !important;outline:0 !important;font-size:11.199999809265137px !important;background-color:transparent !important;float:left !important;width:160px !important}\n.sp-opt-175 {margin-bottom:6px !important;padding:2px !important;border:1px solid rgb(194,194,194) !important;outline:0 !important;font-size:11px !important;overflow:visible !important}\n.sp-opt-176 {margin-right:5px !important;margin-left:5px !important;padding-top:7px !important;padding-bottom:7px !important;border-bottom-width:1px !important;border-bottom-style:solid !important;border-bottom-color:rgb(221,221,221) !important;outline:0 !important;font-size:11.199999809265137px !important;background-color:transparent !important;float:none !important}\n.sp-opt-177 {outline:0 !important;font-size:13px !important;background-color:transparent !important;float:left !important;color:rgb(87,87,87) !important;font-family:helvetica,arial,sans-serif !important;font-weight:bold !important}\n.sp-opt-178 {margin-left:8px !important;outline-width:0 !important;font-size:11.199999809265137px !important;background-image:url(http:\/\/a2.espncdn.com\/prod\/assets\/blogs\/icon_rss_18.png) !important;float:right !important;color:rgb(96,143,214) !important;height:18px !important;width:18px !important;background-position:0 0 !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-179 {outline:0 !important;font-size:11.199999809265137px !important;background-color:transparent !important;position:absolute !important;left:-9999em !important}\n.sp-opt-180 {margin-right:5px !important;margin-left:5px !important;padding-top:7px !important;padding-bottom:7px !important;outline:0 !important;font-size:11.199999809265137px !important;background-color:transparent !important}\n.sp-opt-181 {color:rgb(68,68,68) !important;border-color:rgb(207,207,207) !important;padding:2px !important;font-family:Verdana,Arial,Helvetica,sans-serif !important;background-color:rgb(231,231,231) !important;float:right !important;width:150px !important}\n.sp-opt-182 {color:rgb(34,95,178) !important;padding:0 5px 0 8px !important}\n.sp-opt-183 {padding:10px !important;outline:0 !important;font-size:11.199999809265137px !important;background-color:transparent !important;float:left !important;width:174px !important}\n.sp-opt-184 {width:174px !important}\n.sp-opt-185 {padding-top:10px !important;padding-right:10px !important;padding-bottom:10px !important;outline:0 !important;font-size:11.199999809265137px !important;background-color:transparent !important;float:left !important;width:94px !important}\n.sp-opt-186 {outline:0 !important;font-size:12.800000190734863px !important;background-color:transparent !important;font-family:verdana,helvetica,arial,sans-serif !important;width:304px !important;clear:both !important;float:left !important}\n.sp-opt-187 {border-top-width:1px !important;border-right-width:1px !important;border-left-width:1px !important;border-style:solid !important;border-color:rgb(194,194,194) !important;outline:0 !important;font-size:12.800000190734863px !important;background-image:url(http:\/\/a2.espncdn.com\/prod\/assets\/module_header_gradient.gif) !important;background-color:rgb(242,242,242) !important;height:47px !important;clear:both !important;position:relative !important;z-index:2 !important;font-family:verdana,helvetica,arial,sans-serif !important;font-style:normal !important;font-variant:normal !important;line-height:14.403999328613281px !important;background-position:0 0 !important;background-repeat:repeat no-repeat !important}\n.sp-opt-188 {margin-top:0 !important;margin-bottom:0 !important;padding-left:0 !important;outline:0 !important;font-size:12.800000190734863px !important;background-image:url(http:\/\/a1.espncdn.com\/prod\/assets\/tab_header_back.png) !important;background-color:transparent !important;list-style-type:none !important;overflow:hidden !important;width:302.3999938964844px !important;position:absolute !important;bottom:-1px !important;background-position:0 0 !important;background-repeat:repeat no-repeat !important}\n.sp-opt-189 {border-bottom-width:1px !important;border-bottom-style:solid !important;border-bottom-color:rgb(255,255,255) !important;outline:0 !important;font-size:12.800000190734863px !important;background-image:url(http:\/\/a2.espncdn.com\/prod\/assets\/tabs-A-sprite.png) !important;background-attachment:scroll !important;background-color:rgb(255,255,255) !important;float:left !important;position:relative !important;line-height:20px !important;background-position:100% -25px !important;background-repeat:no-repeat no-repeat !important}\n.sp-opt-190 {padding-top:2px !important;padding-right:13px !important;padding-left:13px !important;border-bottom-width:1px !important;border-bottom-style:solid !important;border-bottom-color:rgb(255,255,255) !important;outline-width:0 !important;font-size:11px !important;background-image:url(http:\/\/a.espncdn.com\/prod\/assets\/icons\/twitter-bird_13x13.png) !important;color:rgb(35,35,35) !important;text-indent:11px !important;font-family:helvetica,arial,sans-serif !important;font-weight:bold !important;float:left !important;display:block !important;cursor:pointer !important;position:relative !important;top:1px !important;background-position:6px 4px !important;background-repeat:no-repeat no-repeat !important}\n<\/style>\n",
+  "complete":false,
+  "created":"2014-05-20T16:00:59+0000",
+  "liked":false,
+  "name":"(Large) HTML Note",
+  "notebooks":["47307eb6-cd32-4544-9677-1ba276b54dd3"],
+  "image":null,
+  "uuid":"4739c8f8-7ff8-445a-9945-92ac7e17deca",
+  "public":true,
+  "type":"Note",
+  "modified":"2014-05-20T16:01:48+0000"
+  },
+  {
+  "tags":[],
+  "text":"Don't forget the milk!",
+  "complete":false,
+  "created":"2014-05-20T15:59:33+0000",
+  "liked":false,
+  "name":"Note with reminders",
+  "notebooks":["47307eb6-cd32-4544-9677-1ba276b54dd3"],
+  "image":null,
+  "uuid":"47312d80-b2d0-4220-9a77-da7232ab5b40",
+  "public":true,
+  "type":"Note",
+  "modified":"2014-05-20T16:02:33+0000"
+  },
+  {
+  "tags":[],
+  "enabled":true,
+  "liked":false,
+  "notebooks":["47307eb6-cd32-4544-9677-1ba276b54dd3"],
+  "image":null,
+  "repeats":
+    {
+    "text":"weekdays",
+    "repeats":"Weekdays",
+    "type":"Frequency"
+    },
+  "type":"Alarm",
+  "date":"2019-05-20T16:00:00+0000",
+  "modified":"2014-05-20T15:59:23+0000",
+  "created":"2014-05-20T15:58:53+0000",
+  "complete":false,
+  "name":"Alarm weekdays repeats",
+  "uuid":"473bda46-e5e8-414c-b546-691ad59987be",
+  "notes":"Alarm weekdays-repeating message",
+  "public":true
+  },
+  {
+  "tags":[],
+  "enabled":false,
+  "liked":false,
+  "notebooks":["47307eb6-cd32-4544-9677-1ba276b54dd3"],
+  "image":null,
+  "repeats":
+    {
+    "text":"never",
+    "repeats":"Never",
+    "type":"Frequency"
+    },
+  "type":"Alarm",
+  "date":"2019-05-20T15:30:00+0000",
+  "modified":"2014-05-20T15:58:45+0000",
+  "created":"2014-05-20T15:58:04+0000",
+  "complete":false,
+  "name":"Alarm (no repeats)",
+  "uuid":"47338a83-ce4e-45ed-b257-342f931aa24a",
+  "notes":"Alarm (no repeats) message",
+  "public":true
+  },
+  {
+  "tags":[],
+  "accounts":
+    {
+    "Email":"ceo@springpad.com",
+    "Website":"springpad.com"
+    },
+  "liked":false,
+  "notebooks":["47307eb6-cd32-4544-9677-1ba276b54dd3"],
+  "image":null,
+  "phone numbers":
+    {
+    "Phone":"555-555-5555"
+    },
+  "type":"Contact",
+  "modified":"2014-05-20T15:57:57+0000",
+  "title":"CEO",
+  "created":"2014-05-20T15:56:46+0000",
+  "complete":false,
+  "name":"Contact",
+  "company":"Springpad",
+  "uuid":"4736bb69-fae0-4c79-99ec-533a57600226",
+  "addresses":
+    {
+    "Address":"1 Thompson Sq, Charlestown, MA"
+    },
+  "public":true
+  },
+  {
+  "tags":[],
+  "liked":false,
+  "notebooks":["47307eb6-cd32-4544-9677-1ba276b54dd3"],
+  "image":null,
+  "type":"File",
+  "url":"attachments\/SourceCodePro-Regular.otf",
+  "mime-type":"application\/octet-stream",
+  "modified":"2014-05-20T15:56:32+0000",
+  "created":"2014-05-20T15:56:09+0000",
+  "complete":false,
+  "description":"File description\n",
+  "name":"(File) SourceCodePro-Regular.otf",
+  "uuid":"4735b01e-eba4-40d6-a2c9-32464e132540",
+  "rating":0.0,
+  "public":true
+  },
+  {
+  "tags":[],
+  "liked":false,
+  "notebooks":["47307eb6-cd32-4544-9677-1ba276b54dd3"],
+  "image":"attachments\/ZyZ3GwCDRrKVJu7rg2Zg_download-by-jon-phillips.jpg",
+  "type":"Photo",
+  "url":"attachments\/ZyZ3GwCDRrKVJu7rg2Zg_download-by-jon-phillips.jpg",
+  "modified":"2014-05-20T15:54:07+0000",
+  "created":"2014-05-20T15:53:29+0000",
+  "complete":false,
+  "description":"Picture description.",
+  "name":"Photo Type",
+  "uuid":"473fa68c-b2a1-4918-97c4-ff3c9f0d725a",
+  "rating":0.0,
+  "public":true
+  },
+  {
+  "region":"USA",
+  "tags":[],
+  "vintage":"2009",
+  "liked":false,
+  "notebooks":["47307eb6-cd32-4544-9677-1ba276b54dd3"],
+  "image":"http:\/\/ei.isnooth.com\/multimedia\/6\/4\/b\/image_1247193.jpeg",
+  "type":"Wine",
+  "url":"http:\/\/www.wine.com\/V6\/Layer-Cake-Virgin-Chardonnay-2009\/wine\/105964\/detail.aspx",
+  "modified":"2014-05-20T15:52:54+0000",
+  "varietal":"Chardonnay",
+  "price":"12.99",
+  "created":"2014-05-20T15:52:54+0000",
+  "complete":false,
+  "name":"Layer Cake Chardonnay",
+  "uuid":"473478de-f3fd-47ab-af2b-d0e6c53693f9",
+  "public":true,
+  "wine type":"White Wine"
+  },
+  {
+  "tags":[],
+  "liked":false,
+  "notebooks":["47307eb6-cd32-4544-9677-1ba276b54dd3"],
+  "image":"http:\/\/thetvdb.com\/banners\/posters\/75299-6.jpg",
+  "type":"TV Show",
+  "plot":"Called \u201Cthe television landmark that leaves other landmarks in the dust,\u201D by the Washington Post, the first part of Season Six was hailed as a masterpiece by critics. In those episodes, Tony Soprano faced new challenges as his life grew increasingly more complicated. Back together with Carmela, he faced the reality that their kids were no longer children, and yet not grown. And with Johnny Sack in prison, the always-tense relations between the New Jersey and New York families were strained even further.",
+  "modified":"2014-05-20T15:52:41+0000",
+  "cast":["James Gandolfini","Edie Falco","Dominic Chianese","Federico Castelluccio","Robert Funaro","Michael Imperioli","Joe Pantoliano","David Proval","Lorraine Bracco","Vincent Curatola","Steven Van Zandt","Aida Turturro","Drea de Matteo","Tony Sirico","Robert Iler","Jamie-Lynn Sigler","Nancy Marchand","Vincent Pastore","Steve Schirripa"],
+  "created":"2014-05-20T15:52:41+0000",
+  "complete":false,
+  "description":"Created by David Chase. With James Gandolfini, Lorraine Bracco, Edie Falco, Michael Imperioli. Modern day morality tale about New Jersey mob boss Tony Soprano, as he deals with personal and professional issues in his home and business life.",
+  "name":"The Sopranos",
+  "writers":["David Chase","Terence Winter","Matthew Weiner","Diane Frolov","Andrew Schneider"],
+  "uuid":"4731550a-daaf-4b48-8f6b-bb69c0267547",
+  "directors":["Alan Taylor","Danny Leiner","John Patterson","Tim Van Patten","David Nutter","Mike Figgis","Steve Buscemi","Steve Shill","Rodrigo Garcia","Jack Bender","Allen Coulter","Peter Bogdanovich"],
+  "public":true
+  },
+  {
+  "tags":[],
+  "liked":false,
+  "notebooks":["47307eb6-cd32-4544-9677-1ba276b54dd3"],
+  "image":"https:\/\/lh3.ggpht.com\/_KpKlPENmsDmqjQQYBxpduXY4kaXgaL-n3H14teY-bchlETc5pJU3GG0XUTrscHBWh8=w300",
+  "type":"Bookmark",
+  "url":"https:\/\/play.google.com\/store\/apps\/details?id=com.google.android.apps.magazines",
+  "modified":"2014-05-20T15:52:19+0000",
+  "created":"2014-05-20T15:52:19+0000",
+  "complete":false,
+  "name":"Google Play Newsstand - Android Apps on Google Play",
+  "uuid":"473c2f7e-e910-49cb-adb2-5719660d0924",
+  "rating":0.0,
+  "public":true
+  },
+  {
+  "tags":["music-tag"],
+  "genres":["Alternative"],
+  "release date":"1\/1\/2008",
+  "videos":["https:\/\/www.youtube.com\/v\/QxYemY8CQaw?version=3&f=videos&app=youtube_gdata","https:\/\/www.youtube.com\/v\/hwZhJZCBSos?version=3&f=videos&app=youtube_gdata"],
+  "liked":false,
+  "notebooks":["47307eb6-cd32-4544-9677-1ba276b54dd3"],
+  "image":"http:\/\/ecx.images-amazon.com\/images\/I\/61EROeqAf-L.jpg",
+  "type":"Album",
+  "modified":"2014-05-19T14:08:51+0000",
+  "created":"2014-05-19T14:08:34+0000",
+  "complete":false,
+  "name":"In Rainbows",
+  "uuid":"473dba7e-566c-476a-bcf0-9e815f7db21f",
+  "artist":"Radiohead",
+  "public":true,
+  "comments":[
+      {
+      "commenter":"klmprt",
+      "date":"2014-05-19T14:08:35+0000",
+      "comment":"radiohead"
+      }]
+  },
+  {
+  "tags":["video-tag"],
+  "videos":["https:\/\/www.youtube.com\/v\/YigKNDHhjTA?version=3&f=videos&app=youtube_gdata"],
+  "liked":false,
+  "notebooks":["47307eb6-cd32-4544-9677-1ba276b54dd3"],
+  "image":"https:\/\/i1.ytimg.com\/vi\/YigKNDHhjTA\/0.jpg",
+  "type":"Video",
+  "url":"https:\/\/www.youtube.com\/watch?v=YigKNDHhjTA&feature=youtube_gdata_player",
+  "modified":"2014-05-19T14:08:05+0000",
+  "created":"2014-05-19T14:07:57+0000",
+  "complete":false,
+  "description":"FREE Download: http:\/\/www.mediafire.com\/?oj4x2qokmsner8u\n\nCover \/ Remix of \"All of the Lights\" (originally by Kanye West) performed by The Northern Lights. The Northern Lights is: Kyle Lampert, producer; Riki Lavi, vocalist; and MCs Jahizzi and Sheck, also of Divine Rhyme.\n\nOur 2010 album on iTunes:\nhttp:\/\/itunes.apple.com\/us\/album\/journey-through-your-minds\/id353700260\n\nFree ALBUM downloads from The Northern Lights and Divine Rhyme available at\nhttp:\/\/www.TheNorthernLights.bandcamp.com\nhttp:\/\/www.DivineRhyme.bandcamp.com\n\nFollow us on Facebook: http:\/\/www.facebook.com\/TNLexperience",
+  "name":"All of the Lights - kanye west cover (by The Northern Lights)",
+  "uuid":"473d3867-e3b6-4fc4-8f51-fa27aab65c28",
+  "rating":0.0,
+  "public":true,
+  "comments":[
+      {
+      "commenter":"klmprt",
+      "date":"2014-05-19T14:07:58+0000",
+      "comment":"VIdeo comment"
+      }]
+  },
+  {
+  "tags":["book-tag"],
+  "liked":false,
+  "notebooks":["47307eb6-cd32-4544-9677-1ba276b54dd3"],
+  "image":"http:\/\/ecx.images-amazon.com\/images\/I\/316lt1-1pkL.jpg",
+  "type":"Book",
+  "modified":"2014-05-20T16:32:37+0000",
+  "author":"Jurt, Jr Vonnegut",
+  "created":"2014-05-19T13:58:47+0000",
+  "complete":false,
+  "description":"Biography\nKurt Vonnegut was born in Indianapolis in 1922. He studied at the universities of Chicago and Tennessee and later began to write short stories for magazines. His first novel, Player Piano, was published in 1951 and since then he has written many novels, among them: The Sirens of Titan (1959), Mother Night (1961), Cat's Cradle (1963), God Bless You Mr Rosewater (1964), Welcome to the Monkey House; a collection of short stories (1968), Breakfast of Champions (1973), Slapstick, or Lonesome No More (1976), Jailbird (1979), Deadeye Dick (1982), Galapagos (1985), Bluebeard (1988) and Hocus Pocus (1990). During the Second World War he was held prisoner in Germany and was present at the bombing of Dresden, an experience which provided the setting for his most famous work to date, Slaughterhouse Five (1969). He has also published a volume of autobiography entitled Palm Sunday (1981) and a collection of essays and speeches, Fates Worse Than Death (1991).",
+  "isbn":0.0,
+  "name":"Slaughter-House Five",
+  "uuid":"4734d49a-298f-4df0-93d9-b43f9459a8fb",
+  "public":true,
+  "publication date":"1\/1\/1973",
+  "comments":[
+      {
+      "commenter":"klmprt",
+      "date":"2014-05-19T13:58:49+0000",
+      "comment":"Book comment"
+      },
+      {
+      "commenter":"pete",
+      "date":"2014-05-20T16:32:37+0000",
+      "comment":"Book comment from a different user."
+      }]
+  },
+  {
+  "tags":["product-tag"],
+  "liked":false,
+  "notebooks":["47307eb6-cd32-4544-9677-1ba276b54dd3"],
+  "image":"http:\/\/ecx.images-amazon.com\/images\/I\/21kxmYXoMTL.jpg",
+  "type":"Product",
+  "url":"http:\/\/www.pricegrabber.com\/\/search_getprod.php?masterid=892497873",
+  "modified":"2014-05-19T13:58:14+0000",
+  "category":"CE",
+  "price":"$69.00",
+  "created":"2014-05-19T13:58:04+0000",
+  "complete":false,
+  "manufacturer":"Apple Computer",
+  "description":"New MC184LLB",
+  "name":"Apple Wireless Keyboard MC184LL\/B [NEWEST VERSION]",
+  "uuid":"473d2eb9-28f7-4279-9806-1568a9282b9e",
+  "public":true,
+  "comments":[
+      {
+      "commenter":"klmprt",
+      "date":"2014-05-19T13:58:06+0000",
+      "comment":"I really do love this keyboard."
+      }]
+  },
+  {
+  "tags":["tasktag"],
+  "liked":false,
+  "notebooks":["47307eb6-cd32-4544-9677-1ba276b54dd3"],
+  "image":null,
+  "type":"Task",
+  "date":"2019-05-20T04:00:00+0000",
+  "modified":"2014-05-19T13:55:36+0000",
+  "created":"2014-05-19T13:55:11+0000",
+  "complete":false,
+  "description":"task due in the future",
+  "name":"task",
+  "uuid":"4732cae2-9bf6-48c7-8968-7a5ef2dd5a7d",
+  "public":true
+  },
+  {
+  "tags":["checklist-tag"],
+  "items":[
+      {
+      "complete":false,
+      "name":"cl item 1"
+      },
+      {
+      "complete":false,
+      "name":"cl item 2"
+      },
+      {
+      "complete":true,
+      "name":"cl item 3 (completed)"
+      },
+      {
+      "complete":false,
+      "name":"cl item 4"
+      }],
+  "complete":false,
+  "created":"2014-05-19T13:54:41+0000",
+  "liked":false,
+  "name":"checklist",
+  "notebooks":["47307eb6-cd32-4544-9677-1ba276b54dd3"],
+  "image":null,
+  "uuid":"473bef74-54ba-4b73-8ac7-5a44f966a495",
+  "public":true,
+  "type":"CheckList",
+  "modified":"2014-05-20T15:51:07+0000"
+  },
+  {
+  "tags":["note-body","note-with-url","note-tag"],
+  "text":"note body<br>www.google.com<br>end of note body",
+  "complete":false,
+  "created":"2014-05-19T13:54:13+0000",
+  "liked":false,
+  "name":"note title",
+  "notebooks":["47307eb6-cd32-4544-9677-1ba276b54dd3"],
+  "image":null,
+  "uuid":"47369ce3-b16e-4881-bb67-16d42c7cfa53",
+  "public":true,
+  "type":"Note",
+  "modified":"2014-05-19T13:56:23+0000"
+  },
+  {
+  "tags":[],
+  "created":"2014-05-19T13:54:09+0000",
+  "item count":29.0,
+  "liked":false,
+  "name":"Every Springpad Type!",
+  "image":null,
+  "uuid":"47307eb6-cd32-4544-9677-1ba276b54dd3",
+  "public":true,
+  "type":"Notebook",
+  "modified":"2014-05-20T17:58:16+0000"
+  },
+  {
+  "tags":[],
+  "created":"2014-03-17T22:08:53+0000",
+  "item count":3.0,
+  "liked":false,
+  "name":"Home Improvement",
+  "image":null,
+  "uuid":"473e67fb-e2a5-4952-bc2f-9c7a0ae1f6f0",
+  "public":false,
+  "type":"Notebook",
+  "modified":"2014-05-20T16:10:58+0000"
+  },
+  {
+  "tags":["recipe-notebook-tag"],
+  "created":"2014-03-12T17:07:40+0000",
+  "item count":5.0,
+  "liked":false,
+  "name":"Recipes",
+  "image":null,
+  "uuid":"47317160-1118-4a9a-83d9-8c3acfd4b8e7",
+  "public":true,
+  "type":"Notebook",
+  "modified":"2014-05-20T17:35:42+0000"
+  },
+  {
+  "tags":["place-tag"],
+  "liked":true,
+  "notebooks":["473c76db-e661-4c03-9b8e-bedaafd1cc62","47307eb6-cd32-4544-9677-1ba276b54dd3"],
+  "image":"http:\/\/mrtopp.com\/wp-content\/uploads\/2009\/11\/missile_defense.jpg",
+  "phone numbers":
+    {
+    "phone":"6172410266"
+    },
+  "type":"Business",
+  "url":"http:\/\/maps.google.com\/maps\/place?cid=7402363843766643634",
+  "modified":"2014-05-20T16:04:39+0000",
+  "created":"2014-02-05T18:33:32+0000",
+  "complete":true,
+  "name":"Sergeant Russell E",
+  "uuid":"4730f0c7-0190-467a-bbe5-eaf2c21e6540",
+  "rating":4.0,
+  "addresses":
+    {
+    "address":"1 Thompson Sq Ste 105, Charlestown, MA 02129"
+    },
+  "public":true,
+  "comments":[
+      {
+      "commenter":"klmprt",
+      "date":"2014-05-20T16:04:36+0000",
+      "comment":"A short review of this wonderful tavern."
+      },
+      {
+      "commenter":"klmprt",
+      "date":"2014-05-19T13:57:20+0000",
+      "comment":"Place comment"
+      }]
+  },
+  {
+  "tags":[],
+  "liked":false,
+  "notebooks":["473c76db-e661-4c03-9b8e-bedaafd1cc62"],
+  "image":"http:\/\/cdn1.nflximg.net\/images\/7903\/2527903.jpg",
+  "type":"TV Show",
+  "modified":"2014-02-05T18:33:31+0000",
+  "plot":"From the creator of \"Weeds\" comes a heartbreaking and hilarious new series set in a women's prison. Piper trades her comfortable life for an orange jumpsuit and finds unexpected conflict and camaraderie amidst an eccentric group of inmates.",
+  "cast":["Taylor Schilling","Jason Biggs","Laura Prepon","Kate Mulgrew","Danielle Brooks","Pablo Schreiber","Natasha Lyonne","Uzo Aduba","Taryn Manning","Laverne Cox","Yael Stone","Samira Wiley","Dascha Polanco","Matt McGorry","Elizabeth Rodriguez","Selenis Leyva"],
+  "created":"2014-02-05T18:33:31+0000",
+  "complete":false,
+  "name":"Orange Is the New Black",
+  "uuid":"4736fb88-c2b0-4ecf-8063-ecf09f11d955",
+  "public":false
+  },
+  {
+  "tags":[],
+  "liked":false,
+  "notebooks":["473c76db-e661-4c03-9b8e-bedaafd1cc62"],
+  "image":"http:\/\/ecx.images-amazon.com\/images\/I\/21DDZH2NCRL.jpg",
+  "type":"Book",
+  "modified":"2014-02-05T18:33:31+0000",
+  "author":"Mark Watts",
+  "created":"2014-02-05T18:33:31+0000",
+  "complete":false,
+  "description":"<DIV>Who am I? Why am I here?  What is the nature of the world around me?<BR>Alan Watts (1915 \u2013 1973)\u2014noted professor, graduate-school dean, Harvard University research fellow, and Episcopal priest\u2014examines these fundamental questions from a Taoist perspective, learning to appreciate not just the bowl but the empty space within it.  With down-to-earth writing he reveals our direct connection to the natural world and reminds us that we are not so much born into this world as grown out of it. This collection of eight of Watts' unique philosophical essays and an early piece written in 1953 has a brief introduction by Alan's son, Mark Watts, which gives the background of these pieces and  their place in Alan Watts' life and work.<BR><\/div>",
+  "isbn":"0804830525",
+  "name":"Tao of Philosophy (Alan Watts Love of Wisdom)",
+  "uuid":"473f00e3-9148-4782-9154-3a35911dab4c",
+  "public":false,
+  "publication date":"7\/15\/1995"
+  },
+  {
+  "tags":["movie-tag"],
+  "release date":"6\/30\/2006",
+  "videos":["https:\/\/www.youtube.com\/v\/cTUfeNzhrLA?version=3&f=videos&app=youtube_gdata","http:\/\/a1145.v.phobos.apple.com\/us\/r1000\/034\/Video\/db\/3f\/28\/mzm.srzhacyv..640x366.h264lc.d2.p.m4v"],
+  "liked":false,
+  "notebooks":["47376d48-7209-4276-a102-b0bfc9f92402","47307eb6-cd32-4544-9677-1ba276b54dd3"],
+  "image":"http:\/\/cdn-9.nflximg.com\/us\/boxshots\/ghd\/70044889.jpg",
+  "type":"Movie",
+  "plot":"After taking a job in the Big Apple as assistant to powerful fashion magazine editor Miranda Priestly, small-town girl Andrea is thrilled, until the magic wears off. She's left feeling battered, used and wondering whether the hard work will pay off.",
+  "modified":"2014-05-20T17:35:40+0000",
+  "cast":["Anne Hathaway","Meryl Streep","Adrian Grenier","Simon Baker","Tracie Thoms","Emily Blunt","Jaclynn Tiffany Brown","Rebecca Mader","Stanley Tucci"],
+  "created":"2014-02-05T16:10:51+0000",
+  "complete":false,
+  "description":"The Devil Wears Prada is a 2006 comedy-drama film, a loose screen adaptation of Lauren Weisberger's 2003 novel of the same name. It stars Anne Hathaway as Andrea Sachs, a recent college graduate who goes to New York City and gets a job as a co-assistant to powerful and demanding fashion magazine editor Miranda Priestly, played by Meryl Streep. Emily Blunt and Stanley Tucci co-star in support of the two leads, as catty co-assistant Emily Charlton, and critical yet supportive Art Director Nigel, respectively. Adrian Grenier, Simon Baker and Tracie Thoms play key supporting roles. Wendy Finerman produced and David Frankel directed; the film was distributed by 20th Century Fox.",
+  "name":"The Devil Wears Prada",
+  "writers":["Aline Brosh McKenna (screenplay)","Lauren Weisberger (novel)"],
+  "uuid":"473ec180-60e3-4f49-8407-54217930932c",
+  "rated":"PG-13",
+  "directors":["David Frankel"],
+  "public":true,
+  "comments":[
+      {
+      "commenter":"klmprt",
+      "date":"2014-05-19T13:58:27+0000",
+      "comment":"Comment on a movie"
+      }]
+  },
+  {
+  "tags":[],
+  "liked":false,
+  "notebooks":["47376d48-7209-4276-a102-b0bfc9f92402"],
+  "image":"http:\/\/cdn-9.nflximg.com\/us\/boxshots\/ghd\/594689.jpg",
+  "type":"Movie",
+  "plot":"Sarah Jessica Parker, Bette Midler and Kathy Najimy star in this supernatural family comedy as a trio of 17th-century sibling witches who are accidentally resurrected in the 20th century by teenager Max.",
+  "modified":"2014-02-05T16:10:47+0000",
+  "cast":["Bette Midler","Sarah Jessica Parker","Kathy Najimy","Thora Birch","Omri Katz","Vinessa Shaw"],
+  "created":"2014-02-05T16:10:46+0000",
+  "complete":false,
+  "description":"Hocus Pocus is a 1993 Halloween-themed fantasy\/comedy film that was released by Disney and directed by Kenny Ortega. The film tells the story of a Halloween-hating teenager named Max, who inadvertently resurrects three witches, The Sanderson Sisters, from their temporary death and must risk his life to protect his sister and defeat them with the help of a classmate crush and an immortal black cat.PlotThe film starts in 1693 in Salem, Massachusetts, with teenaged Zachary Binx being awoken by an old woman passing his window and then comes to realize that his younger sister, Emily, is missing. After investigating outside he sees Emily being lured towards the nearby woods by the woman. After chasing her, Binx comes across a cottage. He secretly enters the building to find his sister being surrounded by three witch sisters, Winifred, Sarah, and Mary Sanderson. However, he has arrived too late to find that the sisters have absorbed the life force out of the young girl, resulting in the once old women becoming younger again. Losing in a scuffle with the three witches, and as punishment, Thackery is turned into a black cat doomed to live forever with the guilt of not being able to save his sister, which amuses the witches. Their games end suddenly when the local townspeople, led by Binx's parents, apprehend the three women and hang them for their crimes. Before they die however, Winnie vows that they will return on a Halloween night after being awoken from death by a virgin.Fast forward to Halloween 1993, exactly 300 years later. Max Dennison is a teenager who has been forced to move away with his family from his beloved hometown of Los Angeles, California to Salem. Having just heard the story of the witches, a story that everyone in the town knows and loves, he shows he is less than impressed with it and the holiday itself. His younger sister, Dani, on the other hand, isn't having nearly as hard a time coping as her brother and is getting ready for a night of trick or treating.",
+  "name":"Hocus Pocus",
+  "uuid":"47319172-a7de-41ea-a0d4-b16613fba45f",
+  "rated":"PG",
+  "directors":["Kenny Ortega"],
+  "public":false,
+  "producers":["Steven Haft and David Kirschner"]
+  },
+  {
+  "tags":[],
+  "liked":false,
+  "notebooks":["4733205d-1cdc-41d6-a74f-4aa3f1281e4b","47317160-1118-4a9a-83d9-8c3acfd4b8e7"],
+  "image":"http:\/\/img.foodnetwork.com\/FOOD\/2006\/12\/06\/ig0802_pumpkin1.jpg",
+  "type":"Recipe",
+  "modified":"2014-05-20T17:33:55+0000",
+  "ingredients":"1\/4 cup dark rum\n1 packet (2 teaspoons) unflavored gelatin powder\n1 (15-ounce can) pumpkin (not pie filling)\n1\/2 cup granulated sugar\n1\/2 cup light brown sugar, lightly packed\n2 extra-large egg yolks\n2 teaspoons grated orange zest\n1\/2 teaspoon ground cinnamon\n1\/4 teaspoon ground nutmeg\n1\/2 teaspoon kosher salt\n1 1\/2 cups cold heavy cream\n1 1\/2 teaspoons pure vanilla extract\nSweetened whipped cream\n8 to 10 chopped ginger cookies\nCrystallized ginger, for decoration, optional",
+  "directions":"*Place the rum in a heat-proof bowl and sprinkle the gelatin over it. Set aside for 10 minutes for the gelatin to soften.  \n*In a large bowl, whisk together the pumpkin, granulated sugar, brown sugar, egg yolks, orange zest, cinnamon, nutmeg, and salt. Set the bowl of gelatin over a pan of simmering water and cook until the gelatin is clear. Immediately whisk the hot gelatin mixture into the pumpkin mixture. In the bowl of an electric mixer fitted with a whisk attachment, whip the heavy cream and vanilla until soft peaks form. Fold the whipped cream into the pumpkin mixture.  \n*To assemble, spoon some of the pumpkin mixture into parfait glasses, add a layer of whipped cream, then some chopped cookies. Repeat, ending with a third layer of pumpkin. Cover with plastic wrap and refrigerate for 4 hours or overnight. To serve, decorate with whipped cream and slivered crystallized ginger.",
+  "source":"http:\/\/www.foodnetwork.com\/recipes\/ina-garten\/pumpkin-mousse-parfaits-recipe\/index.html",
+  "created":"2014-02-05T14:31:49+0000",
+  "complete":false,
+  "name":"Pumpkin Mousse Parfaits",
+  "uuid":"4734d41b-4fab-448e-97fa-9382644be2fc",
+  "public":true
+  },
+  {
+  "main ingredient":"Fruit",
+  "tags":["recipe-tag"],
+  "cuisine":"Tex-Mex",
+  "liked":true,
+  "notebooks":["4733205d-1cdc-41d6-a74f-4aa3f1281e4b","47307eb6-cd32-4544-9677-1ba276b54dd3"],
+  "image":"http:\/\/www.epicurious.com\/images\/recipesmenus\/2011\/2011_july\/366454.jpg",
+  "type":"Recipe",
+  "url":"http:\/\/www.epicurious.com\/recipes\/food\/views\/Spicy-Grapefruit-Margarita-366454",
+  "modified":"2014-05-20T16:05:53+0000",
+  "directions":"1. Mix tequila and chiles in a large pitcher. Let steep 3 hours, or longer if a spicier tequila is desired. Discard chiles. DO AHEAD: Can be made 1 month ahead. Cover; chill.\n\n2. Pour enough water onto a small plate to cover. Pour enough salt onto another small plate to cover by 1\/4\". Dip rims of eight 12-ounce glasses into water, then into salt to lightly coat; fill with ice. Add grapefruit juice to pitcher with tequila. Fill with ice; stir until cold. Divide drink among glasses.",
+  "ingredients":"2 cups plus 2 tablespoons tequila\n1-2 habanero chiles, halved\nKosher salt\n6 cups fresh pink grapefruit juice",
+  "course":"Breakfast",
+  "servings":"",
+  "source":"http:\/\/www.epicurious.com\/recipes\/food\/views\/Spicy-Grapefruit-Margarita-366454",
+  "created":"2014-02-05T14:31:42+0000",
+  "complete":true,
+  "name":"Spicy Grapefruit Margarita",
+  "uuid":"473781ba-1fb2-4e07-9b89-2419c499b014",
+  "rating":3.0,
+  "public":true,
+  "comments":[
+      {
+      "commenter":"klmprt",
+      "date":"2014-05-19T13:56:37+0000",
+      "comment":"Recipe comment"
+      },
+      {
+      "commenter":"klmprt",
+      "date":"2014-05-19T13:56:53+0000",
+      "comment":"Recipe comment 2"
+      },
+      {
+      "commenter":"klmprt",
+      "date":"2014-05-20T16:05:53+0000",
+      "comment":"Review of a recipe."
+      }]
+  },
+  {
+  "tags":[],
+  "created":"2014-02-05T14:31:15+0000",
+  "item count":2.0,
+  "liked":false,
+  "name":"TRecipes ",
+  "image":null,
+  "uuid":"4733205d-1cdc-41d6-a74f-4aa3f1281e4b",
+  "public":true,
+  "type":"Notebook",
+  "modified":"2014-05-20T17:58:26+0000"
+  },
+  {
+  "tags":[],
+  "items":[
+      {
+      "complete":false,
+      "name":"Install the app on your iPhone, iPad or Android device"
+      },
+      {
+      "complete":false,
+      "name":"Save something from another website with the web clipper"
+      },
+      {
+      "complete":false,
+      "name":"Create a notebook for an upcoming project"
+      },
+      {
+      "complete":false,
+      "name":"Add a note or a task for something you need to get done"
+      },
+      {
+      "complete":false,
+      "name":"Add a movie or a book you want to check out"
+      }],
+  "complete":false,
+  "created":"2014-02-05T03:50:56+0000",
+  "liked":false,
+  "name":"Things to try on Springpad",
+  "notebooks":["47373487-fd4f-403c-9ce7-325ca6c15ec7"],
+  "image":null,
+  "uuid":"47361495-3880-45ad-9d56-1fc133982e07",
+  "public":false,
+  "type":"CheckList",
+  "modified":"2014-02-05T03:50:56+0000"
+  },
+  {
+  "tags":[],
+  "text":"<b>Every day life, done better. <\/b> Springpad is the best way to save things you want to remember and organize them into notebooks for yourself or to share.<br><br><b>Try all the apps:<\/b><br>Web: http:\/\/springpad.com<br>iPhone\/iPad: <a href=\"https:\/\/itunes.apple.com\/us\/app\/springpad\/id360116898\">Download here<\/a><br>Android: <a href=\"https:\/\/play.google.com\/store\/apps\/details?id=com.springpad\">Download here<\/a><br>Install the web clipper: <a href=\"https:\/\/springpad.com\/resources\/\">Instructions here<\/a><br>Get the Chrome browser extension: <a href=\"https:\/\/chrome.google.com\/webstore\/detail\/springpad-clipper\/eclcnlepmfepnccogfjdafhhlgcfdmnj?hl=en\">Install here<\/a><br><br><b>Get in touch:<\/b><br>Contact the team on <a href=\"https:\/\/www.facebook.com\/springpad\">Facebook<\/a>, <a href=\"https:\/\/www.twitter.com\/springpad\">Twitter<\/a>, or <a href=\"https:\/\/plus.google.com\/+Springpad\/\">G+<\/a><br><br><b>Tips &amp; Features:<\/b><br><a href=\"http:\/\/springpad.com\/blog\">Springpad Blog<\/a><br><br><b>Get Help:<\/b><br>Send us an email at feedback@springpad.com<br><a href=\"http:\/\/springpad.com\/support\">User Support and FAQ<\/a><br><br><b>Find inspiration:<\/b><br><a href=\"http:\/\/springpad.com\/#!\/SpringpadTeam\">Check out these sample notebook ideas<\/a><br><br>",
+  "complete":false,
+  "created":"2014-02-05T03:50:56+0000",
+  "liked":false,
+  "name":"Learn more about Springpad",
+  "notebooks":["47373487-fd4f-403c-9ce7-325ca6c15ec7"],
+  "image":null,
+  "uuid":"4731f3d9-8f82-4e7b-be80-03e14a095a7b",
+  "public":false,
+  "type":"Note",
+  "modified":"2014-02-05T03:50:56+0000"
+  },
+  {
+  "tags":[],
+  "videos":["https:\/\/www.youtube.com\/v\/qj0E6w81nb8?version=3&f=videos&app=youtube_gdata"],
+  "liked":false,
+  "notebooks":["47373487-fd4f-403c-9ce7-325ca6c15ec7"],
+  "image":"https:\/\/i1.ytimg.com\/vi\/qj0E6w81nb8\/0.jpg",
+  "type":"Video",
+  "url":"https:\/\/www.youtube.com\/watch?v=qj0E6w81nb8&feature=youtube_gdata_player",
+  "modified":"2014-02-05T03:50:56+0000",
+  "created":"2014-02-05T03:50:56+0000",
+  "complete":false,
+  "description":"Springpad is your free, easy-to-use personal assistant app that helps you not only remember what's important to you, but also get things done. Visit www.springpad.com for more.",
+  "name":"What is Springpad? (video)",
+  "uuid":"4734040b-4a28-4295-a377-8e9d2e154bed",
+  "public":false
+  },
+  {
+  "tags":[],
+  "created":"2014-02-05T03:50:55+0000",
+  "item count":3.0,
+  "liked":false,
+  "name":"My First Notebook",
+  "image":null,
+  "uuid":"47373487-fd4f-403c-9ce7-325ca6c15ec7",
+  "public":false,
+  "type":"Notebook",
+  "modified":"2014-05-20T18:06:03+0000"
+  }]

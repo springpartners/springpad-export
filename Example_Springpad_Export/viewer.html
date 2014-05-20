@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Springpad Export</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge;chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+
+  <link rel="stylesheet" type="text/css" href="./viewer_data/css/normalize.css">
+  <link rel="stylesheet" type="text/css" href="./viewer_data/css/styles.css">
+</head>
+<body class="-loading">
+
+  <header><h1>Springpad</h1></header>  
+  <section class="-loading-text">Loading...</section>
+  <template id="app-view">
+    <main class="-pages-false -filters-false">
+      <header class="filters">
+        <h2>My Stuff</h2>
+        <aside>
+          <section>
+            <label>Notebook</label>
+            <select data-on-change="setFilter" name="notebook"><option value="">All</option></select>
+          </section>
+          <section>
+            <label>Type</label>
+            <select data-on-change="setFilter" name="type"><option value="">All</option></select>
+          </section>
+          <section>
+            <label>Tag</label>
+            <select data-on-change="setFilter" name="tag"><option value="">All</option></select>
+          </section>
+          <section>
+            <label>Search</label>
+            <input data-on-enter="setFilter" data-on-blur="setFilter" name="text" placeholder="Search titles..." />
+          </section>
+        </aside>
+      </header>
+      <tpl template="filter-info"></tpl>
+      <ul class="block-list"></ul>
+      <tpl template="filter-info"></tpl>
+    </main>
+  </template>
+
+  <template id="page-item">
+    <option data-bind="label:text value:value"></option>
+  </template>
+
+  <template id="filter-info">
+    <section class="filter-info">
+      <p class="filter-text"><span data-bind="filter-text"></span> <span class="link -when-filters-true" data-on-click="clearFilters">Clear filters</span></p>
+      <nav class="pages">
+        <section class="-when-pages-true">
+          Pages: 
+          <button class="-when-previous-page-true" data-on-click="previousPage">&lt;</button>
+          <select data-bind="pages" data-bind-pages="tpl:page-item" data-on-change="selectPage"></select>
+          <!--of <span data-bind="total-pages"></span>-->
+          <button class="-when-next-page-true" data-on-click="nextPage">&gt;</button>
+        </section>
+      </nav>
+    </section>
+  </template>
+
+
+  <template id="block-list-item">
+    <li class="block-header-data" data-bind="uuid:data-uuid" data-on-click="showBlock">
+      <tpl template="_block-list-data"></tpl>
+    </li>
+  </template>
+
+  <template id="tag">
+    <span></span>
+  </template>
+
+  <script type="text/x-tpl" id="block-data-row">
+    <!-- has to be a script tag b/c of older browsers and table rows -->
+    <tr data-bind="label:data-row">
+      <td data-bind="label"></td>
+      <td data-bind="value"></td>
+    </tr>
+  </script>
+
+  <template id="_block-list-data">
+    <aside class="image" data-bind="image:style:background-image"></aside>
+    <h3>
+      <span class="block-icon" data-bind="_type-classname:class type:title"></span>
+      <span data-bind="_markup-name"></span>
+    </h3>
+    <footer>
+      <section>
+        <span data-bind="subtitle"></span>
+        <div class="tags" data-bind="tags:tpl:tag"></div>
+      </section>
+      <section>
+        <aside class="ratings">
+          <ul class="star-rating -when-rating-true" data-bind="rating:data-rating"><li></li><li></li><li></li><li></li><li></li></ul>
+          <span class="-complete -when-complete-false">ToDo</span>
+          <span class="-complete -when-complete-true">Done</span>
+          <img class="-when-liked-true" src="./viewer_data/media/heart.png" title="liked" />
+          <img class="-when-private-true" src="./viewer_data/media/lock.png" title="private" />
+          <!-- <img class="-when-private-false" src="./viewer_data/media/unlock.png" title="public" /> -->
+        </aside>
+      </section>
+    </footer>
+  </template>
+
+  <template id="block-data-checklist-item">
+    <div class="item-row">
+      <input type="checkbox" disabled data-bind="complete:checked" />
+      <label data-bind="name"></label>
+    </div>
+  </template>
+
+  <template id="block-data-attachment-item">
+    <li class="attachment-row" data-bind="value"></li>
+  </template>
+
+  <template id="block-data-comment-item">
+    <li class="comment-row">
+      <p data-bind="comment"></p>
+      <footer>
+        by <span data-bind="commenter"></span>, <span data-bind="date"></span>
+      </footer>
+    </li>
+  </template>
+
+  <template id="block-fpv">
+    <section class="block-fpv" data-bind="uuid:data-uuid">
+      <section>
+        <header class="block-header-data">
+          <tpl template="_block-list-data"></tpl>
+          <button data-on-click="destroy">Close</button>
+        </header>
+        <main>
+          <table class="block-data"></table>
+        </main>
+      </section>
+    </section>
+  </template>
+
+  <script src="./viewer_data/js/mootools.js"></script>
+  <script src="./viewer_data/js/mooveestar.js"></script>
+  <script src="./viewer_data/js/app.js"></script>
+</body>
+</html>
