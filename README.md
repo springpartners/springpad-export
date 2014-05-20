@@ -1,7 +1,7 @@
 Working with Springpad User Exports
 ===================================
 
-It's with the deepest regret that we're announcing Springpad shutting down. It's been our pleasure to serve our users over the past
+It's with the deepest regret that we're announcing Springpad shutting down. It's been a pleasure to serve our users over the past
 6 years and to work with many of you in the developer community. As we plan for the termination of the service, we are committed to
 enabling users to get their data and to help provide them options for importing it into other services.
 
