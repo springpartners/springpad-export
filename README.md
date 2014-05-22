@@ -17,6 +17,7 @@ Contents
 
 - [Contents of the Export Archive](#contents)
 - [JSON Export Format](#json-format)
+- [Creating an importer: Case study](#case-study-importer)
 
 
 <a name="contents"/>
@@ -376,7 +377,7 @@ Examples:
     "repeat every":4,
     "repeats":"Monthly By Day Of Week",
     "type":"Frequency"
-}
+}v
 ```
 
 ```json
@@ -440,3 +441,42 @@ Examples:
     "type":"Frequency"
 }
 ```
+
+## Case study
+
+<a name="case-study-importer"/>
+### Creating an importer
+
+Included in this repository under Example_Springpad_Export is a sample dataset that demonstrates a number of different Springpad types and permutations of data properties. Using this sample is a great starting point for those who wish to build an importer for Springpad users’ data. The contents of each export archive are discussed above; this section describes the steps a developer may take to start building an importer.
+
+### Aligning with Springpad data
+
+For the purposes of this document, let’s assume that a fictional productivity website, foo-organize.com, will be building an importer. Foo-organize provides a productivity functionality (notes, checklists, reminders) alongside a bookmarking + web-scraping service. Not all Springpad data is appropriate to their app, but most data will be  transferrable with a bit of creativity. The steps below are merely illustrative, but may serve to highlight some high-level considerations you should make when building an importer.
+
+Generally, Springpad’s objects can be divided into two general buckets; productivity types (notes, checklists, reminders, events) and reference types (bookmarks, recipes, products, etc). Many instances of reference types will have a URL as a source, making them candidates for data imports into bookmarking services.
+
+**Step 0:** Foo-organize reads about the Springpad’s data model and export contents. It’s determined that both productivity types and reference types can be imported, with only a small loss of data.
+
+### Upload
+
+Before using a third-party importing service, Springpad users will be required to have downloaded a `.zip` archive containing the contents of their export. An importing service should provide a mechanism for users to upload the entire zip, although certain applications may wish to only use the contents of `export.json`. 
+
+**Step 1:** Foo-organize builds a mechanism for uploading Springpad export archives
+
+### Pre-processing
+
+As described earlier in this document, the contents of `export.json` contain all objects in a user’s Springpad account. The organizational methodology of Springpad is that objects can be either organized in one or more Notebooks (which themselves are an object) or be un-filed (no notebook membership).
+
+**Step 2:** Foo-organize first scans `export.json` for objects of type `notebook` to come up with a set of Notebooks that can be referenced later.
+
+### Munging and Wrangling the objects
+
+Springpad’s data model is unlikely to have a one-to-one relationship with those of other services, but with a bit of creativity it’s possible to retain most (or all) of a user’s data. 
+
+**Step 3:** Foo-organize is hierarchically flat, and uses tagging as an organizational methodology — in other words, there are no folders or notebooks. To reconcile this difference, the importer’s UI lets users opt-in to tag items contained within a Springpad notebook with the name of the notebook. E.g. if user `kyle` has a notebook named `sports` with 10 bookmarks, each bookmark will be tagged with `sports` in addition to its pre-existing tags during import. Un-filed items will likewise be tagged with `unfiled`.
+
+Some data types of Springpad may not be directly transferrable to other services. In this case, it may be prudent to allow the user to choose which types and/or notebooks to import, and also to provide a mechanism for preserving data when possible by using other types as containers for data that the user may still wish to access.
+
+**Step 4:** Foo-organize’s importer concatenates the data fields of types it doesn’t support, like `Contact` and `Wine` into a string that is saved as a note. 
+
+**Step 5:** The service, upon completion, notifies users of any data field, attachments, and/or objects that were unable to be imported.
