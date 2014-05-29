@@ -182,6 +182,10 @@
             value.appendChild(frag);
           }
 
+          if(label === 'Links'){
+            value = Array.from(value||[]).map(function(item){ return '<a href="'+item.url+'" target="_blank">'+(item.title || item.url)+'</a>';});
+          }
+
           if(/^\d{4}\-\d{2}\-\d{2}T\d{2}:\d{2}:\d{2}/.test(String(value)))
             value = new Date().setFromIso(value).format();
 
@@ -223,6 +227,8 @@
     toJSON: function(){
       var data = this.parent();
       data['_markup-name'] = data.name;
+      if(!data.type)
+        data.type = 'Object';
       if(data.type === 'Task')
         data['_markup-name'] = '<input type="checkbox" '+(data.complete ? 'checked':'')+' disabled /> '+ data['_markup-name'];
       data['_type-classname'] = '-'+data.type.replace(/[\s-_]*/g, '').toLowerCase();
