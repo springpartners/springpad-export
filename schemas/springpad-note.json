@@ -1,0 +1,11 @@
+{
+  "title": "Springpad Note",
+  "type": "object",
+  "extends": "springpad-object",
+  "properties": {
+    "text": {
+      "type": "string",
+      "description": "The contents of the note (may be HTML-formatted)"
+    }
+  }
+}
