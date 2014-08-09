@@ -1,0 +1,123 @@
+{
+  "title": "Springpad Object",
+  "type": "object",
+  "properties": {
+    "uuid": {
+      "type": "string",
+      "description": "A unique ID ( UUID regex from http://regex101.com/r/eJ7gN2 )",
+      "minLength": 36,
+      "maxLength": 36,
+      "pattern": "^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}$"
+    },
+    "name": {
+      "type": "string",
+      "description": "Name or title of the object"
+    },
+    "type": {
+      "type": "string",
+      "description": "Type of the object",
+      "enum": [
+        "Note",
+        "Task",
+        "Appointment",
+        "Reminder",
+        "Bookmark",
+        "Checklist",
+        "Contact",
+        "File",
+        "Photo",
+        "Audio",
+        "Place",
+        "Product",
+        "Book",
+        "TV Show",
+        "Movie",
+        "Wine",
+        "Album",
+        "Musician/Band",
+        "Recipe",
+        "Notebook",
+        "Frequency"
+      ]
+    },
+    "public": {
+      "type": "boolean",
+      "description": "Is this public or not?"
+    },
+    "liked": {
+      "type": "boolean",
+      "description": "Did the user mark this liked?"
+    },
+    "rating": {
+      "type": "integer",
+      "description": "Rating of the object (0-5)",
+      "minimum": 0,
+      "maximum": 5
+    },
+    "complete": {
+      "type": "boolean",
+      "description": "Springpad objects can be marked complete (e.g., is the task done? has the movie been watched?)"
+    },
+    "tags": {
+      "type": "array",
+      "description": "List of tags",
+      "uniqueItems": true,
+      "items": {
+        "type": "string"
+      }
+    },
+    "notebooks": {
+      "type": "array",
+      "description": "List of notebook IDs that this object is in. The notebooks are defined in export.json file as well.",
+      "uniqueItems": true,
+      "items": {
+        "title": "uuid",
+        "description": "Notebook UUID (regex from http://regex101.com/r/eJ7gN2 )",
+        "type": "string",
+        "minLength": 36,
+        "maxLength": 36,
+        "pattern": "^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}$"
+      }
+    },
+    "image": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Representative image for the object. Can be null",
+      "format": "uri"
+    },
+    "created": {
+      "type": "string",
+      "description": "Creation date",
+      "format": "date-time"
+    },
+    "modified": {
+      "type": "string",
+      "description": "Modified date",
+      "format": "date-time"
+    },
+    "description": {
+      "type": "string",
+      "description": "Description or summary"
+    },
+    "url": {
+      "type": "string",
+      "description": "URL for the object. In the case of a block that was scraped, the URL it was scraped from.",
+      "format": "uri"
+    }
+  },
+  "required": [
+    "uuid",
+    "name",
+    "type",
+    "public",
+    "liked",
+    "complete",
+    "tags",
+    "notebooks",
+    "image",
+    "created",
+    "modified"
+  ]
+}
